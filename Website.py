@@ -49,9 +49,8 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent
 
-DATA_DIR = PROJECT_ROOT / "Data"
-READY_DIR = DATA_DIR
-
+DATA_DIR = PROJECT_ROOT
+READY_DIR = PROJECT_ROOT
 OUT_DIR = PROJECT_ROOT / "_graph_html"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
