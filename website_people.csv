@@ -1,0 +1,992 @@
+﻿person_id,display_name,list_label,full_names,father,grandfather,roles,years,event_count,event_types,places,source_entries,evidence_preview,profile_text
+person_aed_son_of_colgu,Aed,Aed — son of Colgu (610),Aed,Colgu,,victim,610,1,death,,U610.1,"Death of Aed son of Colgu, king of Ind Airthir","Name: Aed
+Full record: Aed
+Role: victim
+Year(s): 610
+Event type(s): death
+Source entry: U610.1
+Evidence: Death of Aed son of Colgu, king of Ind Airthir"
+person_aed_son_of_dluthach_son_of_ailill,Aed,Aed — son of Dlúthach (695),Aed son of Dlúthach son of Ailill son of Aed Sláine,Dlúthach,Ailill,agent/killer,695,1,slaying,Grellach Dollaig,U695.1,"Fínnechta, king of Temair, and Bresal his son, were killed in Grellach Dollaig by Aed son of Dlúthach son of Ailill son of Aed Sláine, and by Congalach son of Conaing son of Congal son of Aed Sláine","Name: Aed
+Full record: Aed son of Dlúthach son of Ailill son of Aed Sláine
+Role: agent/killer
+Year(s): 695
+Event type(s): slaying
+Place(s): Grellach Dollaig
+Source entry: U695.1
+Evidence: Fínnechta, king of Temair, and Bresal his son, were killed in Grellach Dollaig by Aed son of Dlúthach son of Ailill son of Aed Sláine, and by Congalach son of Conaing son of Congal son of Aed Sláine"
+person_aed,Aed,Aed (700),Aed,,,victim,700,1,repose,,U700.2,"Repose of Aed, an anchorite from Sleibte","Name: Aed
+Full record: Aed
+Role: victim
+Year(s): 700
+Event type(s): repose
+Source entry: U700.2
+Evidence: Repose of Aed, an anchorite from Sleibte"
+person_aed_allan_son_of_domnall,Aed Allán,Aed Allán — son of Domnall (612),Aed Allán,Domnall,,victim,612,1,death,,U612.1,"Death of Aed Allán son of Domnall, king of Temair","Name: Aed Allán
+Full record: Aed Allán
+Role: victim
+Year(s): 612
+Event type(s): death
+Source entry: U612.1
+Evidence: Death of Aed Allán son of Domnall, king of Temair"
+person_aed_bennan_and_of_fingein_son_of_fiachra,Aed Bennán and of Fíngein,Aed Bennán and of Fíngein — son of Fiachra (619),Aed Bennán and of Fíngein,Fiachra,,victim,619,1,death,,U619.3,Death of Aed Bennán and of Fíngein son of Fiachra,"Name: Aed Bennán and of Fíngein
+Full record: Aed Bennán and of Fíngein
+Role: victim
+Year(s): 619
+Event type(s): death
+Source entry: U619.3
+Evidence: Death of Aed Bennán and of Fíngein son of Fiachra"
+person_aed_ron,Aed Rón,Aed Rón (604),Aed Rón,,,victim,604,2,slaying,Faithche Meic Meccnaen,U604.3,"The slaying of Aed Rón, king of Uí Failge, in Faithche Meic Meccnaen on the brink of Loch Semdid on the same day on which Áed Sláine was slain","Name: Aed Rón
+Full record: Aed Rón
+Role: victim
+Year(s): 604
+Event type(s): slaying
+Place(s): Faithche Meic Meccnaen
+Source entry: U604.3
+Evidence: The slaying of Aed Rón, king of Uí Failge, in Faithche Meic Meccnaen on the brink of Loch Semdid on the same day on which Áed Sláine was slain"
+person_aed_ron_son_of_mael_cobo,Aed Rón,Aed Rón — son of Mael Cobo (654),Aed Rón,Mael Cobo,,victim,654,1,death,,U654.6,Death of Aed Rón son of Mael Cobo,"Name: Aed Rón
+Full record: Aed Rón
+Role: victim
+Year(s): 654
+Event type(s): death
+Source entry: U654.6
+Evidence: Death of Aed Rón son of Mael Cobo"
+person_aed_slaine,Aed Sláine,Aed Sláine (600),Aed Sláine,,,agent/killer,600,1,slaying,Brí Dam in the Suaine,U600.2,"The slaying of Suibne son of Colmán Mór son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Aed Sláine in Brí Dam in the Suaine, i.e. a stream","Name: Aed Sláine
+Full record: Aed Sláine
+Role: agent/killer
+Year(s): 600
+Event type(s): slaying
+Place(s): Brí Dam in the Suaine
+Source entry: U600.2
+Evidence: The slaying of Suibne son of Colmán Mór son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Aed Sláine in Brí Dam in the Suaine, i.e. a stream"
+person_aed_slaine_son_of_diarmait_derg_son_of_fergus_cerrbel,Aed Sláine,Aed Sláine — son of Diarmait Derg (604),Aed Sláine,Diarmait Derg,Fergus Cerrbél,victim,604,1,slaying,,U604.2,The slaying of Aed Sláine son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Conall son of Suibne,"Name: Aed Sláine
+Full record: Aed Sláine
+Role: victim
+Year(s): 604
+Event type(s): slaying
+Source entry: U604.2
+Evidence: The slaying of Aed Sláine son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Conall son of Suibne"
+person_aedlug_son_of_caman,Aedlug,Aedlug — son of Camán (652),Aedlug,Camán,,victim,652,1,repose,,U652.1,"and repose of Aedlug son of Camán, abbot of Cluain Moccu Nóis","Name: Aedlug
+Full record: Aedlug
+Role: victim
+Year(s): 652
+Event type(s): repose
+Source entry: U652.1
+Evidence: and repose of Aedlug son of Camán, abbot of Cluain Moccu Nóis"
+person_aedan_son_of_gabran_son_of_domangart,Aedán,Aedán — son of Gabrán (606),Aedán,Gabrán,Domangart,victim,606,1,death,,U606.2,"Death of Aedán son of Gabrán son of Domangart, king of Albu,","Name: Aedán
+Full record: Aedán
+Role: victim
+Year(s): 606
+Event type(s): death
+Source entry: U606.2
+Evidence: Death of Aedán son of Gabrán son of Domangart, king of Albu,"
+person_aedan,Aedán,Aedán (610),Aedán,,,victim,"610, 651",2,"death, repose",,"U610.2, U651.1","and the death of Aedán, anchorite of Bennchor,","Name: Aedán
+Full record: Aedán
+Role: victim
+Year(s): 610, 651
+Event type(s): death, repose
+Source entry: U610.2, U651.1
+Evidence: and the death of Aedán, anchorite of Bennchor,"
+person_aengus_son_of_colman,Aengus,Aengus — son of Colmán (612),Aengus son of Colmán,Colmán,,agent/killer,612,1,,,U612.2,"The battle of Odba, won by Aengus son of Colmán, in which fell Conall Laeg Breg son of Aed Sláine","Name: Aengus
+Full record: Aengus son of Colmán
+Role: agent/killer
+Year(s): 612
+Source entry: U612.2
+Evidence: The battle of Odba, won by Aengus son of Colmán, in which fell Conall Laeg Breg son of Aed Sláine"
+person_aengus_bronbachall,Aengus Bronbachall,Aengus Bronbachall (649),Aengus Bronbachall,,,victim,649,1,death,,U649.3,"Death of Aengus Bronbachall, king of Cenél Cairpri","Name: Aengus Bronbachall
+Full record: Aengus Bronbachall
+Role: victim
+Year(s): 649
+Event type(s): death
+Source entry: U649.3
+Evidence: Death of Aengus Bronbachall, king of Cenél Cairpri"
+person_ailill_son_of_aed_ron,Ailill,Ailill — son of Aed Rón (639),Ailill,Aed Rón,,victim,639,1,death,,U639.6,Death of Ailill son of Aed Rón,"Name: Ailill
+Full record: Ailill
+Role: victim
+Year(s): 639
+Event type(s): death
+Source entry: U639.6
+Evidence: Death of Ailill son of Aed Rón"
+person_ailill_flann_esa,Ailill Flann Esa,Ailill Flann Esa (666),Ailill Flann Esa,,,victim,666,1,death,,U666.1,"Death of Ailill Flann Esa, son of Domnall son of Aed son of Ainmire","Name: Ailill Flann Esa
+Full record: Ailill Flann Esa
+Role: victim
+Year(s): 666
+Event type(s): death
+Source entry: U666.1
+Evidence: Death of Ailill Flann Esa, son of Domnall son of Aed son of Ainmire"
+person_anfartach_descendant_of_mescan,Anfartach descendant of Mescán,Anfartach descendant of Mescán (618),Anfartach descendant of Mescán,,,agent/killer,618,1,slaying,,U618.2,"and the slaying of Fergus son of Colmán Mór i.e. by Anfartach descendant of Mescán, of the people of Blaitíne","Name: Anfartach descendant of Mescán
+Full record: Anfartach descendant of Mescán
+Role: agent/killer
+Year(s): 618
+Event type(s): slaying
+Source entry: U618.2
+Evidence: and the slaying of Fergus son of Colmán Mór i.e. by Anfartach descendant of Mescán, of the people of Blaitíne"
+person_banban_oscach_the_learned,Banbán Oscach (?) the learned,Banbán Oscach (?) the learned (686),Banbán Oscach (?) the learned,,,victim,686,1,death,,U686.4,Death of Banbán Oscach (?) the learned,"Name: Banbán Oscach (?) the learned
+Full record: Banbán Oscach (?) the learned
+Role: victim
+Year(s): 686
+Event type(s): death
+Source entry: U686.4
+Evidence: Death of Banbán Oscach (?) the learned"
+person_beoguin,Beóguin,Beóguin (606),Beóguin,,,victim,606,1,repose,,U606.1,"Repose of Beóguin, abbot of Bennchor","Name: Beóguin
+Full record: Beóguin
+Role: victim
+Year(s): 606
+Event type(s): repose
+Source entry: U606.1
+Evidence: Repose of Beóguin, abbot of Bennchor"
+person_blamac_son_of_mael_cobo,Blamac,Blamac — son of Mael Cobo (670),Blamac,Mael Cobo,,victim,670,1,death,,U670.3,"Death of Blamac son of Mael Cobo, and the killing of Cuanu son of Cellach","Name: Blamac
+Full record: Blamac
+Role: victim
+Year(s): 670
+Event type(s): death
+Source entry: U670.3
+Evidence: Death of Blamac son of Mael Cobo, and the killing of Cuanu son of Cellach"
+person_bran_son_of_conall_bec,Bran,Bran — son of Conall Bec (695),Bran,Conall Bec,,victim,695,1,death,,U695.5,Death of Bran son of Conall Bec,"Name: Bran
+Full record: Bran
+Role: victim
+Year(s): 695
+Event type(s): death
+Source entry: U695.5
+Evidence: Death of Bran son of Conall Bec"
+person_brandub,Brandub,Brandub (605),Brandub,,,victim,605,2,slaying,Damchluain,U605.2,He reigned 30 years in Laigin and was slain in the battle of Damchluain,"Name: Brandub
+Full record: Brandub
+Role: victim
+Year(s): 605
+Event type(s): slaying
+Place(s): Damchluain
+Source entry: U605.2
+Evidence: He reigned 30 years in Laigin and was slain in the battle of Damchluain"
+person_brandub_son_of_eochu_son_of_muiredach,Brandub,Brandub — son of Eochu (605),Brandub,Eochu,Muiredach,victim,605,1,slaying,,U605.2,"The slaying of Brandub, king of Laigin, by his own kindred in treachery","Name: Brandub
+Full record: Brandub
+Role: victim
+Year(s): 605
+Event type(s): slaying
+Source entry: U605.2
+Evidence: The slaying of Brandub, king of Laigin, by his own kindred in treachery"
+person_brectrid,Brectrid,Brectrid (698),Brectrid,,,agent/killer,698,1,,,U698.2,"A battle between the Saxons and the Picts, in which fell Bernith's son, called Brectrid","Name: Brectrid
+Full record: Brectrid
+Role: agent/killer
+Year(s): 698
+Source entry: U698.2
+Evidence: A battle between the Saxons and the Picts, in which fell Bernith's son, called Brectrid"
+person_bresal_son_of_sechnasach,Bresal,Bresal — son of Sechnasach (644),Bresal,Sechnasach,,victim,644,1,death,,U644.3,Death of Bresal son of Sechnasach,"Name: Bresal
+Full record: Bresal
+Role: victim
+Year(s): 644
+Event type(s): death
+Source entry: U644.3
+Evidence: Death of Bresal son of Sechnasach"
+person_bruide_son_of_foth,Bruide,Bruide — son of Foth (641),Bruide,Foth,,victim,641,1,death,,U641.2,Death of Bruide son of Foth,"Name: Bruide
+Full record: Bruide
+Role: victim
+Year(s): 641
+Event type(s): death
+Source entry: U641.2
+Evidence: Death of Bruide son of Foth"
+person_brenainn_son_of_cairpre_son_of_feichene,Brénainn,Brénainn — son of Cairpre (601),Brénainn,Cairpre,Feichéne,victim,601,1,death,,U601.2,Death of Brénainn son of Cairpre son of Feichéne,"Name: Brénainn
+Full record: Brénainn
+Role: victim
+Year(s): 601
+Event type(s): death
+Source entry: U601.2
+Evidence: Death of Brénainn son of Cairpre son of Feichéne"
+person_caemgein_of_glenn_da_locha_according_to_some,Caemgein of Glenn dá Locha according to some,Caemgein of Glenn dá Locha according to some (622),Caemgein of Glenn dá Locha according to some,,,victim,622,1,repose,,U622.5,Repose of Caemgein of Glenn dá Locha according to some,"Name: Caemgein of Glenn dá Locha according to some
+Full record: Caemgein of Glenn dá Locha according to some
+Role: victim
+Year(s): 622
+Event type(s): repose
+Source entry: U622.5
+Evidence: Repose of Caemgein of Glenn dá Locha according to some"
+person_st_cainnech,Cainnech,Cainnech (600),St Cainnech,,,victim,600,1,repose,,U600.1,"Repose of St Cainnech,","Name: Cainnech
+Full record: St Cainnech
+Role: victim
+Year(s): 600
+Event type(s): repose
+Source entry: U600.1
+Evidence: Repose of St Cainnech,"
+person_canu_son_of_gartnaid,Canu,Canu — son of Gartnaid (688),Canu,Gartnaid,,victim,688,1,slaying,,U688.2,The slaying of Canu son of Gartnaid,"Name: Canu
+Full record: Canu
+Role: victim
+Year(s): 688
+Event type(s): slaying
+Source entry: U688.2
+Evidence: The slaying of Canu son of Gartnaid"
+person_cathusach_son_of_domnall_brec,Cathusach,Cathusach — son of Domnall Brec (650),Cathusach,Domnall Brec,,victim,650,1,death,,U650.3,Death of Cathusach son of Domnall Brec,"Name: Cathusach
+Full record: Cathusach
+Role: victim
+Year(s): 650
+Event type(s): death
+Source entry: U650.3
+Evidence: Death of Cathusach son of Domnall Brec"
+person_cathusach,Cathusach,Cathusach (689),Cathusach,,,victim,689,1,death,,U689.4,"Death of Cathusach, grandson of Domnall Brec","Name: Cathusach
+Full record: Cathusach
+Role: victim
+Year(s): 689
+Event type(s): death
+Source entry: U689.4
+Evidence: Death of Cathusach, grandson of Domnall Brec"
+person_cellach_son_of_mael_cobo_and_of_cellach_son_of_saran_or_ronan,Cellach,Cellach — son of Mael Cobo and of Cellach (658),Cellach,Mael Cobo and of Cellach,Sárán or Rónán,victim,658,1,death,,U658.1,"Death of Cellach son of Mael Cobo and of Cellach son of Sárán or Rónán, and of Fiachra Telnán, and of Blathmac son of Rónán son of Colum","Name: Cellach
+Full record: Cellach
+Role: victim
+Year(s): 658
+Event type(s): death
+Source entry: U658.1
+Evidence: Death of Cellach son of Mael Cobo and of Cellach son of Sárán or Rónán, and of Fiachra Telnán, and of Blathmac son of Rónán son of Colum"
+person_cellach_son_of_guaire,Cellach,Cellach — son of Guaire (666),Cellach,Guaire,,victim,666,1,death,,U666.5,Death of Cellach son of Guaire,"Name: Cellach
+Full record: Cellach
+Role: victim
+Year(s): 666
+Event type(s): death
+Source entry: U666.5
+Evidence: Death of Cellach son of Guaire"
+person_cellcene_of_lothra,Cellcéne of Lothra,Cellcéne of Lothra (657),Cellcéne of Lothra,,,victim,657,1,death,,U657.4,Death of Cellcéne of Lothra,"Name: Cellcéne of Lothra
+Full record: Cellcéne of Lothra
+Role: victim
+Year(s): 657
+Event type(s): death
+Source entry: U657.4
+Evidence: Death of Cellcéne of Lothra"
+person_cernach_son_of_diarmait_son_of_aed_slaine,Cernach,Cernach — son of Diarmait (664),Cernach,Diarmait,Aed Sláine,victim,664,1,death,,U664.4,Death of Cernach son of Diarmait son of Aed Sláine son of Diarmait Cerrbél son of Conall of Cremthann,"Name: Cernach
+Full record: Cernach
+Role: victim
+Year(s): 664
+Event type(s): death
+Source entry: U664.4
+Evidence: Death of Cernach son of Diarmait son of Aed Sláine son of Diarmait Cerrbél son of Conall of Cremthann"
+person_cinaed_son_of_lugthreine,Cinaed,Cinaed — son of Lugthréine (631),Cinaed,Lugthréine,,victim,631,1,death,,U631.1,"The battle of Aille's son, and death of Cinaed son of Lugthréine, king of the Picts","Name: Cinaed
+Full record: Cinaed
+Role: victim
+Year(s): 631
+Event type(s): death
+Source entry: U631.1
+Evidence: The battle of Aille's son, and death of Cinaed son of Lugthréine, king of the Picts"
+person_colgu_son_of_suibne,Colgu,Colgu — son of Suibne (618),Colgu,Suibne,,victim,618,1,slaying,,U618.2,The slaying of Colgu son of Suibne,"Name: Colgu
+Full record: Colgu
+Role: victim
+Year(s): 618
+Event type(s): slaying
+Source entry: U618.2
+Evidence: The slaying of Colgu son of Suibne"
+person_colgu_son_of_cellach,Colgu,Colgu — son of Cellach (622),Colgu,Cellach,,victim,622,1,death,,U622.8,The death of Colgu son of Cellach,"Name: Colgu
+Full record: Colgu
+Role: victim
+Year(s): 622
+Event type(s): death
+Source entry: U622.8
+Evidence: The death of Colgu son of Cellach"
+person_colgu_son_of_failbe_flann,Colgu,Colgu — son of Failbe Flann (678),Colgu,Failbe Flann,,victim,678,1,death,,U678.1,"Death of Colgu son of Failbe Flann, king of Mumu","Name: Colgu
+Full record: Colgu
+Role: victim
+Year(s): 678
+Event type(s): death
+Source entry: U678.1
+Evidence: Death of Colgu son of Failbe Flann, king of Mumu"
+person_colman_rimid_son_of_baetan_brige_son_of_muirchertach_mac_erca,Colmán Rímid,Colmán Rímid — son of Baetán Bríge (604),Colmán Rímid,Baetán Bríge,Muirchertach Mac Erca,victim,604,1,slaying,,U604.1,The slaying of Colmán Rímid son of Baetán Bríge son of Muirchertach Mac Erca by a man of his own kindred i.e. by one of his kindred called Lochán Dilmana,"Name: Colmán Rímid
+Full record: Colmán Rímid
+Role: victim
+Year(s): 604
+Event type(s): slaying
+Source entry: U604.1
+Evidence: The slaying of Colmán Rímid son of Baetán Bríge son of Muirchertach Mac Erca by a man of his own kindred i.e. by one of his kindred called Lochán Dilmana"
+person_colman_uathach,Colmán Uathach,Colmán Uathach (613),Colmán Uathach,,,victim,613,1,death,,U613.2,Death of Colmán Uathach,"Name: Colmán Uathach
+Full record: Colmán Uathach
+Role: victim
+Year(s): 613
+Event type(s): death
+Source entry: U613.2
+Evidence: Death of Colmán Uathach"
+person_colman_of_lann_ela,Colmán of Lann Ela,Colmán of Lann Ela (611),Colmán of Lann Ela,,,victim,611,1,repose,,U611.3,Repose of Colmán of Lann Ela,"Name: Colmán of Lann Ela
+Full record: Colmán of Lann Ela
+Role: victim
+Year(s): 611
+Event type(s): repose
+Source entry: U611.3
+Evidence: Repose of Colmán of Lann Ela"
+person_colum_son_of_bairdene,Colum,Colum — son of Bairdéne (628),Colum,Bairdéne,,victim,628,1,repose,,U628.4,"Repose of Colum son of Bairdéne, abbot of Cluain","Name: Colum
+Full record: Colum
+Role: victim
+Year(s): 628
+Event type(s): repose
+Source entry: U628.4
+Evidence: Repose of Colum son of Bairdéne, abbot of Cluain"
+person_colum_cille,Colum Cille,Colum Cille (601),Colum Cille,,,victim,601,1,repose,,U601.4,"Or this year, the repose of Colum Cille on Sunday night","Name: Colum Cille
+Full record: Colum Cille
+Role: victim
+Year(s): 601
+Event type(s): repose
+Source entry: U601.4
+Evidence: Or this year, the repose of Colum Cille on Sunday night"
+person_comgall,Comgall,Comgall (601),Comgall,,,victim,601,1,repose,,U601.3,"and the repose of Comgall,","Name: Comgall
+Full record: Comgall
+Role: victim
+Year(s): 601
+Event type(s): repose
+Source entry: U601.3
+Evidence: and the repose of Comgall,"
+person_comgall_of_bennchor,Comgall of Bennchor,Comgall of Bennchor (602),Comgall of Bennchor,,,victim,602,1,repose,,U602.1,Repose of Comgall of Bennchor,"Name: Comgall of Bennchor
+Full record: Comgall of Bennchor
+Role: victim
+Year(s): 602
+Event type(s): repose
+Source entry: U602.1
+Evidence: Repose of Comgall of Bennchor"
+person_conall_son_of_suibne,Conall,Conall — son of Suibne (604),"Conall son of Suibne, Conall",Suibne,,"agent/killer, victim","604, 635",2,slaying,,"U604.2, U635.1",The slaying of Aed Sláine son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Conall son of Suibne,"Name: Conall
+Full record: Conall son of Suibne, Conall
+Role: agent/killer, victim
+Year(s): 604, 635
+Event type(s): slaying
+Source entry: U604.2, U635.1
+Evidence: The slaying of Aed Sláine son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Conall son of Suibne"
+person_conall_son_of_daimene,Conall,Conall — son of Daiméne (609),Conall,Daiméne,,victim,609,1,death,,U609.1,"and the death of Conall son of Daiméne,","Name: Conall
+Full record: Conall
+Role: victim
+Year(s): 609
+Event type(s): death
+Source entry: U609.1
+Evidence: and the death of Conall son of Daiméne,"
+person_conall_son_of_tuathal,Conall,Conall — son of Tuathal (695),Conall,Tuathal,,victim,695,1,death,,U695.7,Death of Conall son of Tuathal,"Name: Conall
+Full record: Conall
+Role: victim
+Year(s): 695
+Event type(s): death
+Source entry: U695.7
+Evidence: Death of Conall son of Tuathal"
+person_conall_cu,Conall Cú,Conall Cú (604),Conall Cú,,,victim,604,1,death,,U604.5,"Death of Conall Cú, son of Áed son of Ainmire","Name: Conall Cú
+Full record: Conall Cú
+Role: victim
+Year(s): 604
+Event type(s): death
+Source entry: U604.5
+Evidence: Death of Conall Cú, son of Áed son of Ainmire"
+person_congal_son_of_guaire,Congal,Congal — son of Guaire (685),Congal,Guaire,,victim,685,1,death,,U685.3,"Death of Congal son of Guaire, and death of Bresal son of Fergus, from disease","Name: Congal
+Full record: Congal
+Role: victim
+Year(s): 685
+Event type(s): death
+Source entry: U685.3
+Evidence: Death of Congal son of Guaire, and death of Bresal son of Fergus, from disease"
+person_congal_caech_son_of_scanlan,Congal Caech,Congal Caech — son of Scanlán (628),Congal Caech son of Scanlán,Scanlán,,agent/killer,628,1,slaying,Taerr Bréni,U628.3,"The slaying of Suibne Menn—the king of Ireland, Suibne Menn son of Fiachna son of Feradach son of Muiredach son of Eógan—in Taerr Bréni, i.e. by Congal Caech son of Scanlán","Name: Congal Caech
+Full record: Congal Caech son of Scanlán
+Role: agent/killer
+Year(s): 628
+Event type(s): slaying
+Place(s): Taerr Bréni
+Source entry: U628.3
+Evidence: The slaying of Suibne Menn—the king of Ireland, Suibne Menn son of Fiachna son of Feradach son of Muiredach son of Eógan—in Taerr Bréni, i.e. by Congal Caech son of Scanlán"
+person_crunnmael_erbolg_son_of_ronan,Crunnmael Erbolg,Crunnmael Erbolg — son of Rónán (656),Crunnmael Erbolg,Rónán,,victim,656,1,death,,U656.4,"Death of Crunnmael Erbolg son of Rónán, king of Laigin","Name: Crunnmael Erbolg
+Full record: Crunnmael Erbolg
+Role: victim
+Year(s): 656
+Event type(s): death
+Source entry: U656.4
+Evidence: Death of Crunnmael Erbolg son of Rónán, king of Laigin"
+person_cridan,Crídán,Crídán (639),Crídán,,,victim,639,1,repose,Naendruim,U639.4,"Repose of Crídán in Naendruim, and of Aed Dub, abbot of Cell Dara—both bishops","Name: Crídán
+Full record: Crídán
+Role: victim
+Year(s): 639
+Event type(s): repose
+Place(s): Naendruim
+Source entry: U639.4
+Evidence: Repose of Crídán in Naendruim, and of Aed Dub, abbot of Cell Dara—both bishops"
+person_cronan,Crónán,Crónán (643),Crónán,,,victim,643,1,repose,,U643.2,"Repose of Crónán, bishop of Naendruim","Name: Crónán
+Full record: Crónán
+Role: victim
+Year(s): 643
+Event type(s): repose
+Source entry: U643.2
+Evidence: Repose of Crónán, bishop of Naendruim"
+person_cronan_of_balna,Crónán of Balna,Crónán of Balna (694),Crónán of Balna,,,victim,694,1,death,,U694.8,Death of Crónán of Balna,"Name: Crónán of Balna
+Full record: Crónán of Balna
+Role: victim
+Year(s): 694
+Event type(s): death
+Source entry: U694.8
+Evidence: Death of Crónán of Balna"
+person_cronan_of_mag_bili,Crónán of Mag Bili,Crónán of Mag Bili (650),Crónán of Mag Bili,,,victim,650,1,death,,U650.4,Death of Crónán of Mag Bili,"Name: Crónán of Mag Bili
+Full record: Crónán of Mag Bili
+Role: victim
+Year(s): 650
+Event type(s): death
+Source entry: U650.4
+Evidence: Death of Crónán of Mag Bili"
+person_cuimene_the_fair,Cuiméne the Fair,Cuiméne the Fair (669),Cuiméne the Fair,,,victim,669,1,death,,U669.1,"Death of Cuiméne the Fair, abbot of Í, and of Crítán, abbot of Bennchor, and of Mo-Chua son of Cust","Name: Cuiméne the Fair
+Full record: Cuiméne the Fair
+Role: victim
+Year(s): 669
+Event type(s): death
+Source entry: U669.1
+Evidence: Death of Cuiméne the Fair, abbot of Í, and of Crítán, abbot of Bennchor, and of Mo-Chua son of Cust"
+person_cumascach_son_of_ronan,Cumascach,Cumascach — son of Rónán (672),Cumascach,Rónán,,victim,672,1,death,,U672.3,Death of Cumascach son of Rónán,"Name: Cumascach
+Full record: Cumascach
+Role: victim
+Year(s): 672
+Event type(s): death
+Source entry: U672.3
+Evidence: Death of Cumascach son of Rónán"
+person_cu_choluim,Cú Choluim,Cú Choluim (684),Cú Choluim,,,victim,684,1,death,,U684.3,Death of Cú Choluim,"Name: Cú Choluim
+Full record: Cú Choluim
+Role: victim
+Year(s): 684
+Event type(s): death
+Source entry: U684.3
+Evidence: Death of Cú Choluim"
+person_dar_gart_son_of_finnguine,Dar Gart,Dar Gart — son of Finnguine (693),Dar Gart,Finnguine,,victim,693,1,death,,U693.6,Death of Dar Gart son of Finnguine,"Name: Dar Gart
+Full record: Dar Gart
+Role: victim
+Year(s): 693
+Event type(s): death
+Source entry: U693.6
+Evidence: Death of Dar Gart son of Finnguine"
+person_diarmait,Diarmait,Diarmait (615),Diarmait,,,victim,615,1,repose,,U615.2,"Repose of Diarmait, third abbot of Cluain Iraird","Name: Diarmait
+Full record: Diarmait
+Role: victim
+Year(s): 615
+Event type(s): repose
+Source entry: U615.2
+Evidence: Repose of Diarmait, third abbot of Cluain Iraird"
+person_diarmait_son_of_aed_slaine,Diarmait,Diarmait — son of Aed Sláine (635),Diarmait son of Aed Sláine,Aed Sláine,,agent/killer,635,2,slaying,,"U635.1, U635.2",The slaying of Conall son of Suibne in the house of Nad-Fraích's son by Diarmait son of Aed Sláine,"Name: Diarmait
+Full record: Diarmait son of Aed Sláine
+Role: agent/killer
+Year(s): 635
+Event type(s): slaying
+Source entry: U635.1, U635.2
+Evidence: The slaying of Conall son of Suibne in the house of Nad-Fraích's son by Diarmait son of Aed Sláine"
+person_dirath,Dirath,Dirath (693),Dirath,,,victim,693,1,death,,U693.2,"Death of Dirath, bishop of Ferns","Name: Dirath
+Full record: Dirath
+Role: victim
+Year(s): 693
+Event type(s): death
+Source entry: U693.2
+Evidence: Death of Dirath, bishop of Ferns"
+person_do_chinne_of_daire_brugais,Do-Chinne of Daire Brugais,Do-Chinne of Daire Brugais (689),Do-Chinne of Daire Brugais,,,victim,689,1,death,,U689.5,Death of Do-Chinne of Daire Brugais,"Name: Do-Chinne of Daire Brugais
+Full record: Do-Chinne of Daire Brugais
+Role: victim
+Year(s): 689
+Event type(s): death
+Source entry: U689.5
+Evidence: Death of Do-Chinne of Daire Brugais"
+person_do_chuma_conoc,Do-Chuma Conoc,Do-Chuma Conoc (687),Do-Chuma Conoc,,,victim,687,1,repose,,U687.2,"Repose of Do-Chuma Conoc, abbot of Glenn dá Locha","Name: Do-Chuma Conoc
+Full record: Do-Chuma Conoc
+Role: victim
+Year(s): 687
+Event type(s): repose
+Source entry: U687.2
+Evidence: Repose of Do-Chuma Conoc, abbot of Glenn dá Locha"
+person_domnall,Domnall,Domnall (642),Domnall,,,victim,642,1,slaying,Srath Caruin,U642.1,"Afterwards Domnall Brec was slain at the end of the year, in December, in the battle of Srath Caruin, by Hoan, king of the Britons","Name: Domnall
+Full record: Domnall
+Role: victim
+Year(s): 642
+Event type(s): slaying
+Place(s): Srath Caruin
+Source entry: U642.1
+Evidence: Afterwards Domnall Brec was slain at the end of the year, in December, in the battle of Srath Caruin, by Hoan, king of the Britons"
+person_domnall_son_of_aed,Domnall,Domnall — son of Aed (642),Domnall,Aed,,victim,642,1,death,,U642.1,"Death of Domnall son of Aed, king of Ireland, at the end of January","Name: Domnall
+Full record: Domnall
+Role: victim
+Year(s): 642
+Event type(s): death
+Source entry: U642.1
+Evidence: Death of Domnall son of Aed, king of Ireland, at the end of January"
+person_drost_son_of_domnall,Drost,Drost — son of Domnall (678),Drost,Domnall,,victim,678,1,death,,U678.6,Death of Drost son of Domnall,"Name: Drost
+Full record: Drost
+Role: victim
+Year(s): 678
+Event type(s): death
+Source entry: U678.6
+Evidence: Death of Drost son of Domnall"
+person_duinsech,Duinsech,Duinsech (639),Duinsech,,,victim,639,1,death,,U639.2,"Death of Duinsech, wife of Domnall","Name: Duinsech
+Full record: Duinsech
+Role: victim
+Year(s): 639
+Event type(s): death
+Source entry: U639.2
+Evidence: Death of Duinsech, wife of Domnall"
+person_dunchad_grandson_of_ronan,Dúnchad grandson of Rónán,Dúnchad grandson of Rónán (670),Dúnchad grandson of Rónán,,,victim,670,1,death,,U670.6,Death of Dúnchad grandson of Rónán,"Name: Dúnchad grandson of Rónán
+Full record: Dúnchad grandson of Rónán
+Role: victim
+Year(s): 670
+Event type(s): death
+Source entry: U670.6
+Evidence: Death of Dúnchad grandson of Rónán"
+person_echaid_son_of_blathmac,Echaid,Echaid — son of Blathmac (660),Echaid,Blathmac,,victim,660,1,death,,U660.2,Death of Echaid son of Blathmac,"Name: Echaid
+Full record: Echaid
+Role: victim
+Year(s): 660
+Event type(s): death
+Source entry: U660.2
+Evidence: Death of Echaid son of Blathmac"
+person_echaid_buide_son_of_aedan,Echaid Buide,Echaid Buide — son of Aedán (629),Echaid Buide,Aedán,,victim,629,1,death,,U629.4,"Death of Echaid Buide son of Aedán, king of the Picts","Name: Echaid Buide
+Full record: Echaid Buide
+Role: victim
+Year(s): 629
+Event type(s): death
+Source entry: U629.4
+Evidence: Death of Echaid Buide son of Aedán, king of the Picts"
+person_failbe,Failbe,Failbe (679),Failbe,,,victim,"679, 692",2,repose,,"U679.1, U692.1","Repose of Failbe, abbot of Í","Name: Failbe
+Full record: Failbe
+Role: victim
+Year(s): 679, 692
+Event type(s): repose
+Source entry: U679.1, U692.1
+Evidence: Repose of Failbe, abbot of Í"
+person_failbe_flann_of_feimen,Failbe Flann of Feimen,Failbe Flann of Feimen (637),Failbe Flann of Feimen,,,victim,637,1,death,,U637.1,"and the death of Failbe Flann of Feimen, king of Mumu","Name: Failbe Flann of Feimen
+Full record: Failbe Flann of Feimen
+Role: victim
+Year(s): 637
+Event type(s): death
+Source entry: U637.1
+Evidence: and the death of Failbe Flann of Feimen, king of Mumu"
+person_feradach_son_of_tuathalan,Feradach,Feradach — son of Tuathalán (689),Feradach,Tuathalán,,victim,689,1,death,,U689.6,Death of Feradach son of Tuathalán,"Name: Feradach
+Full record: Feradach
+Role: victim
+Year(s): 689
+Event type(s): death
+Source entry: U689.6
+Evidence: Death of Feradach son of Tuathalán"
+person_ferchar_son_of_connaed_cerr,Ferchar,Ferchar — son of Connaed Cerr (694),Ferchar,Connaed Cerr,,victim,694,1,death,,U694.5,Death of Ferchar son of Connaed Cerr,"Name: Ferchar
+Full record: Ferchar
+Role: victim
+Year(s): 694
+Event type(s): death
+Source entry: U694.5
+Evidence: Death of Ferchar son of Connaed Cerr"
+person_fergna,Fergna,Fergna (623),Fergna,,,victim,623,1,death,,U623.1,"Death of Fergna, abbot of Í","Name: Fergna
+Full record: Fergna
+Role: victim
+Year(s): 623
+Event type(s): death
+Source entry: U623.1
+Evidence: Death of Fergna, abbot of Í"
+person_fergus_son_of_colman_mor,Fergus,Fergus — son of Colmán Mór (618),Fergus,Colmán Mór,,victim,618,1,slaying,,U618.2,"and the slaying of Fergus son of Colmán Mór i.e. by Anfartach descendant of Mescán, of the people of Blaitíne","Name: Fergus
+Full record: Fergus
+Role: victim
+Year(s): 618
+Event type(s): slaying
+Source entry: U618.2
+Evidence: and the slaying of Fergus son of Colmán Mór i.e. by Anfartach descendant of Mescán, of the people of Blaitíne"
+person_ferith_son_of_totholan,Ferith,Ferith — son of Totholán (653),Ferith,Totholán,,victim,653,1,death,,U653.1,"Death of Ferith son of Totholán, and of Tolarg son of Foth, king of the Picts","Name: Ferith
+Full record: Ferith
+Role: victim
+Year(s): 653
+Event type(s): death
+Source entry: U653.1
+Evidence: Death of Ferith son of Totholán, and of Tolarg son of Foth, king of the Picts"
+person_fiachna_crach_son_of_baetan,Fiachna Crach,Fiachna Crach — son of Baetán (608),Fiachna Crach,Baetán,,victim,608,1,death,,U608.1,"Death of Fiachna Crach son of Baetán, by the Cruithin, and repose of Aed son of Dall","Name: Fiachna Crach
+Full record: Fiachna Crach
+Role: victim
+Year(s): 608
+Event type(s): death
+Source entry: U608.1
+Evidence: Death of Fiachna Crach son of Baetán, by the Cruithin, and repose of Aed son of Dall"
+person_fiachra_son_of_conall,Fiachra,Fiachra — son of Conall (618),Fiachra,Conall,,victim,618,1,death,,U618.2,and the death of Fiachra son of Conall,"Name: Fiachra
+Full record: Fiachra
+Role: victim
+Year(s): 618
+Event type(s): death
+Source entry: U618.2
+Evidence: and the death of Fiachra son of Conall"
+person_fiachra_son_of_ciaran_son_of_ainmire,Fiachra,Fiachra — son of Ciarán (620),Fiachra,Ciarán,Ainmire,victim,620,1,death,,U620.1,and the death of Fiachra son of Ciarán son of Ainmire son of Sétna,"Name: Fiachra
+Full record: Fiachra
+Role: victim
+Year(s): 620
+Event type(s): death
+Source entry: U620.1
+Evidence: and the death of Fiachra son of Ciarán son of Ainmire son of Sétna"
+person_finnguine_the_tall_and_feradach_meth_son_of_nechtlec,Finnguine the Tall and Feradach Méth,Finnguine the Tall and Feradach Méth — son of Nechtlec (690),Finnguine the Tall and Feradach Méth,Nechtlec,,victim,690,1,death,,U690.3,Death of Finnguine the Tall and Feradach Méth son of Nechtlec,"Name: Finnguine the Tall and Feradach Méth
+Full record: Finnguine the Tall and Feradach Méth
+Role: victim
+Year(s): 690
+Event type(s): death
+Source entry: U690.3
+Evidence: Death of Finnguine the Tall and Feradach Méth son of Nechtlec"
+person_finntan_moccu_echdach,Finntan moccu Echdach,Finntan moccu Echdach (603),Finntan moccu Echdach,,,victim,603,1,repose,,U603.1,Repose of Finntan moccu Echdach,"Name: Finntan moccu Echdach
+Full record: Finntan moccu Echdach
+Role: victim
+Year(s): 603
+Event type(s): repose
+Source entry: U603.1
+Evidence: Repose of Finntan moccu Echdach"
+person_finntan_of_aentrab,Finntan of Aentrab,Finntan of Aentrab (613),Finntan of Aentrab,,,victim,613,1,repose,,U613.1,"Repose of Finntan of Aentrab, abbot of Bennchor","Name: Finntan of Aentrab
+Full record: Finntan of Aentrab
+Role: victim
+Year(s): 613
+Event type(s): repose
+Source entry: U613.1
+Evidence: Repose of Finntan of Aentrab, abbot of Bennchor"
+person_finnan_son_of_rimid,Finnán,Finnán — son of Rímid (660),bishop Finnán,Rímid,,victim,660,1,death,,U660.1,Death of bishop Finnán son of Rímid,"Name: Finnán
+Full record: bishop Finnán
+Role: victim
+Year(s): 660
+Event type(s): death
+Source entry: U660.1
+Evidence: Death of bishop Finnán son of Rímid"
+person_fintan_son_of_telchan_and_of_ernaine_son_of_cresene,Fintan,Fintan — son of Telchán and of Ernaine (635),Fintan,Telchán and of Ernaine,Crésene,victim,635,1,repose,,U635.5,Repose of Fintan son of Telchán and of Ernaine son of Crésene,"Name: Fintan
+Full record: Fintan
+Role: victim
+Year(s): 635
+Event type(s): repose
+Source entry: U635.5
+Evidence: Repose of Fintan son of Telchán and of Ernaine son of Crésene"
+person_flann_of_aenach,Flann of Aenach,Flann of Aenach (644),Flann of Aenach,,,victim,644,1,slaying,,U644.2,The slaying of Flann of Aenach,"Name: Flann of Aenach
+Full record: Flann of Aenach
+Role: victim
+Year(s): 644
+Event type(s): slaying
+Source entry: U644.2
+Evidence: The slaying of Flann of Aenach"
+person_forannan,Forannán,Forannán (698),Forannán,,,victim,698,1,death,,U698.5,"Death of Forannán, abbot of Cell Dara, and of Mael Dúin son of Mongán","Name: Forannán
+Full record: Forannán
+Role: victim
+Year(s): 698
+Event type(s): death
+Source entry: U698.5
+Evidence: Death of Forannán, abbot of Cell Dara, and of Mael Dúin son of Mongán"
+person_fursu,Fursu,Fursu (649),Fursu,,,victim,649,1,repose,Peronne,U649.5,Repose of Fursu in Peronne,"Name: Fursu
+Full record: Fursu
+Role: victim
+Year(s): 649
+Event type(s): repose
+Place(s): Peronne
+Source entry: U649.5
+Evidence: Repose of Fursu in Peronne"
+person_fursu_according_to_others,Fursu according to others,Fursu according to others (656),Fursu according to others,,,victim,656,1,death,,U656.7,"Or here, the death of Fursu according to others","Name: Fursu according to others
+Full record: Fursu according to others
+Role: victim
+Year(s): 656
+Event type(s): death
+Source entry: U656.7
+Evidence: Or here, the death of Fursu according to others"
+person_furudran_son_of_beicce_son_of_cuanu,Furudrán,Furudrán — son of Béicce (645),Furudrán,Béicce,Cuanu,victim,645,1,death,,U645.1,"Death of Furudrán son of Béicce son of Cuanu, king of Uí Moccu Uais","Name: Furudrán
+Full record: Furudrán
+Role: victim
+Year(s): 645
+Event type(s): death
+Source entry: U645.1
+Evidence: Death of Furudrán son of Béicce son of Cuanu, king of Uí Moccu Uais"
+person_gartnaid_son_of_domnall_and_of_domnall_son_of_tothalan,Gartnaid,Gartnaid — son of Domnall and of Domnall (663),Gartnaid,Domnall and of Domnall,Tóthalán,victim,663,1,death,,U663.3,Death of Gartnaid son of Domnall and of Domnall son of Tóthalán,"Name: Gartnaid
+Full record: Gartnaid
+Role: victim
+Year(s): 663
+Event type(s): death
+Source entry: U663.3
+Evidence: Death of Gartnaid son of Domnall and of Domnall son of Tóthalán"
+person_gartnan_son_of_foth,Gartnán,Gartnán — son of Foth (635),Gartnán,Foth,,victim,635,1,death,,U635.6,Death of Gartnán son of Foth,"Name: Gartnán
+Full record: Gartnán
+Role: victim
+Year(s): 635
+Event type(s): death
+Source entry: U635.6
+Evidence: Death of Gartnán son of Foth"
+person_guret,Guret,Guret (658),Guret,,,victim,658,1,death,,U658.2,"Death of Guret, king of Ail Cluaithe, and of Fergal son of Domnall","Name: Guret
+Full record: Guret
+Role: victim
+Year(s): 658
+Event type(s): death
+Source entry: U658.2
+Evidence: Death of Guret, king of Ail Cluaithe, and of Fergal son of Domnall"
+person_hoan,Hoan,Hoan (642),Hoan,,,agent/killer,642,1,slaying,Srath Caruin,U642.1,"Afterwards Domnall Brec was slain at the end of the year, in December, in the battle of Srath Caruin, by Hoan, king of the Britons","Name: Hoan
+Full record: Hoan
+Role: agent/killer
+Year(s): 642
+Event type(s): slaying
+Place(s): Srath Caruin
+Source entry: U642.1
+Evidence: Afterwards Domnall Brec was slain at the end of the year, in December, in the battle of Srath Caruin, by Hoan, king of the Britons"
+person_huaisle_son_of_suibne,Huaisle,Huaisle — son of Suibne (643),Huaisle,Suibne,,victim,643,1,death,,U643.1,Death of Huaisle son of Suibne,"Name: Huaisle
+Full record: Huaisle
+Role: victim
+Year(s): 643
+Event type(s): death
+Source entry: U643.1
+Evidence: Death of Huaisle son of Suibne"
+person_laisren,Laisrén,Laisrén (605),Laisrén,,,victim,605,1,death,,U605.4,"Death of Laisrén, abbot of Ía","Name: Laisrén
+Full record: Laisrén
+Role: victim
+Year(s): 605
+Event type(s): death
+Source entry: U605.4
+Evidence: Death of Laisrén, abbot of Ía"
+person_lochan_dilmana,Lochán Dilmana,Lochán Dilmana (604),Lochán Dilmana,,,agent/killer,604,1,slaying,,U604.1,The slaying of Colmán Rímid son of Baetán Bríge son of Muirchertach Mac Erca by a man of his own kindred i.e. by one of his kindred called Lochán Dilmana,"Name: Lochán Dilmana
+Full record: Lochán Dilmana
+Role: agent/killer
+Year(s): 604
+Event type(s): slaying
+Source entry: U604.1
+Evidence: The slaying of Colmán Rímid son of Baetán Bríge son of Muirchertach Mac Erca by a man of his own kindred i.e. by one of his kindred called Lochán Dilmana"
+person_lugaid_moccu_ochae,Lugaid moccu Óchae,Lugaid moccu Óchae (609),Lugaid moccu Óchae,,,victim,609,1,repose,,U609.1,and the repose of Lugaid moccu Óchae,"Name: Lugaid moccu Óchae
+Full record: Lugaid moccu Óchae
+Role: victim
+Year(s): 609
+Event type(s): repose
+Source entry: U609.1
+Evidence: and the repose of Lugaid moccu Óchae"
+person_mac_laisre,Mac Laisre,Mac Laisre (623),Mac Laisre,,,victim,623,1,repose,,U623.2,"Repose of Mac Laisre, abbot of Ard Macha, and of Finnia, abbot of Ner","Name: Mac Laisre
+Full record: Mac Laisre
+Role: victim
+Year(s): 623
+Event type(s): repose
+Source entry: U623.2
+Evidence: Repose of Mac Laisre, abbot of Ard Macha, and of Finnia, abbot of Ner"
+person_mael_aichthein_of_tir_da_glas,Mael Aichthein of Tír dá Glas,Mael Aichthein of Tír dá Glas (656),Mael Aichthein of Tír dá Glas,,,victim,656,1,death,,U656.5,Death of Mael Aichthein of Tír dá Glas,"Name: Mael Aichthein of Tír dá Glas
+Full record: Mael Aichthein of Tír dá Glas
+Role: victim
+Year(s): 656
+Event type(s): death
+Source entry: U656.5
+Evidence: Death of Mael Aichthein of Tír dá Glas"
+person_mael_coba_son_of_aed,Mael Coba,Mael Coba — son of Áed (615),Mael Coba,Áed,,victim,615,1,slaying,the battle of Sliab Truim,U615.1,"The slaying of Mael Coba son of Áed in the battle of Sliab Tuath Bélgadhain, alias in the battle of Sliab Truim","Name: Mael Coba
+Full record: Mael Coba
+Role: victim
+Year(s): 615
+Event type(s): slaying
+Place(s): the battle of Sliab Truim
+Source entry: U615.1
+Evidence: The slaying of Mael Coba son of Áed in the battle of Sliab Tuath Bélgadhain, alias in the battle of Sliab Truim"
+person_mael_duin_son_of_ailene,Mael Dúin,Mael Dúin — son of Ailéne (611),Mael Dúin,Ailéne,,victim,611,1,death,,U611.2,"Death of Mael Dúin son of Ailéne, king of Mugdorna, and death of Eógan son of Eochu Laib","Name: Mael Dúin
+Full record: Mael Dúin
+Role: victim
+Year(s): 611
+Event type(s): death
+Source entry: U611.2
+Evidence: Death of Mael Dúin son of Ailéne, king of Mugdorna, and death of Eógan son of Eochu Laib"
+person_mael_duin_son_of_conall_crannanma,Mael Dúin,Mael Dúin — son of Conall Crannanma (689),Mael Dúin,Conall Crannanma,,victim,689,1,death,,U689.7,Death of Mael Dúin son of Conall Crannanma,"Name: Mael Dúin
+Full record: Mael Dúin
+Role: victim
+Year(s): 689
+Event type(s): death
+Source entry: U689.7
+Evidence: Death of Mael Dúin son of Conall Crannanma"
+person_mael_fothartaig_son_of_suibne,Mael Fothartaig,Mael Fothartaig — son of Suibne (669),Mael Fothartaig,Suibne,,victim,669,1,death,,U669.1,"and death of Mael Fothartaig son of Suibne, king of Uí Thuirtri","Name: Mael Fothartaig
+Full record: Mael Fothartaig
+Role: victim
+Year(s): 669
+Event type(s): death
+Source entry: U669.1
+Evidence: and death of Mael Fothartaig son of Suibne, king of Uí Thuirtri"
+person_mael_fothartaig,Mael Fothartaig,Mael Fothartaig (680),Mael Fothartaig,,,victim,680,1,death,,U680.7,"Death of Mael Fothartaig, bishop of Ard Sratha","Name: Mael Fothartaig
+Full record: Mael Fothartaig
+Role: victim
+Year(s): 680
+Event type(s): death
+Source entry: U680.7
+Evidence: Death of Mael Fothartaig, bishop of Ard Sratha"
+person_mael_mracho_son_of_rimid_son_of_colman,Mael Mracho,Mael Mracho — son of Rímid (622),Mael Mracho,Rímid,Colmán,victim,622,1,death,,U622.3,"Death of Mael Mracho son of Rímid son of Colmán son of Cobthach, and of Ailill son of Cellach","Name: Mael Mracho
+Full record: Mael Mracho
+Role: victim
+Year(s): 622
+Event type(s): death
+Source entry: U622.3
+Evidence: Death of Mael Mracho son of Rímid son of Colmán son of Cobthach, and of Ailill son of Cellach"
+person_mael_umai_son_of_baetan,Mael Umai,Mael Umai — son of Baetán (610),Mael Umai,Baetán,,victim,610,1,death,,U610.2,and the death of Mael Umai son of Baetán,"Name: Mael Umai
+Full record: Mael Umai
+Role: victim
+Year(s): 610
+Event type(s): death
+Source entry: U610.2
+Evidence: and the death of Mael Umai son of Baetán"
+person_maelodar_caech,Maelodar Caech,Maelodar Caech (641),Maelodar Caech,,,victim,641,1,death,,U641.1,"Death of Maelodar Caech, king of the Airthir","Name: Maelodar Caech
+Full record: Maelodar Caech
+Role: victim
+Year(s): 641
+Event type(s): death
+Source entry: U641.1
+Evidence: Death of Maelodar Caech, king of the Airthir"
+person_maine,Maine,Maine (684),Maine,,,victim,684,1,death,,U684.2,"Death of Maine, abbot of Naendruim, and death of Der Forgaill","Name: Maine
+Full record: Maine
+Role: victim
+Year(s): 684
+Event type(s): death
+Source entry: U684.2
+Evidence: Death of Maine, abbot of Naendruim, and death of Der Forgaill"
+person_menn_bairenn,Menn Bairenn,Menn Bairenn (695),Menn Bairenn,,,victim,695,1,repose,,U695.3,"Repose of Menn Bairenn, abbot of Achad Bó","Name: Menn Bairenn
+Full record: Menn Bairenn
+Role: victim
+Year(s): 695
+Event type(s): repose
+Source entry: U695.3
+Evidence: Repose of Menn Bairenn, abbot of Achad Bó"
+person_muirgius_son_of_mael_duin,Muirgius,Muirgius — son of Mael Dúin (698),Muirgius,Mael Dúin,,victim,698,1,death,,U698.6,"Death of Muirgius son of Mael Dúin, king of Cenél Cairpri","Name: Muirgius
+Full record: Muirgius
+Role: victim
+Year(s): 698
+Event type(s): death
+Source entry: U698.6
+Evidence: Death of Muirgius son of Mael Dúin, king of Cenél Cairpri"
+person_noe_son_of_dainel,Nóe,Nóe — son of Dainél (675),Nóe,Dainél,,victim,675,1,death,,U675.3,Death of Nóe son of Dainél,"Name: Nóe
+Full record: Nóe
+Role: victim
+Year(s): 675
+Event type(s): death
+Source entry: U675.3
+Evidence: Death of Nóe son of Dainél"
+person_oisene,Oiséne,Oiséne (687),Oiséne,,,victim,687,1,death,,U687.4,"Death of Oiséne, bishop of the monastery of Finntan son of Finnguine","Name: Oiséne
+Full record: Oiséne
+Role: victim
+Year(s): 687
+Event type(s): death
+Source entry: U687.4
+Evidence: Death of Oiséne, bishop of the monastery of Finntan son of Finnguine"
+person_oswy_son_of_aethelfrith,Oswy,Oswy — son of Aethelfrith (671),Oswy,Aethelfrith,,victim,671,1,death,,U671.1,"Death of Oswy son of Aethelfrith, king of the Saxons","Name: Oswy
+Full record: Oswy
+Role: victim
+Year(s): 671
+Event type(s): death
+Source entry: U671.1
+Evidence: Death of Oswy son of Aethelfrith, king of the Saxons"
+person_patrick_203_years,Patrick 203 years,Patrick 203 years (664),Patrick 203 years,,,victim,664,1,death,,U664.6,"From the death of Patrick 203 years, and from the first mortality 112 years","Name: Patrick 203 years
+Full record: Patrick 203 years
+Role: victim
+Year(s): 664
+Event type(s): death
+Source entry: U664.6
+Evidence: From the death of Patrick 203 years, and from the first mortality 112 years"
+person_penda_s_son,Penda's son,Penda's son (675),Penda's son,,,victim,675,1,death,,U675.4,Death of Penda's son,"Name: Penda's son
+Full record: Penda's son
+Role: victim
+Year(s): 675
+Event type(s): death
+Source entry: U675.4
+Evidence: Death of Penda's son"
+person_ragallach_son_of_uatu,Ragallach,Ragallach — son of Uatu (649),Ragallach,Uatu,,victim,649,1,slaying,,U649.1,"The slaying of Ragallach son of Uatu, king of Connacht","Name: Ragallach
+Full record: Ragallach
+Role: victim
+Year(s): 649
+Event type(s): slaying
+Source entry: U649.1
+Evidence: The slaying of Ragallach son of Uatu, king of Connacht"
+person_rogallach_son_of_uatu,Rogallach,Rogallach — son of Uatu (656),Rogallach,Uatu,,victim,656,1,slaying,,U656.6,"The slaying of Rogallach son of Uatu, king of Connacht","Name: Rogallach
+Full record: Rogallach
+Role: victim
+Year(s): 656
+Event type(s): slaying
+Source entry: U656.6
+Evidence: The slaying of Rogallach son of Uatu, king of Connacht"
+person_ronan,Rónán,Rónán (624),Rónán,,,victim,624,1,death,,U624.1,"Death of Rónán, son of Colmán","Name: Rónán
+Full record: Rónán
+Role: victim
+Year(s): 624
+Event type(s): death
+Source entry: U624.1
+Evidence: Death of Rónán, son of Colmán"
+person_saran_saebderg,Sarán Saebderg,Sarán Saebderg (605),Sarán Saebderg,,,agent/killer,605,1,slaying,,U605.2,"or it may have been Sarán Saebderg, i.e. superior of Senboth Sine, who killed him, as the poet said","Name: Sarán Saebderg
+Full record: Sarán Saebderg
+Role: agent/killer
+Year(s): 605
+Event type(s): slaying
+Source entry: U605.2
+Evidence: or it may have been Sarán Saebderg, i.e. superior of Senboth Sine, who killed him, as the poet said"
+person_scannall_son_of_beicce_son_of_fiachra,Scannall,Scannall — son of Béicce (646),Scannall,Béicce,Fiachra,victim,646,1,slaying,,U646.1,"The slaying of Scannall son of Béicce son of Fiachra, king of the Cruithin","Name: Scannall
+Full record: Scannall
+Role: victim
+Year(s): 646
+Event type(s): slaying
+Source entry: U646.1
+Evidence: The slaying of Scannall son of Béicce son of Fiachra, king of the Cruithin"
+person_scannlan_son_of_fingen,Scannlan,Scannlan — son of Fingen (674),Scannlan,Fingen,,victim,"674, 675",2,death,,"U674.3, U675.5","Death of Scannlan son of Fingen, king of Uí Méith","Name: Scannlan
+Full record: Scannlan
+Role: victim
+Year(s): 674, 675
+Event type(s): death
+Source entry: U674.3, U675.5
+Evidence: Death of Scannlan son of Fingen, king of Uí Méith"
+person_sillan,Sillán,Sillán (619),Sillán,,,victim,619,1,death,,U619.2,"Death of Sillán, abbot of Mag Bili","Name: Sillán
+Full record: Sillán
+Role: victim
+Year(s): 619
+Event type(s): death
+Source entry: U619.2
+Evidence: Death of Sillán, abbot of Mag Bili"
+person_sillan_moccu_minn,Sillán moccu Minn,Sillán moccu Minn (610),Sillán moccu Minn,,,victim,610,1,death,,U610.2,"Death of Sillán moccu Minn, abbot of Bennchor,","Name: Sillán moccu Minn
+Full record: Sillán moccu Minn
+Role: victim
+Year(s): 610
+Event type(s): death
+Source entry: U610.2
+Evidence: Death of Sillán moccu Minn, abbot of Bennchor,"
+person_suibne_son_of_colman_mor_son_of_diarmait_derg,Suibne,Suibne — son of Colmán Mór (600),Suibne,Colmán Mór,Diarmait Derg,victim,600,1,slaying,Brí Dam in the Suaine,U600.2,"The slaying of Suibne son of Colmán Mór son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Aed Sláine in Brí Dam in the Suaine, i.e. a stream","Name: Suibne
+Full record: Suibne
+Role: victim
+Year(s): 600
+Event type(s): slaying
+Place(s): Brí Dam in the Suaine
+Source entry: U600.2
+Evidence: The slaying of Suibne son of Colmán Mór son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Aed Sláine in Brí Dam in the Suaine, i.e. a stream"
+person_suibne_son_of_crechene,Suibne,Suibne — son of Crechéne (616),Suibne,Crechéne,,victim,616,1,death,,U616.1,"Death of Suibne son of Crechéne, king of Ciannachta Glinne Geimin, and death of Aedán son of Mongan, king of Dál Riata or nAraide and death of Petrán bishop of Lusca","Name: Suibne
+Full record: Suibne
+Role: victim
+Year(s): 616
+Event type(s): death
+Source entry: U616.1
+Evidence: Death of Suibne son of Crechéne, king of Ciannachta Glinne Geimin, and death of Aedán son of Mongan, king of Dál Riata or nAraide and death of Petrán bishop of Lusca"
+person_suibne_son_of_mael_uma,Suibne,Suibne — son of Mael Uma (682),Suibne,Mael Uma,,victim,682,1,death,,U682.3,"Death of Suibne son of Mael Uma, superior of Corcach","Name: Suibne
+Full record: Suibne
+Role: victim
+Year(s): 682
+Event type(s): death
+Source entry: U682.3
+Evidence: Death of Suibne son of Mael Uma, superior of Corcach"
+person_suibne_menn_the_king_of_ireland,Suibne Menn—the king of Ireland,Suibne Menn—the king of Ireland (628),Suibne Menn—the king of Ireland,,,victim,628,1,slaying,Taerr Bréni,U628.3,"The slaying of Suibne Menn—the king of Ireland, Suibne Menn son of Fiachna son of Feradach son of Muiredach son of Eógan—in Taerr Bréni, i.e. by Congal Caech son of Scanlán","Name: Suibne Menn—the king of Ireland
+Full record: Suibne Menn—the king of Ireland
+Role: victim
+Year(s): 628
+Event type(s): slaying
+Place(s): Taerr Bréni
+Source entry: U628.3
+Evidence: The slaying of Suibne Menn—the king of Ireland, Suibne Menn son of Fiachna son of Feradach son of Muiredach son of Eógan—in Taerr Bréni, i.e. by Congal Caech son of Scanlán"
+person_suibne_moccu_urthri_abbot_of_i,Suibne moccu Urthrí abbot of Í,Suibne moccu Urthrí abbot of Í (657),Suibne moccu Urthrí abbot of Í,,,victim,657,1,death,,U657.1,"Death of Suibne moccu Urthrí abbot of Í, and of Ultán moccu Conchobair","Name: Suibne moccu Urthrí abbot of Í
+Full record: Suibne moccu Urthrí abbot of Í
+Role: victim
+Year(s): 657
+Event type(s): death
+Source entry: U657.1
+Evidence: Death of Suibne moccu Urthrí abbot of Í, and of Ultán moccu Conchobair"
+person_segan_moccu_cuinn,Ségán moccu Cuinn,Ségán moccu Cuinn (663),Ségán moccu Cuinn,,,victim,663,1,death,,U663.1,"Repose of Ségán moccu Cuinn, abbot of Bennchor, and death of Guaire of Aidne","Name: Ségán moccu Cuinn
+Full record: Ségán moccu Cuinn
+Role: victim
+Year(s): 663
+Event type(s): death
+Source entry: U663.1
+Evidence: Repose of Ségán moccu Cuinn, abbot of Bennchor, and death of Guaire of Aidne"
+person_segene,Ségéne,Ségéne (652),Ségéne,,,victim,652,1,death,,U652.1,"Death of Ségéne i.e. son of Fiachna, abbot of Í","Name: Ségéne
+Full record: Ségéne
+Role: victim
+Year(s): 652
+Event type(s): death
+Source entry: U652.1
+Evidence: Death of Ségéne i.e. son of Fiachna, abbot of Í"
+person_segene_from_achad_claidib,Ségéne from Achad Claidib,Ségéne from Achad Claidib (688),Ségéne from Achad Claidib,,,victim,688,1,repose,,U688.1,"Repose of Ségéne from Achad Claidib, bishop of Ard Macha","Name: Ségéne from Achad Claidib
+Full record: Ségéne from Achad Claidib
+Role: victim
+Year(s): 688
+Event type(s): repose
+Source entry: U688.1
+Evidence: Repose of Ségéne from Achad Claidib, bishop of Ard Macha"
+person_tadc_son_of_failbe,Tadc,Tadc — son of Failbe (695),Tadc,Failbe,,victim,695,1,slaying,Glenn Geimin,U695.2,"The slaying of Tadc son of Failbe, in Glenn Geimin","Name: Tadc
+Full record: Tadc
+Role: victim
+Year(s): 695
+Event type(s): slaying
+Place(s): Glenn Geimin
+Source entry: U695.2
+Evidence: The slaying of Tadc son of Failbe, in Glenn Geimin"
+person_tolorgan_son_of_ainfrith,Tolorgan,Tolorgan — son of Ainfrith (657),Tolorgan,Ainfrith,,victim,657,1,death,,U657.3,"Death of Tolorgan son of Ainfrith, king of the Picts","Name: Tolorgan
+Full record: Tolorgan
+Role: victim
+Year(s): 657
+Event type(s): death
+Source entry: U657.3
+Evidence: Death of Tolorgan son of Ainfrith, king of the Picts"
+person_tuathal_son_of_morgand,Tuathal,Tuathal — son of Morgand (663),Tuathal,Morgand,,victim,663,1,death,,U663.4,Death of Tuathal son of Morgand,"Name: Tuathal
+Full record: Tuathal
+Role: victim
+Year(s): 663
+Event type(s): death
+Source entry: U663.4
+Evidence: Death of Tuathal son of Morgand"
+person_uatu_son_of_aed,Uatu,Uatu — son of Aed (601),Uatu,Aed,,victim,"601, 602",2,death,,"U601.3, U602.4",and the death of Uatu son of Aed happened this year,"Name: Uatu
+Full record: Uatu
+Role: victim
+Year(s): 601, 602
+Event type(s): death
+Source entry: U601.3, U602.4
+Evidence: and the death of Uatu son of Aed happened this year"

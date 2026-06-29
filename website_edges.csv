@@ -1,0 +1,632 @@
+﻿source_id,source_label,source_type,relation,target_id,target_label,target_type,event_id,entry_id,year,event_type,evidence
+year_600,600 CE,Year,has_event,event_U600.1_c0_e0,repose U600.1,Event,U600.1_c0_e0,U600.1,600,repose,"Repose of St Cainnech,"
+event_U600.1_c0_e0,repose U600.1,Event,victim,person_st_cainnech,Cainnech,Person,U600.1_c0_e0,U600.1,600,repose,"Repose of St Cainnech,"
+event_U600.1_c0_e0,repose U600.1,Event,supported_by,evidence_U600.1,Evidence U600.1,Evidence,U600.1_c0_e0,U600.1,600,repose,"Repose of St Cainnech,"
+year_600,600 CE,Year,has_event,event_U600.1_c1_e0,battle U600.1,Event,U600.1_c1_e0,U600.1,600,battle,and the battle of the Saxons in which Aedán was vanquished
+event_U600.1_c1_e0,battle U600.1,Event,supported_by,evidence_U600.1,Evidence U600.1,Evidence,U600.1_c1_e0,U600.1,600,battle,and the battle of the Saxons in which Aedán was vanquished
+year_600,600 CE,Year,has_event,event_U600.2_c0_e0,slaying U600.2,Event,U600.2_c0_e0,U600.2,600,slaying,"The slaying of Suibne son of Colmán Mór son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Aed Sláine in Brí Dam in the Suaine, i.e. a stream"
+event_U600.2_c0_e0,slaying U600.2,Event,victim,person_suibne_son_of_colman_mor_son_of_diarmait_derg,Suibne,Person,U600.2_c0_e0,U600.2,600,slaying,"The slaying of Suibne son of Colmán Mór son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Aed Sláine in Brí Dam in the Suaine, i.e. a stream"
+person_aed_slaine,Aed Sláine,Person,agent_in,event_U600.2_c0_e0,slaying U600.2,Event,U600.2_c0_e0,U600.2,600,slaying,"The slaying of Suibne son of Colmán Mór son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Aed Sláine in Brí Dam in the Suaine, i.e. a stream"
+person_aed_slaine,Aed Sláine,Person,killed,person_suibne_son_of_colman_mor_son_of_diarmait_derg,Suibne,Person,U600.2_c0_e0,U600.2,600,slaying,"The slaying of Suibne son of Colmán Mór son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Aed Sláine in Brí Dam in the Suaine, i.e. a stream"
+event_U600.2_c0_e0,slaying U600.2,Event,occurred_at,place_bri_dam_in_the_suaine,Brí Dam in the Suaine,Place,U600.2_c0_e0,U600.2,600,slaying,"The slaying of Suibne son of Colmán Mór son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Aed Sláine in Brí Dam in the Suaine, i.e. a stream"
+event_U600.2_c0_e0,slaying U600.2,Event,supported_by,evidence_U600.2,Evidence U600.2,Evidence,U600.2_c0_e0,U600.2,600,slaying,"The slaying of Suibne son of Colmán Mór son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Aed Sláine in Brí Dam in the Suaine, i.e. a stream"
+year_601,601 CE,Year,has_event,event_U601.2_c0_e0,death U601.2,Event,U601.2_c0_e0,U601.2,601,death,Death of Brénainn son of Cairpre son of Feichéne
+event_U601.2_c0_e0,death U601.2,Event,victim,person_brenainn_son_of_cairpre_son_of_feichene,Brénainn,Person,U601.2_c0_e0,U601.2,601,death,Death of Brénainn son of Cairpre son of Feichéne
+event_U601.2_c0_e0,death U601.2,Event,supported_by,evidence_U601.2,Evidence U601.2,Evidence,U601.2_c0_e0,U601.2,601,death,Death of Brénainn son of Cairpre son of Feichéne
+year_601,601 CE,Year,has_event,event_U601.3_c1_e0,battle U601.3,Event,U601.3_c1_e0,U601.3,601,battle,The battle of Slemain
+event_U601.3_c1_e0,battle U601.3,Event,supported_by,evidence_U601.3,Evidence U601.3,Evidence,U601.3_c1_e0,U601.3,601,battle,The battle of Slemain
+year_601,601 CE,Year,has_event,event_U601.3_c2_e0,battle U601.3,Event,U601.3_c2_e0,U601.3,601,battle,and the battle of Cúil Caíl
+event_U601.3_c2_e0,battle U601.3,Event,supported_by,evidence_U601.3,Evidence U601.3,Evidence,U601.3_c2_e0,U601.3,601,battle,and the battle of Cúil Caíl
+year_601,601 CE,Year,has_event,event_U601.3_c3_e0,repose U601.3,Event,U601.3_c3_e0,U601.3,601,repose,"and the repose of Comgall,"
+event_U601.3_c3_e0,repose U601.3,Event,victim,person_comgall,Comgall,Person,U601.3_c3_e0,U601.3,601,repose,"and the repose of Comgall,"
+event_U601.3_c3_e0,repose U601.3,Event,supported_by,evidence_U601.3,Evidence U601.3,Evidence,U601.3_c3_e0,U601.3,601,repose,"and the repose of Comgall,"
+year_601,601 CE,Year,has_event,event_U601.3_c4_e0,death U601.3,Event,U601.3_c4_e0,U601.3,601,death,and the death of Uatu son of Aed happened this year
+event_U601.3_c4_e0,death U601.3,Event,victim,person_uatu_son_of_aed,Uatu,Person,U601.3_c4_e0,U601.3,601,death,and the death of Uatu son of Aed happened this year
+event_U601.3_c4_e0,death U601.3,Event,supported_by,evidence_U601.3,Evidence U601.3,Evidence,U601.3_c4_e0,U601.3,601,death,and the death of Uatu son of Aed happened this year
+year_601,601 CE,Year,has_event,event_U601.4_c0_e0,repose U601.4,Event,U601.4_c0_e0,U601.4,601,repose,"Or this year, the repose of Colum Cille on Sunday night"
+event_U601.4_c0_e0,repose U601.4,Event,victim,person_colum_cille,Colum Cille,Person,U601.4_c0_e0,U601.4,601,repose,"Or this year, the repose of Colum Cille on Sunday night"
+event_U601.4_c0_e0,repose U601.4,Event,supported_by,evidence_U601.4,Evidence U601.4,Evidence,U601.4_c0_e0,U601.4,601,repose,"Or this year, the repose of Colum Cille on Sunday night"
+year_602,602 CE,Year,has_event,event_U602.1_c0_e0,repose U602.1,Event,U602.1_c0_e0,U602.1,602,repose,Repose of Comgall of Bennchor
+event_U602.1_c0_e0,repose U602.1,Event,victim,person_comgall_of_bennchor,Comgall of Bennchor,Person,U602.1_c0_e0,U602.1,602,repose,Repose of Comgall of Bennchor
+event_U602.1_c0_e0,repose U602.1,Event,supported_by,evidence_U602.1,Evidence U602.1,Evidence,U602.1_c0_e0,U602.1,602,repose,Repose of Comgall of Bennchor
+year_602,602 CE,Year,has_event,event_U602.2_c0_e0,battle U602.2,Event,U602.2_c0_e0,U602.2,602,battle,"The battle of Slemain in which Colmán Rímid, king of Cenél nÉogain, was victor, and Conall Cú, son of Aed son of Ainmire, took flight or escaped by flight"
+event_U602.2_c0_e0,battle U602.2,Event,supported_by,evidence_U602.2,Evidence U602.2,Evidence,U602.2_c0_e0,U602.2,602,battle,"The battle of Slemain in which Colmán Rímid, king of Cenél nÉogain, was victor, and Conall Cú, son of Aed son of Ainmire, took flight or escaped by flight"
+year_602,602 CE,Year,has_event,event_U602.3_c0_e0,battle U602.3,Event,U602.3_c0_e0,U602.3,602,battle,The battle of Cúil Caíl in which Fiachna son of Demán took flight
+event_U602.3_c0_e0,battle U602.3,Event,supported_by,evidence_U602.3,Evidence U602.3,Evidence,U602.3_c0_e0,U602.3,602,battle,The battle of Cúil Caíl in which Fiachna son of Demán took flight
+year_602,602 CE,Year,has_event,event_U602.4_c0_e0,death U602.4,Event,U602.4_c0_e0,U602.4,602,death,Death of Uatu son of Aed
+event_U602.4_c0_e0,death U602.4,Event,victim,person_uatu_son_of_aed,Uatu,Person,U602.4_c0_e0,U602.4,602,death,Death of Uatu son of Aed
+event_U602.4_c0_e0,death U602.4,Event,supported_by,evidence_U602.4,Evidence U602.4,Evidence,U602.4_c0_e0,U602.4,602,death,Death of Uatu son of Aed
+year_602,602 CE,Year,has_event,event_U602.5_c0_e0,battle U602.5,Event,U602.5_c0_e0,U602.5,602,battle,The battle of Echros
+event_U602.5_c0_e0,battle U602.5,Event,supported_by,evidence_U602.5,Evidence U602.5,Evidence,U602.5_c0_e0,U602.5,602,battle,The battle of Echros
+year_603,603 CE,Year,has_event,event_U603.1_c0_e0,repose U603.1,Event,U603.1_c0_e0,U603.1,603,repose,Repose of Finntan moccu Echdach
+event_U603.1_c0_e0,repose U603.1,Event,victim,person_finntan_moccu_echdach,Finntan moccu Echdach,Person,U603.1_c0_e0,U603.1,603,repose,Repose of Finntan moccu Echdach
+event_U603.1_c0_e0,repose U603.1,Event,supported_by,evidence_U603.1,Evidence U603.1,Evidence,U603.1_c0_e0,U603.1,603,repose,Repose of Finntan moccu Echdach
+year_603,603 CE,Year,has_event,event_U603.2_c0_e0,battle U603.2,Event,U603.2_c0_e0,U603.2,603,battle,The battle of Echros in Muiresc between Cenél Cairpri and Uí Fhiachrach Muirsce
+event_U603.2_c0_e0,battle U603.2,Event,occurred_at,place_muiresc,Muiresc,Place,U603.2_c0_e0,U603.2,603,battle,The battle of Echros in Muiresc between Cenél Cairpri and Uí Fhiachrach Muirsce
+event_U603.2_c0_e0,battle U603.2,Event,supported_by,evidence_U603.2,Evidence U603.2,Evidence,U603.2_c0_e0,U603.2,603,battle,The battle of Echros in Muiresc between Cenél Cairpri and Uí Fhiachrach Muirsce
+year_603,603 CE,Year,has_event,event_U603.5_c0_e0,battle U603.5,Event,U603.5_c0_e0,U603.5,603,battle,The battle of Sliab Cua in Mumu
+event_U603.5_c0_e0,battle U603.5,Event,occurred_at,place_mumu,Mumu,Place,U603.5_c0_e0,U603.5,603,battle,The battle of Sliab Cua in Mumu
+event_U603.5_c0_e0,battle U603.5,Event,supported_by,evidence_U603.5,Evidence U603.5,Evidence,U603.5_c0_e0,U603.5,603,battle,The battle of Sliab Cua in Mumu
+year_604,604 CE,Year,has_event,event_U604.1_c0_e0,slaying U604.1,Event,U604.1_c0_e0,U604.1,604,slaying,The slaying of Colmán Rímid son of Baetán Bríge son of Muirchertach Mac Erca by a man of his own kindred i.e. by one of his kindred called Lochán Dilmana
+event_U604.1_c0_e0,slaying U604.1,Event,victim,person_colman_rimid_son_of_baetan_brige_son_of_muirchertach_mac_erca,Colmán Rímid,Person,U604.1_c0_e0,U604.1,604,slaying,The slaying of Colmán Rímid son of Baetán Bríge son of Muirchertach Mac Erca by a man of his own kindred i.e. by one of his kindred called Lochán Dilmana
+person_lochan_dilmana,Lochán Dilmana,Person,agent_in,event_U604.1_c0_e0,slaying U604.1,Event,U604.1_c0_e0,U604.1,604,slaying,The slaying of Colmán Rímid son of Baetán Bríge son of Muirchertach Mac Erca by a man of his own kindred i.e. by one of his kindred called Lochán Dilmana
+person_lochan_dilmana,Lochán Dilmana,Person,killed,person_colman_rimid_son_of_baetan_brige_son_of_muirchertach_mac_erca,Colmán Rímid,Person,U604.1_c0_e0,U604.1,604,slaying,The slaying of Colmán Rímid son of Baetán Bríge son of Muirchertach Mac Erca by a man of his own kindred i.e. by one of his kindred called Lochán Dilmana
+event_U604.1_c0_e0,slaying U604.1,Event,supported_by,evidence_U604.1,Evidence U604.1,Evidence,U604.1_c0_e0,U604.1,604,slaying,The slaying of Colmán Rímid son of Baetán Bríge son of Muirchertach Mac Erca by a man of his own kindred i.e. by one of his kindred called Lochán Dilmana
+year_604,604 CE,Year,has_event,event_U604.2_c0_e0,slaying U604.2,Event,U604.2_c0_e0,U604.2,604,slaying,The slaying of Aed Sláine son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Conall son of Suibne
+event_U604.2_c0_e0,slaying U604.2,Event,victim,person_aed_slaine_son_of_diarmait_derg_son_of_fergus_cerrbel,Aed Sláine,Person,U604.2_c0_e0,U604.2,604,slaying,The slaying of Aed Sláine son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Conall son of Suibne
+person_conall_son_of_suibne,Conall,Person,agent_in,event_U604.2_c0_e0,slaying U604.2,Event,U604.2_c0_e0,U604.2,604,slaying,The slaying of Aed Sláine son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Conall son of Suibne
+person_conall_son_of_suibne,Conall,Person,killed,person_aed_slaine_son_of_diarmait_derg_son_of_fergus_cerrbel,Aed Sláine,Person,U604.2_c0_e0,U604.2,604,slaying,The slaying of Aed Sláine son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Conall son of Suibne
+event_U604.2_c0_e0,slaying U604.2,Event,supported_by,evidence_U604.2,Evidence U604.2,Evidence,U604.2_c0_e0,U604.2,604,slaying,The slaying of Aed Sláine son of Diarmait Derg son of Fergus Cerrbél son of Conall of Cremthann son of Niall Naígiallach by Conall son of Suibne
+year_604,604 CE,Year,has_event,event_U604.3_c0_e0,slaying U604.3,Event,U604.3_c0_e0,U604.3,604,slaying,"The slaying of Aed Rón, king of Uí Failge, in Faithche Meic Meccnaen on the brink of Loch Semdid on the same day on which Áed Sláine was slain"
+event_U604.3_c0_e0,slaying U604.3,Event,victim,person_aed_ron,Aed Rón,Person,U604.3_c0_e0,U604.3,604,slaying,"The slaying of Aed Rón, king of Uí Failge, in Faithche Meic Meccnaen on the brink of Loch Semdid on the same day on which Áed Sláine was slain"
+event_U604.3_c0_e0,slaying U604.3,Event,occurred_at,place_faithche_meic_meccnaen,Faithche Meic Meccnaen,Place,U604.3_c0_e0,U604.3,604,slaying,"The slaying of Aed Rón, king of Uí Failge, in Faithche Meic Meccnaen on the brink of Loch Semdid on the same day on which Áed Sláine was slain"
+event_U604.3_c0_e0,slaying U604.3,Event,supported_by,evidence_U604.3,Evidence U604.3,Evidence,U604.3_c0_e0,U604.3,604,slaying,"The slaying of Aed Rón, king of Uí Failge, in Faithche Meic Meccnaen on the brink of Loch Semdid on the same day on which Áed Sláine was slain"
+year_604,604 CE,Year,has_event,event_U604.3_c1_e0,slaying U604.3,Event,U604.3_c1_e0,U604.3,604,slaying,"Aed Gustan, foster-brother of Conall, and Baethgal Bile, killed him"
+event_U604.3_c1_e0,slaying U604.3,Event,victim,person_aed_ron,Aed Rón,Person,U604.3_c1_e0,U604.3,604,slaying,"Aed Gustan, foster-brother of Conall, and Baethgal Bile, killed him"
+event_U604.3_c1_e0,slaying U604.3,Event,supported_by,evidence_U604.3,Evidence U604.3,Evidence,U604.3_c1_e0,U604.3,604,slaying,"Aed Gustan, foster-brother of Conall, and Baethgal Bile, killed him"
+year_604,604 CE,Year,has_event,event_U604.5_c0_e0,death U604.5,Event,U604.5_c0_e0,U604.5,604,death,"Death of Conall Cú, son of Áed son of Ainmire"
+event_U604.5_c0_e0,death U604.5,Event,victim,person_conall_cu,Conall Cú,Person,U604.5_c0_e0,U604.5,604,death,"Death of Conall Cú, son of Áed son of Ainmire"
+event_U604.5_c0_e0,death U604.5,Event,supported_by,evidence_U604.5,Evidence U604.5,Evidence,U604.5_c0_e0,U604.5,604,death,"Death of Conall Cú, son of Áed son of Ainmire"
+year_605,605 CE,Year,has_event,event_U605.1_c0_e0,battle U605.1,Event,U605.1_c0_e0,U605.1,605,battle,The battle of Slaebre in which Brandub son of Eochu was vanquished
+event_U605.1_c0_e0,battle U605.1,Event,supported_by,evidence_U605.1,Evidence U605.1,Evidence,U605.1_c0_e0,U605.1,605,battle,The battle of Slaebre in which Brandub son of Eochu was vanquished
+year_605,605 CE,Year,has_event,event_U605.2_c0_e0,slaying U605.2,Event,U605.2_c0_e0,U605.2,605,slaying,"The slaying of Brandub, king of Laigin, by his own kindred in treachery"
+event_U605.2_c0_e0,slaying U605.2,Event,victim,person_brandub_son_of_eochu_son_of_muiredach,Brandub,Person,U605.2_c0_e0,U605.2,605,slaying,"The slaying of Brandub, king of Laigin, by his own kindred in treachery"
+event_U605.2_c0_e0,slaying U605.2,Event,supported_by,evidence_U605.2,Evidence U605.2,Evidence,U605.2_c0_e0,U605.2,605,slaying,"The slaying of Brandub, king of Laigin, by his own kindred in treachery"
+year_605,605 CE,Year,has_event,event_U605.2_c2_e0,slaying U605.2,Event,U605.2_c2_e0,U605.2,605,slaying,He reigned 30 years in Laigin and was slain in the battle of Damchluain
+event_U605.2_c2_e0,slaying U605.2,Event,victim,person_brandub,Brandub,Person,U605.2_c2_e0,U605.2,605,slaying,He reigned 30 years in Laigin and was slain in the battle of Damchluain
+event_U605.2_c2_e0,slaying U605.2,Event,occurred_at,place_damchluain,Damchluain,Place,U605.2_c2_e0,U605.2,605,slaying,He reigned 30 years in Laigin and was slain in the battle of Damchluain
+event_U605.2_c2_e0,slaying U605.2,Event,supported_by,evidence_U605.2,Evidence U605.2,Evidence,U605.2_c2_e0,U605.2,605,slaying,He reigned 30 years in Laigin and was slain in the battle of Damchluain
+year_605,605 CE,Year,has_event,event_U605.2_c3_e0,slaying U605.2,Event,U605.2_c3_e0,U605.2,605,slaying,"or it may have been Sarán Saebderg, i.e. superior of Senboth Sine, who killed him, as the poet said"
+event_U605.2_c3_e0,slaying U605.2,Event,victim,person_brandub,Brandub,Person,U605.2_c3_e0,U605.2,605,slaying,"or it may have been Sarán Saebderg, i.e. superior of Senboth Sine, who killed him, as the poet said"
+person_saran_saebderg,Sarán Saebderg,Person,agent_in,event_U605.2_c3_e0,slaying U605.2,Event,U605.2_c3_e0,U605.2,605,slaying,"or it may have been Sarán Saebderg, i.e. superior of Senboth Sine, who killed him, as the poet said"
+person_saran_saebderg,Sarán Saebderg,Person,killed,person_brandub,Brandub,Person,U605.2_c3_e0,U605.2,605,slaying,"or it may have been Sarán Saebderg, i.e. superior of Senboth Sine, who killed him, as the poet said"
+event_U605.2_c3_e0,slaying U605.2,Event,supported_by,evidence_U605.2,Evidence U605.2,Evidence,U605.2_c3_e0,U605.2,605,slaying,"or it may have been Sarán Saebderg, i.e. superior of Senboth Sine, who killed him, as the poet said"
+year_605,605 CE,Year,has_event,event_U605.4_c0_e0,death U605.4,Event,U605.4_c0_e0,U605.4,605,death,"Death of Laisrén, abbot of Ía"
+event_U605.4_c0_e0,death U605.4,Event,victim,person_laisren,Laisrén,Person,U605.4_c0_e0,U605.4,605,death,"Death of Laisrén, abbot of Ía"
+event_U605.4_c0_e0,death U605.4,Event,supported_by,evidence_U605.4,Evidence U605.4,Evidence,U605.4_c0_e0,U605.4,605,death,"Death of Laisrén, abbot of Ía"
+year_606,606 CE,Year,has_event,event_U606.1_c0_e0,repose U606.1,Event,U606.1_c0_e0,U606.1,606,repose,"Repose of Beóguin, abbot of Bennchor"
+event_U606.1_c0_e0,repose U606.1,Event,victim,person_beoguin,Beóguin,Person,U606.1_c0_e0,U606.1,606,repose,"Repose of Beóguin, abbot of Bennchor"
+event_U606.1_c0_e0,repose U606.1,Event,supported_by,evidence_U606.1,Evidence U606.1,Evidence,U606.1_c0_e0,U606.1,606,repose,"Repose of Beóguin, abbot of Bennchor"
+year_606,606 CE,Year,has_event,event_U606.2_c0_e0,death U606.2,Event,U606.2_c0_e0,U606.2,606,death,"Death of Aedán son of Gabrán son of Domangart, king of Albu,"
+event_U606.2_c0_e0,death U606.2,Event,victim,person_aedan_son_of_gabran_son_of_domangart,Aedán,Person,U606.2_c0_e0,U606.2,606,death,"Death of Aedán son of Gabrán son of Domangart, king of Albu,"
+event_U606.2_c0_e0,death U606.2,Event,supported_by,evidence_U606.2,Evidence U606.2,Evidence,U606.2_c0_e0,U606.2,606,death,"Death of Aedán son of Gabrán son of Domangart, king of Albu,"
+year_606,606 CE,Year,has_event,event_U606.2_c1_e0,slaying U606.2,Event,U606.2_c1_e0,U606.2,606,slaying,and the slaying of the sons of Baetán i.e. son of Cairell
+event_U606.2_c1_e0,slaying U606.2,Event,supported_by,evidence_U606.2,Evidence U606.2,Evidence,U606.2_c1_e0,U606.2,606,slaying,and the slaying of the sons of Baetán i.e. son of Cairell
+year_608,608 CE,Year,has_event,event_U608.1_c0_e0,death U608.1,Event,U608.1_c0_e0,U608.1,608,death,"Death of Fiachna Crach son of Baetán, by the Cruithin, and repose of Aed son of Dall"
+event_U608.1_c0_e0,death U608.1,Event,victim,person_fiachna_crach_son_of_baetan,Fiachna Crach,Person,U608.1_c0_e0,U608.1,608,death,"Death of Fiachna Crach son of Baetán, by the Cruithin, and repose of Aed son of Dall"
+event_U608.1_c0_e0,death U608.1,Event,supported_by,evidence_U608.1,Evidence U608.1,Evidence,U608.1_c0_e0,U608.1,608,death,"Death of Fiachna Crach son of Baetán, by the Cruithin, and repose of Aed son of Dall"
+year_609,609 CE,Year,has_event,event_U609.1_c1_e0,death U609.1,Event,U609.1_c1_e0,U609.1,609,death,"and the death of Conall son of Daiméne,"
+event_U609.1_c1_e0,death U609.1,Event,victim,person_conall_son_of_daimene,Conall,Person,U609.1_c1_e0,U609.1,609,death,"and the death of Conall son of Daiméne,"
+event_U609.1_c1_e0,death U609.1,Event,supported_by,evidence_U609.1,Evidence U609.1,Evidence,U609.1_c1_e0,U609.1,609,death,"and the death of Conall son of Daiméne,"
+year_609,609 CE,Year,has_event,event_U609.1_c2_e0,repose U609.1,Event,U609.1_c2_e0,U609.1,609,repose,and the repose of Lugaid moccu Óchae
+event_U609.1_c2_e0,repose U609.1,Event,victim,person_lugaid_moccu_ochae,Lugaid moccu Óchae,Person,U609.1_c2_e0,U609.1,609,repose,and the repose of Lugaid moccu Óchae
+event_U609.1_c2_e0,repose U609.1,Event,supported_by,evidence_U609.1,Evidence U609.1,Evidence,U609.1_c2_e0,U609.1,609,repose,and the repose of Lugaid moccu Óchae
+year_610,610 CE,Year,has_event,event_U610.1_c0_e0,death U610.1,Event,U610.1_c0_e0,U610.1,610,death,"Death of Aed son of Colgu, king of Ind Airthir"
+event_U610.1_c0_e0,death U610.1,Event,victim,person_aed_son_of_colgu,Aed,Person,U610.1_c0_e0,U610.1,610,death,"Death of Aed son of Colgu, king of Ind Airthir"
+event_U610.1_c0_e0,death U610.1,Event,supported_by,evidence_U610.1,Evidence U610.1,Evidence,U610.1_c0_e0,U610.1,610,death,"Death of Aed son of Colgu, king of Ind Airthir"
+year_610,610 CE,Year,has_event,event_U610.2_c0_e0,death U610.2,Event,U610.2_c0_e0,U610.2,610,death,"Death of Sillán moccu Minn, abbot of Bennchor,"
+event_U610.2_c0_e0,death U610.2,Event,victim,person_sillan_moccu_minn,Sillán moccu Minn,Person,U610.2_c0_e0,U610.2,610,death,"Death of Sillán moccu Minn, abbot of Bennchor,"
+event_U610.2_c0_e0,death U610.2,Event,supported_by,evidence_U610.2,Evidence U610.2,Evidence,U610.2_c0_e0,U610.2,610,death,"Death of Sillán moccu Minn, abbot of Bennchor,"
+year_610,610 CE,Year,has_event,event_U610.2_c1_e0,death U610.2,Event,U610.2_c1_e0,U610.2,610,death,"and the death of Aedán, anchorite of Bennchor,"
+event_U610.2_c1_e0,death U610.2,Event,victim,person_aedan,Aedán,Person,U610.2_c1_e0,U610.2,610,death,"and the death of Aedán, anchorite of Bennchor,"
+event_U610.2_c1_e0,death U610.2,Event,supported_by,evidence_U610.2,Evidence U610.2,Evidence,U610.2_c1_e0,U610.2,610,death,"and the death of Aedán, anchorite of Bennchor,"
+year_610,610 CE,Year,has_event,event_U610.2_c2_e0,death U610.2,Event,U610.2_c2_e0,U610.2,610,death,and the death of Mael Umai son of Baetán
+event_U610.2_c2_e0,death U610.2,Event,victim,person_mael_umai_son_of_baetan,Mael Umai,Person,U610.2_c2_e0,U610.2,610,death,and the death of Mael Umai son of Baetán
+event_U610.2_c2_e0,death U610.2,Event,supported_by,evidence_U610.2,Evidence U610.2,Evidence,U610.2_c2_e0,U610.2,610,death,and the death of Mael Umai son of Baetán
+year_611,611 CE,Year,has_event,event_U611.2_c0_e0,death U611.2,Event,U611.2_c0_e0,U611.2,611,death,"Death of Mael Dúin son of Ailéne, king of Mugdorna, and death of Eógan son of Eochu Laib"
+event_U611.2_c0_e0,death U611.2,Event,victim,person_mael_duin_son_of_ailene,Mael Dúin,Person,U611.2_c0_e0,U611.2,611,death,"Death of Mael Dúin son of Ailéne, king of Mugdorna, and death of Eógan son of Eochu Laib"
+event_U611.2_c0_e0,death U611.2,Event,supported_by,evidence_U611.2,Evidence U611.2,Evidence,U611.2_c0_e0,U611.2,611,death,"Death of Mael Dúin son of Ailéne, king of Mugdorna, and death of Eógan son of Eochu Laib"
+year_611,611 CE,Year,has_event,event_U611.3_c0_e0,repose U611.3,Event,U611.3_c0_e0,U611.3,611,repose,Repose of Colmán of Lann Ela
+event_U611.3_c0_e0,repose U611.3,Event,victim,person_colman_of_lann_ela,Colmán of Lann Ela,Person,U611.3_c0_e0,U611.3,611,repose,Repose of Colmán of Lann Ela
+event_U611.3_c0_e0,repose U611.3,Event,supported_by,evidence_U611.3,Evidence U611.3,Evidence,U611.3_c0_e0,U611.3,611,repose,Repose of Colmán of Lann Ela
+year_612,612 CE,Year,has_event,event_U612.1_c0_e0,death U612.1,Event,U612.1_c0_e0,U612.1,612,death,"Death of Aed Allán son of Domnall, king of Temair"
+event_U612.1_c0_e0,death U612.1,Event,victim,person_aed_allan_son_of_domnall,Aed Allán,Person,U612.1_c0_e0,U612.1,612,death,"Death of Aed Allán son of Domnall, king of Temair"
+event_U612.1_c0_e0,death U612.1,Event,supported_by,evidence_U612.1,Evidence U612.1,Evidence,U612.1_c0_e0,U612.1,612,death,"Death of Aed Allán son of Domnall, king of Temair"
+year_612,612 CE,Year,has_event,event_U612.2_c0_e0,battle U612.2,Event,U612.2_c0_e0,U612.2,612,battle,"The battle of Odba, won by Aengus son of Colmán, in which fell Conall Laeg Breg son of Aed Sláine"
+person_aengus_son_of_colman,Aengus,Person,agent_in,event_U612.2_c0_e0,battle U612.2,Event,U612.2_c0_e0,U612.2,612,battle,"The battle of Odba, won by Aengus son of Colmán, in which fell Conall Laeg Breg son of Aed Sláine"
+event_U612.2_c0_e0,battle U612.2,Event,supported_by,evidence_U612.2,Evidence U612.2,Evidence,U612.2_c0_e0,U612.2,612,battle,"The battle of Odba, won by Aengus son of Colmán, in which fell Conall Laeg Breg son of Aed Sláine"
+year_613,613 CE,Year,has_event,event_U613.1_c0_e0,repose U613.1,Event,U613.1_c0_e0,U613.1,613,repose,"Repose of Finntan of Aentrab, abbot of Bennchor"
+event_U613.1_c0_e0,repose U613.1,Event,victim,person_finntan_of_aentrab,Finntan of Aentrab,Person,U613.1_c0_e0,U613.1,613,repose,"Repose of Finntan of Aentrab, abbot of Bennchor"
+event_U613.1_c0_e0,repose U613.1,Event,supported_by,evidence_U613.1,Evidence U613.1,Evidence,U613.1_c0_e0,U613.1,613,repose,"Repose of Finntan of Aentrab, abbot of Bennchor"
+year_613,613 CE,Year,has_event,event_U613.2_c0_e0,death U613.2,Event,U613.2_c0_e0,U613.2,613,death,Death of Colmán Uathach
+event_U613.2_c0_e0,death U613.2,Event,victim,person_colman_uathach,Colmán Uathach,Person,U613.2_c0_e0,U613.2,613,death,Death of Colmán Uathach
+event_U613.2_c0_e0,death U613.2,Event,supported_by,evidence_U613.2,Evidence U613.2,Evidence,U613.2_c0_e0,U613.2,613,death,Death of Colmán Uathach
+year_613,613 CE,Year,has_event,event_U613.3_c0_e0,slaying U613.3,Event,U613.3_c0_e0,U613.3,613,slaying,"The battle of Caer Legion, in which holy men were slain, and Solon son of Conaen, king of the Britons fell"
+event_U613.3_c0_e0,slaying U613.3,Event,supported_by,evidence_U613.3,Evidence U613.3,Evidence,U613.3_c0_e0,U613.3,613,slaying,"The battle of Caer Legion, in which holy men were slain, and Solon son of Conaen, king of the Britons fell"
+year_615,615 CE,Year,has_event,event_U615.1_c0_e0,slaying U615.1,Event,U615.1_c0_e0,U615.1,615,slaying,"The slaying of Mael Coba son of Áed in the battle of Sliab Tuath Bélgadhain, alias in the battle of Sliab Truim"
+event_U615.1_c0_e0,slaying U615.1,Event,victim,person_mael_coba_son_of_aed,Mael Coba,Person,U615.1_c0_e0,U615.1,615,slaying,"The slaying of Mael Coba son of Áed in the battle of Sliab Tuath Bélgadhain, alias in the battle of Sliab Truim"
+event_U615.1_c0_e0,slaying U615.1,Event,occurred_at,place_the_battle_of_sliab_truim,the battle of Sliab Truim,Place,U615.1_c0_e0,U615.1,615,slaying,"The slaying of Mael Coba son of Áed in the battle of Sliab Tuath Bélgadhain, alias in the battle of Sliab Truim"
+event_U615.1_c0_e0,slaying U615.1,Event,supported_by,evidence_U615.1,Evidence U615.1,Evidence,U615.1_c0_e0,U615.1,615,slaying,"The slaying of Mael Coba son of Áed in the battle of Sliab Tuath Bélgadhain, alias in the battle of Sliab Truim"
+year_615,615 CE,Year,has_event,event_U615.2_c0_e0,repose U615.2,Event,U615.2_c0_e0,U615.2,615,repose,"Repose of Diarmait, third abbot of Cluain Iraird"
+event_U615.2_c0_e0,repose U615.2,Event,victim,person_diarmait,Diarmait,Person,U615.2_c0_e0,U615.2,615,repose,"Repose of Diarmait, third abbot of Cluain Iraird"
+event_U615.2_c0_e0,repose U615.2,Event,supported_by,evidence_U615.2,Evidence U615.2,Evidence,U615.2_c0_e0,U615.2,615,repose,"Repose of Diarmait, third abbot of Cluain Iraird"
+year_615,615 CE,Year,has_event,event_U615.3_c0_e0,battle U615.3,Event,U615.3_c0_e0,U615.3,615,battle,The battle of Fidnach eilech in riaddai (?)
+event_U615.3_c0_e0,battle U615.3,Event,supported_by,evidence_U615.3,Evidence U615.3,Evidence,U615.3_c0_e0,U615.3,615,battle,The battle of Fidnach eilech in riaddai (?)
+year_616,616 CE,Year,has_event,event_U616.1_c0_e0,death U616.1,Event,U616.1_c0_e0,U616.1,616,death,"Death of Suibne son of Crechéne, king of Ciannachta Glinne Geimin, and death of Aedán son of Mongan, king of Dál Riata or nAraide and death of Petrán bishop of Lusca"
+event_U616.1_c0_e0,death U616.1,Event,victim,person_suibne_son_of_crechene,Suibne,Person,U616.1_c0_e0,U616.1,616,death,"Death of Suibne son of Crechéne, king of Ciannachta Glinne Geimin, and death of Aedán son of Mongan, king of Dál Riata or nAraide and death of Petrán bishop of Lusca"
+event_U616.1_c0_e0,death U616.1,Event,supported_by,evidence_U616.1,Evidence U616.1,Evidence,U616.1_c0_e0,U616.1,616,death,"Death of Suibne son of Crechéne, king of Ciannachta Glinne Geimin, and death of Aedán son of Mongan, king of Dál Riata or nAraide and death of Petrán bishop of Lusca"
+year_618,618 CE,Year,has_event,event_U618.2_c0_e0,slaying U618.2,Event,U618.2_c0_e0,U618.2,618,slaying,The slaying of Colgu son of Suibne
+event_U618.2_c0_e0,slaying U618.2,Event,victim,person_colgu_son_of_suibne,Colgu,Person,U618.2_c0_e0,U618.2,618,slaying,The slaying of Colgu son of Suibne
+event_U618.2_c0_e0,slaying U618.2,Event,supported_by,evidence_U618.2,Evidence U618.2,Evidence,U618.2_c0_e0,U618.2,618,slaying,The slaying of Colgu son of Suibne
+year_618,618 CE,Year,has_event,event_U618.2_c1_e0,death U618.2,Event,U618.2_c1_e0,U618.2,618,death,and the death of Fiachra son of Conall
+event_U618.2_c1_e0,death U618.2,Event,victim,person_fiachra_son_of_conall,Fiachra,Person,U618.2_c1_e0,U618.2,618,death,and the death of Fiachra son of Conall
+event_U618.2_c1_e0,death U618.2,Event,supported_by,evidence_U618.2,Evidence U618.2,Evidence,U618.2_c1_e0,U618.2,618,death,and the death of Fiachra son of Conall
+year_618,618 CE,Year,has_event,event_U618.2_c2_e0,slaying U618.2,Event,U618.2_c2_e0,U618.2,618,slaying,"and the slaying of Fergus son of Colmán Mór i.e. by Anfartach descendant of Mescán, of the people of Blaitíne"
+event_U618.2_c2_e0,slaying U618.2,Event,victim,person_fergus_son_of_colman_mor,Fergus,Person,U618.2_c2_e0,U618.2,618,slaying,"and the slaying of Fergus son of Colmán Mór i.e. by Anfartach descendant of Mescán, of the people of Blaitíne"
+person_anfartach_descendant_of_mescan,Anfartach descendant of Mescán,Person,agent_in,event_U618.2_c2_e0,slaying U618.2,Event,U618.2_c2_e0,U618.2,618,slaying,"and the slaying of Fergus son of Colmán Mór i.e. by Anfartach descendant of Mescán, of the people of Blaitíne"
+person_anfartach_descendant_of_mescan,Anfartach descendant of Mescán,Person,killed,person_fergus_son_of_colman_mor,Fergus,Person,U618.2_c2_e0,U618.2,618,slaying,"and the slaying of Fergus son of Colmán Mór i.e. by Anfartach descendant of Mescán, of the people of Blaitíne"
+event_U618.2_c2_e0,slaying U618.2,Event,supported_by,evidence_U618.2,Evidence U618.2,Evidence,U618.2_c2_e0,U618.2,618,slaying,"and the slaying of Fergus son of Colmán Mór i.e. by Anfartach descendant of Mescán, of the people of Blaitíne"
+year_619,619 CE,Year,has_event,event_U619.2_c0_e0,death U619.2,Event,U619.2_c0_e0,U619.2,619,death,"Death of Sillán, abbot of Mag Bili"
+event_U619.2_c0_e0,death U619.2,Event,victim,person_sillan,Sillán,Person,U619.2_c0_e0,U619.2,619,death,"Death of Sillán, abbot of Mag Bili"
+event_U619.2_c0_e0,death U619.2,Event,supported_by,evidence_U619.2,Evidence U619.2,Evidence,U619.2_c0_e0,U619.2,619,death,"Death of Sillán, abbot of Mag Bili"
+year_619,619 CE,Year,has_event,event_U619.3_c0_e0,death U619.3,Event,U619.3_c0_e0,U619.3,619,death,Death of Aed Bennán and of Fíngein son of Fiachra
+event_U619.3_c0_e0,death U619.3,Event,victim,person_aed_bennan_and_of_fingein_son_of_fiachra,Aed Bennán and of Fíngein,Person,U619.3_c0_e0,U619.3,619,death,Death of Aed Bennán and of Fíngein son of Fiachra
+event_U619.3_c0_e0,death U619.3,Event,supported_by,evidence_U619.3,Evidence U619.3,Evidence,U619.3_c0_e0,U619.3,619,death,Death of Aed Bennán and of Fíngein son of Fiachra
+year_620,620 CE,Year,has_event,event_U620.1_c0_e0,slaying U620.1,Event,U620.1_c0_e0,U620.1,620,slaying,The slaying in Mag Slécht in the territory of Connacht of the kindred of Baetán i.e. of Ailill son of Baetán and of Mael Dúin son of Fergus son of Baetan
+event_U620.1_c0_e0,slaying U620.1,Event,occurred_at,place_mag_slecht,Mag Slécht,Place,U620.1_c0_e0,U620.1,620,slaying,The slaying in Mag Slécht in the territory of Connacht of the kindred of Baetán i.e. of Ailill son of Baetán and of Mael Dúin son of Fergus son of Baetan
+event_U620.1_c0_e0,slaying U620.1,Event,supported_by,evidence_U620.1,Evidence U620.1,Evidence,U620.1_c0_e0,U620.1,620,slaying,The slaying in Mag Slécht in the territory of Connacht of the kindred of Baetán i.e. of Ailill son of Baetán and of Mael Dúin son of Fergus son of Baetan
+year_620,620 CE,Year,has_event,event_U620.1_c1_e0,death U620.1,Event,U620.1_c1_e0,U620.1,620,death,and the death of Fiachra son of Ciarán son of Ainmire son of Sétna
+event_U620.1_c1_e0,death U620.1,Event,victim,person_fiachra_son_of_ciaran_son_of_ainmire,Fiachra,Person,U620.1_c1_e0,U620.1,620,death,and the death of Fiachra son of Ciarán son of Ainmire son of Sétna
+event_U620.1_c1_e0,death U620.1,Event,supported_by,evidence_U620.1,Evidence U620.1,Evidence,U620.1_c1_e0,U620.1,620,death,and the death of Fiachra son of Ciarán son of Ainmire son of Sétna
+year_622,622 CE,Year,has_event,event_U622.1_c0_e0,battle U622.1,Event,U622.1_c0_e0,U622.1,622,battle,The battle of Cenn Deilgthen
+event_U622.1_c0_e0,battle U622.1,Event,supported_by,evidence_U622.1,Evidence U622.1,Evidence,U622.1_c0_e0,U622.1,622,battle,The battle of Cenn Deilgthen
+year_622,622 CE,Year,has_event,event_U622.3_c0_e0,death U622.3,Event,U622.3_c0_e0,U622.3,622,death,"Death of Mael Mracho son of Rímid son of Colmán son of Cobthach, and of Ailill son of Cellach"
+event_U622.3_c0_e0,death U622.3,Event,victim,person_mael_mracho_son_of_rimid_son_of_colman,Mael Mracho,Person,U622.3_c0_e0,U622.3,622,death,"Death of Mael Mracho son of Rímid son of Colmán son of Cobthach, and of Ailill son of Cellach"
+event_U622.3_c0_e0,death U622.3,Event,supported_by,evidence_U622.3,Evidence U622.3,Evidence,U622.3_c0_e0,U622.3,622,death,"Death of Mael Mracho son of Rímid son of Colmán son of Cobthach, and of Ailill son of Cellach"
+year_622,622 CE,Year,has_event,event_U622.4_c0_e0,battle U622.4,Event,U622.4_c0_e0,U622.4,622,battle,The battle of Lindas
+event_U622.4_c0_e0,battle U622.4,Event,supported_by,evidence_U622.4,Evidence U622.4,Evidence,U622.4_c0_e0,U622.4,622,battle,The battle of Lindas
+year_622,622 CE,Year,has_event,event_U622.5_c0_e0,repose U622.5,Event,U622.5_c0_e0,U622.5,622,repose,Repose of Caemgein of Glenn dá Locha according to some
+event_U622.5_c0_e0,repose U622.5,Event,victim,person_caemgein_of_glenn_da_locha_according_to_some,Caemgein of Glenn dá Locha according to some,Person,U622.5_c0_e0,U622.5,622,repose,Repose of Caemgein of Glenn dá Locha according to some
+event_U622.5_c0_e0,repose U622.5,Event,supported_by,evidence_U622.5,Evidence U622.5,Evidence,U622.5_c0_e0,U622.5,622,repose,Repose of Caemgein of Glenn dá Locha according to some
+year_622,622 CE,Year,has_event,event_U622.6_c0_e0,battle U622.6,Event,U622.6_c0_e0,U622.6,622,battle,"The battle of Cennbag, in which Colmán son of Cobthach fell"
+event_U622.6_c0_e0,battle U622.6,Event,supported_by,evidence_U622.6,Evidence U622.6,Evidence,U622.6_c0_e0,U622.6,622,battle,"The battle of Cennbag, in which Colmán son of Cobthach fell"
+year_622,622 CE,Year,has_event,event_U622.8_c0_e0,death U622.8,Event,U622.8_c0_e0,U622.8,622,death,The death of Colgu son of Cellach
+event_U622.8_c0_e0,death U622.8,Event,victim,person_colgu_son_of_cellach,Colgu,Person,U622.8_c0_e0,U622.8,622,death,The death of Colgu son of Cellach
+event_U622.8_c0_e0,death U622.8,Event,supported_by,evidence_U622.8,Evidence U622.8,Evidence,U622.8_c0_e0,U622.8,622,death,The death of Colgu son of Cellach
+year_623,623 CE,Year,has_event,event_U623.1_c0_e0,death U623.1,Event,U623.1_c0_e0,U623.1,623,death,"Death of Fergna, abbot of Í"
+event_U623.1_c0_e0,death U623.1,Event,victim,person_fergna,Fergna,Person,U623.1_c0_e0,U623.1,623,death,"Death of Fergna, abbot of Í"
+event_U623.1_c0_e0,death U623.1,Event,supported_by,evidence_U623.1,Evidence U623.1,Evidence,U623.1_c0_e0,U623.1,623,death,"Death of Fergna, abbot of Í"
+year_623,623 CE,Year,has_event,event_U623.2_c0_e0,repose U623.2,Event,U623.2_c0_e0,U623.2,623,repose,"Repose of Mac Laisre, abbot of Ard Macha, and of Finnia, abbot of Ner"
+event_U623.2_c0_e0,repose U623.2,Event,victim,person_mac_laisre,Mac Laisre,Person,U623.2_c0_e0,U623.2,623,repose,"Repose of Mac Laisre, abbot of Ard Macha, and of Finnia, abbot of Ner"
+event_U623.2_c0_e0,repose U623.2,Event,supported_by,evidence_U623.2,Evidence U623.2,Evidence,U623.2_c0_e0,U623.2,623,repose,"Repose of Mac Laisre, abbot of Ard Macha, and of Finnia, abbot of Ner"
+year_624,624 CE,Year,has_event,event_U624.1_c0_e0,death U624.1,Event,U624.1_c0_e0,U624.1,624,death,"Death of Rónán, son of Colmán"
+event_U624.1_c0_e0,death U624.1,Event,victim,person_ronan,Rónán,Person,U624.1_c0_e0,U624.1,624,death,"Death of Rónán, son of Colmán"
+event_U624.1_c0_e0,death U624.1,Event,supported_by,evidence_U624.1,Evidence U624.1,Evidence,U624.1_c0_e0,U624.1,624,death,"Death of Rónán, son of Colmán"
+year_626,626 CE,Year,has_event,event_U626.1_c0_e0,battle U626.1,Event,U626.1_c0_e0,U626.1,626,battle,The battle of Leithet Midind in which Fiachna of Lurga fell
+event_U626.1_c0_e0,battle U626.1,Event,supported_by,evidence_U626.1,Evidence U626.1,Evidence,U626.1_c0_e0,U626.1,626,battle,The battle of Leithet Midind in which Fiachna of Lurga fell
+year_627,627 CE,Year,has_event,event_U627.1_c0_e0,battle U627.1,Event,U627.1_c0_e0,U627.1,627,battle,The battle of Ard Corann in which fell Fiachna son of Demán
+event_U627.1_c0_e0,battle U627.1,Event,supported_by,evidence_U627.1,Evidence U627.1,Evidence,U627.1_c0_e0,U627.1,627,battle,The battle of Ard Corann in which fell Fiachna son of Demán
+year_627,627 CE,Year,has_event,event_U627.2_c0_e0,battle U627.2,Event,U627.2_c0_e0,U627.2,627,battle,"The battle of Carn Feradaig in Cliú, in which Failbe the Red of Feimen was victor"
+event_U627.2_c0_e0,battle U627.2,Event,supported_by,evidence_U627.2,Evidence U627.2,Evidence,U627.2_c0_e0,U627.2,627,battle,"The battle of Carn Feradaig in Cliú, in which Failbe the Red of Feimen was victor"
+year_628,628 CE,Year,has_event,event_U628.1_c0_e0,battle U628.1,Event,U628.1_c0_e0,U628.1,628,battle,"The battle of Bolg Luatha, in which Faelán son of Colmán, king of Laigin, was victor"
+event_U628.1_c0_e0,battle U628.1,Event,supported_by,evidence_U628.1,Evidence U628.1,Evidence,U628.1_c0_e0,U628.1,628,battle,"The battle of Bolg Luatha, in which Faelán son of Colmán, king of Laigin, was victor"
+year_628,628 CE,Year,has_event,event_U628.2_c0_e0,battle U628.2,Event,U628.2_c0_e0,U628.2,628,battle,"The battle of Both, in which Suibne Menn son of Fiachna was victor, and Domnall son of Aed took flight"
+event_U628.2_c0_e0,battle U628.2,Event,supported_by,evidence_U628.2,Evidence U628.2,Evidence,U628.2_c0_e0,U628.2,628,battle,"The battle of Both, in which Suibne Menn son of Fiachna was victor, and Domnall son of Aed took flight"
+year_628,628 CE,Year,has_event,event_U628.3_c0_e0,slaying U628.3,Event,U628.3_c0_e0,U628.3,628,slaying,"The slaying of Suibne Menn—the king of Ireland, Suibne Menn son of Fiachna son of Feradach son of Muiredach son of Eógan—in Taerr Bréni, i.e. by Congal Caech son of Scanlán"
+event_U628.3_c0_e0,slaying U628.3,Event,victim,person_suibne_menn_the_king_of_ireland,Suibne Menn—the king of Ireland,Person,U628.3_c0_e0,U628.3,628,slaying,"The slaying of Suibne Menn—the king of Ireland, Suibne Menn son of Fiachna son of Feradach son of Muiredach son of Eógan—in Taerr Bréni, i.e. by Congal Caech son of Scanlán"
+person_congal_caech_son_of_scanlan,Congal Caech,Person,agent_in,event_U628.3_c0_e0,slaying U628.3,Event,U628.3_c0_e0,U628.3,628,slaying,"The slaying of Suibne Menn—the king of Ireland, Suibne Menn son of Fiachna son of Feradach son of Muiredach son of Eógan—in Taerr Bréni, i.e. by Congal Caech son of Scanlán"
+person_congal_caech_son_of_scanlan,Congal Caech,Person,killed,person_suibne_menn_the_king_of_ireland,Suibne Menn—the king of Ireland,Person,U628.3_c0_e0,U628.3,628,slaying,"The slaying of Suibne Menn—the king of Ireland, Suibne Menn son of Fiachna son of Feradach son of Muiredach son of Eógan—in Taerr Bréni, i.e. by Congal Caech son of Scanlán"
+event_U628.3_c0_e0,slaying U628.3,Event,occurred_at,place_taerr_breni,Taerr Bréni,Place,U628.3_c0_e0,U628.3,628,slaying,"The slaying of Suibne Menn—the king of Ireland, Suibne Menn son of Fiachna son of Feradach son of Muiredach son of Eógan—in Taerr Bréni, i.e. by Congal Caech son of Scanlán"
+event_U628.3_c0_e0,slaying U628.3,Event,supported_by,evidence_U628.3,Evidence U628.3,Evidence,U628.3_c0_e0,U628.3,628,slaying,"The slaying of Suibne Menn—the king of Ireland, Suibne Menn son of Fiachna son of Feradach son of Muiredach son of Eógan—in Taerr Bréni, i.e. by Congal Caech son of Scanlán"
+year_628,628 CE,Year,has_event,event_U628.4_c0_e0,repose U628.4,Event,U628.4_c0_e0,U628.4,628,repose,"Repose of Colum son of Bairdéne, abbot of Cluain"
+event_U628.4_c0_e0,repose U628.4,Event,victim,person_colum_son_of_bairdene,Colum,Person,U628.4_c0_e0,U628.4,628,repose,"Repose of Colum son of Bairdéne, abbot of Cluain"
+event_U628.4_c0_e0,repose U628.4,Event,supported_by,evidence_U628.4,Evidence U628.4,Evidence,U628.4_c0_e0,U628.4,628,repose,"Repose of Colum son of Bairdéne, abbot of Cluain"
+year_629,629 CE,Year,has_event,event_U629.1_c0_e0,battle U629.1,Event,U629.1_c0_e0,U629.1,629,battle,"The battle of Fid Eóin in which Mael Caích son of Scannal, king of the Cruithin, was victor"
+event_U629.1_c0_e0,battle U629.1,Event,supported_by,evidence_U629.1,Evidence U629.1,Evidence,U629.1_c0_e0,U629.1,629,battle,"The battle of Fid Eóin in which Mael Caích son of Scannal, king of the Cruithin, was victor"
+year_629,629 CE,Year,has_event,event_U629.2_c0_e0,battle U629.2,Event,U629.2_c0_e0,U629.2,629,battle,"The battle of Dún Ceithirn, in which Congal Caech took flight, and Domnall son of Aed was victor, in which Guaire son of Forinnán fell"
+event_U629.2_c0_e0,battle U629.2,Event,supported_by,evidence_U629.2,Evidence U629.2,Evidence,U629.2_c0_e0,U629.2,629,battle,"The battle of Dún Ceithirn, in which Congal Caech took flight, and Domnall son of Aed was victor, in which Guaire son of Forinnán fell"
+year_629,629 CE,Year,has_event,event_U629.3_c0_e0,battle U629.3,Event,U629.3_c0_e0,U629.3,629,battle,"Or, the battle of Fid Eóin, in which fell the grandsons of Aedán, Rigullon and Failbe"
+event_U629.3_c0_e0,battle U629.3,Event,supported_by,evidence_U629.3,Evidence U629.3,Evidence,U629.3_c0_e0,U629.3,629,battle,"Or, the battle of Fid Eóin, in which fell the grandsons of Aedán, Rigullon and Failbe"
+year_629,629 CE,Year,has_event,event_U629.4_c0_e0,death U629.4,Event,U629.4_c0_e0,U629.4,629,death,"Death of Echaid Buide son of Aedán, king of the Picts"
+event_U629.4_c0_e0,death U629.4,Event,victim,person_echaid_buide_son_of_aedan,Echaid Buide,Person,U629.4_c0_e0,U629.4,629,death,"Death of Echaid Buide son of Aedán, king of the Picts"
+event_U629.4_c0_e0,death U629.4,Event,supported_by,evidence_U629.4,Evidence U629.4,Evidence,U629.4_c0_e0,U629.4,629,death,"Death of Echaid Buide son of Aedán, king of the Picts"
+year_630,630 CE,Year,has_event,event_U630.1_c0_e0,battle U630.1,Event,U630.1_c0_e0,U630.1,630,battle,"The battle of Leitheirbe between the Cenél nEógain themselves, in which Mael Fithrich fell"
+event_U630.1_c0_e0,battle U630.1,Event,supported_by,evidence_U630.1,Evidence U630.1,Evidence,U630.1_c0_e0,U630.1,630,battle,"The battle of Leitheirbe between the Cenél nEógain themselves, in which Mael Fithrich fell"
+year_630,630 CE,Year,has_event,event_U630.1_c1_e0,battle U630.1,Event,U630.1_c1_e0,U630.1,630,battle,and the battle of Mitaine
+event_U630.1_c1_e0,battle U630.1,Event,supported_by,evidence_U630.1,Evidence U630.1,Evidence,U630.1_c1_e0,U630.1,630,battle,and the battle of Mitaine
+year_630,630 CE,Year,has_event,event_U630.3_c1_e0,battle U630.3,Event,U630.3_c1_e0,U630.3,630,battle,"The battle of Leitheirbe between the descendants of Mac Erca and the descendants of Feradach, in which Mael Fithrich fell"
+event_U630.3_c1_e0,battle U630.3,Event,supported_by,evidence_U630.3,Evidence U630.3,Evidence,U630.3_c1_e0,U630.3,630,battle,"The battle of Leitheirbe between the descendants of Mac Erca and the descendants of Feradach, in which Mael Fithrich fell"
+year_631,631 CE,Year,has_event,event_U631.1_c0_e0,death U631.1,Event,U631.1_c0_e0,U631.1,631,death,"The battle of Aille's son, and death of Cinaed son of Lugthréine, king of the Picts"
+event_U631.1_c0_e0,death U631.1,Event,victim,person_cinaed_son_of_lugthreine,Cinaed,Person,U631.1_c0_e0,U631.1,631,death,"The battle of Aille's son, and death of Cinaed son of Lugthréine, king of the Picts"
+event_U631.1_c0_e0,death U631.1,Event,supported_by,evidence_U631.1,Evidence U631.1,Evidence,U631.1_c0_e0,U631.1,631,death,"The battle of Aille's son, and death of Cinaed son of Lugthréine, king of the Picts"
+year_632,632 CE,Year,has_event,event_U632.1_c0_e0,battle U632.1,Event,U632.1_c0_e0,U632.1,632,battle,"The battle of Cadwallon, king of the Britons, and Ainfrith"
+event_U632.1_c0_e0,battle U632.1,Event,supported_by,evidence_U632.1,Evidence U632.1,Evidence,U632.1_c0_e0,U632.1,632,battle,"The battle of Cadwallon, king of the Britons, and Ainfrith"
+year_632,632 CE,Year,has_event,event_U632.3_c0_e0,battle U632.3,Event,U632.3_c0_e0,U632.3,632,battle,"The battle of Áth Abla, in which Dícuill son of Fergus Tuile fell by the Munster host"
+event_U632.3_c0_e0,battle U632.3,Event,supported_by,evidence_U632.3,Evidence U632.3,Evidence,U632.3_c0_e0,U632.3,632,battle,"The battle of Áth Abla, in which Dícuill son of Fergus Tuile fell by the Munster host"
+year_633,633 CE,Year,has_event,event_U633.1_c0_e0,battle U633.1,Event,U633.1_c0_e0,U633.1,633,battle,"The battle of Iudris, king of the Britons"
+event_U633.1_c0_e0,battle U633.1,Event,supported_by,evidence_U633.1,Evidence U633.1,Evidence,U633.1_c0_e0,U633.1,633,battle,"The battle of Iudris, king of the Britons"
+year_633,633 CE,Year,has_event,event_U633.2_c0_e0,battle U633.2,Event,U633.2_c0_e0,U633.2,633,battle,"The battle of Áth Goan in western Life, in which Cremthann son of Aed son of Senach, king of Laigin, fell"
+event_U633.2_c0_e0,battle U633.2,Event,supported_by,evidence_U633.2,Evidence U633.2,Evidence,U633.2_c0_e0,U633.2,633,battle,"The battle of Áth Goan in western Life, in which Cremthann son of Aed son of Senach, king of Laigin, fell"
+year_635,635 CE,Year,has_event,event_U635.1_c0_e0,slaying U635.1,Event,U635.1_c0_e0,U635.1,635,slaying,The slaying of Conall son of Suibne in the house of Nad-Fraích's son by Diarmait son of Aed Sláine
+event_U635.1_c0_e0,slaying U635.1,Event,victim,person_conall_son_of_suibne,Conall,Person,U635.1_c0_e0,U635.1,635,slaying,The slaying of Conall son of Suibne in the house of Nad-Fraích's son by Diarmait son of Aed Sláine
+person_diarmait_son_of_aed_slaine,Diarmait,Person,agent_in,event_U635.1_c0_e0,slaying U635.1,Event,U635.1_c0_e0,U635.1,635,slaying,The slaying of Conall son of Suibne in the house of Nad-Fraích's son by Diarmait son of Aed Sláine
+person_diarmait_son_of_aed_slaine,Diarmait,Person,killed,person_conall_son_of_suibne,Conall,Person,U635.1_c0_e0,U635.1,635,slaying,The slaying of Conall son of Suibne in the house of Nad-Fraích's son by Diarmait son of Aed Sláine
+event_U635.1_c0_e0,slaying U635.1,Event,supported_by,evidence_U635.1,Evidence U635.1,Evidence,U635.1_c0_e0,U635.1,635,slaying,The slaying of Conall son of Suibne in the house of Nad-Fraích's son by Diarmait son of Aed Sláine
+year_635,635 CE,Year,has_event,event_U635.2_c0_e0,battle U635.2,Event,U635.2_c0_e0,U635.2,635,battle,"The battle of Cúil Caeláin won by Diarmait son of Aed Sláine, and Mael Umai son of Oengus fell therein"
+person_diarmait_son_of_aed_slaine,Diarmait,Person,agent_in,event_U635.2_c0_e0,battle U635.2,Event,U635.2_c0_e0,U635.2,635,battle,"The battle of Cúil Caeláin won by Diarmait son of Aed Sláine, and Mael Umai son of Oengus fell therein"
+event_U635.2_c0_e0,battle U635.2,Event,supported_by,evidence_U635.2,Evidence U635.2,Evidence,U635.2_c0_e0,U635.2,635,battle,"The battle of Cúil Caeláin won by Diarmait son of Aed Sláine, and Mael Umai son of Oengus fell therein"
+year_635,635 CE,Year,has_event,event_U635.4_c0_e0,slaying U635.4,Event,U635.4_c0_e0,U635.4,635,slaying,A great snowfall killed many in Mag Breg
+event_U635.4_c0_e0,slaying U635.4,Event,occurred_at,place_mag_breg,Mag Breg,Place,U635.4_c0_e0,U635.4,635,slaying,A great snowfall killed many in Mag Breg
+event_U635.4_c0_e0,slaying U635.4,Event,supported_by,evidence_U635.4,Evidence U635.4,Evidence,U635.4_c0_e0,U635.4,635,slaying,A great snowfall killed many in Mag Breg
+year_635,635 CE,Year,has_event,event_U635.5_c0_e0,repose U635.5,Event,U635.5_c0_e0,U635.5,635,repose,Repose of Fintan son of Telchán and of Ernaine son of Crésene
+event_U635.5_c0_e0,repose U635.5,Event,victim,person_fintan_son_of_telchan_and_of_ernaine_son_of_cresene,Fintan,Person,U635.5_c0_e0,U635.5,635,repose,Repose of Fintan son of Telchán and of Ernaine son of Crésene
+event_U635.5_c0_e0,repose U635.5,Event,supported_by,evidence_U635.5,Evidence U635.5,Evidence,U635.5_c0_e0,U635.5,635,repose,Repose of Fintan son of Telchán and of Ernaine son of Crésene
+year_635,635 CE,Year,has_event,event_U635.6_c0_e0,death U635.6,Event,U635.6_c0_e0,U635.6,635,death,Death of Gartnán son of Foth
+event_U635.6_c0_e0,death U635.6,Event,victim,person_gartnan_son_of_foth,Gartnán,Person,U635.6_c0_e0,U635.6,635,death,Death of Gartnán son of Foth
+event_U635.6_c0_e0,death U635.6,Event,supported_by,evidence_U635.6,Evidence U635.6,Evidence,U635.6_c0_e0,U635.6,635,death,Death of Gartnán son of Foth
+year_635,635 CE,Year,has_event,event_U635.8_c0_e0,battle U635.8,Event,U635.8_c0_e0,U635.8,635,battle,"The battle of Segais in which fell Lóchéne son of Nechtan Cennfhata, Cumuscach son of Óengus and Gartnaith son of Foth"
+event_U635.8_c0_e0,battle U635.8,Event,supported_by,evidence_U635.8,Evidence U635.8,Evidence,U635.8_c0_e0,U635.8,635,battle,"The battle of Segais in which fell Lóchéne son of Nechtan Cennfhata, Cumuscach son of Óengus and Gartnaith son of Foth"
+year_636,636 CE,Year,has_event,event_U636.1_c0_e0,battle U636.1,Event,U636.1_c0_e0,U636.1,636,battle,"The killing of Ernáine son of Fiachna, who defeated Mael Fithrich son of Aed Allán alias Uairidnach in the battle of Leitheirbe"
+event_U636.1_c0_e0,battle U636.1,Event,supported_by,evidence_U636.1,Evidence U636.1,Evidence,U636.1_c0_e0,U636.1,636,battle,"The killing of Ernáine son of Fiachna, who defeated Mael Fithrich son of Aed Allán alias Uairidnach in the battle of Leitheirbe"
+year_637,637 CE,Year,has_event,event_U637.1_c0_e0,battle U637.1,Event,U637.1_c0_e0,U637.1,637,battle,The battle of Mag Roth
+event_U637.1_c0_e0,battle U637.1,Event,supported_by,evidence_U637.1,Evidence U637.1,Evidence,U637.1_c0_e0,U637.1,637,battle,The battle of Mag Roth
+year_637,637 CE,Year,has_event,event_U637.1_c1_e0,battle U637.1,Event,U637.1_c1_e0,U637.1,637,battle,and the battle of Sailtír were fought on the same day
+event_U637.1_c1_e0,battle U637.1,Event,supported_by,evidence_U637.1,Evidence U637.1,Evidence,U637.1_c1_e0,U637.1,637,battle,and the battle of Sailtír were fought on the same day
+year_637,637 CE,Year,has_event,event_U637.1_c2_e0,battle U637.1,Event,U637.1_c2_e0,U637.1,637,battle,"Conall Cael son of Mael Cobo of the Cenél nEógain, and adherent of Domnall, was victor in the battle of Sailtír"
+event_U637.1_c2_e0,battle U637.1,Event,supported_by,evidence_U637.1,Evidence U637.1,Evidence,U637.1_c2_e0,U637.1,637,battle,"Conall Cael son of Mael Cobo of the Cenél nEógain, and adherent of Domnall, was victor in the battle of Sailtír"
+year_637,637 CE,Year,has_event,event_U637.1_c3_e0,death U637.1,Event,U637.1_c3_e0,U637.1,637,death,"and the death of Failbe Flann of Feimen, king of Mumu"
+event_U637.1_c3_e0,death U637.1,Event,victim,person_failbe_flann_of_feimen,Failbe Flann of Feimen,Person,U637.1_c3_e0,U637.1,637,death,"and the death of Failbe Flann of Feimen, king of Mumu"
+event_U637.1_c3_e0,death U637.1,Event,supported_by,evidence_U637.1,Evidence U637.1,Evidence,U637.1_c3_e0,U637.1,637,death,"and the death of Failbe Flann of Feimen, king of Mumu"
+year_638,638 CE,Year,has_event,event_U638.1_c0_e0,battle U638.1,Event,U638.1_c0_e0,U638.1,638,battle,The battle of Glenn Muiresan and the besieging of Eten
+event_U638.1_c0_e0,battle U638.1,Event,supported_by,evidence_U638.1,Evidence U638.1,Evidence,U638.1_c0_e0,U638.1,638,battle,The battle of Glenn Muiresan and the besieging of Eten
+year_639,639 CE,Year,has_event,event_U639.2_c0_e0,death U639.2,Event,U639.2_c0_e0,U639.2,639,death,"Death of Duinsech, wife of Domnall"
+event_U639.2_c0_e0,death U639.2,Event,victim,person_duinsech,Duinsech,Person,U639.2_c0_e0,U639.2,639,death,"Death of Duinsech, wife of Domnall"
+event_U639.2_c0_e0,death U639.2,Event,supported_by,evidence_U639.2,Evidence U639.2,Evidence,U639.2_c0_e0,U639.2,639,death,"Death of Duinsech, wife of Domnall"
+year_639,639 CE,Year,has_event,event_U639.3_c0_e0,battle U639.3,Event,U639.3_c0_e0,U639.3,639,battle,"The battle of Oswald, king of the Saxons"
+event_U639.3_c0_e0,battle U639.3,Event,supported_by,evidence_U639.3,Evidence U639.3,Evidence,U639.3_c0_e0,U639.3,639,battle,"The battle of Oswald, king of the Saxons"
+year_639,639 CE,Year,has_event,event_U639.4_c0_e0,repose U639.4,Event,U639.4_c0_e0,U639.4,639,repose,"Repose of Crídán in Naendruim, and of Aed Dub, abbot of Cell Dara—both bishops"
+event_U639.4_c0_e0,repose U639.4,Event,victim,person_cridan,Crídán,Person,U639.4_c0_e0,U639.4,639,repose,"Repose of Crídán in Naendruim, and of Aed Dub, abbot of Cell Dara—both bishops"
+event_U639.4_c0_e0,repose U639.4,Event,occurred_at,place_naendruim,Naendruim,Place,U639.4_c0_e0,U639.4,639,repose,"Repose of Crídán in Naendruim, and of Aed Dub, abbot of Cell Dara—both bishops"
+event_U639.4_c0_e0,repose U639.4,Event,supported_by,evidence_U639.4,Evidence U639.4,Evidence,U639.4_c0_e0,U639.4,639,repose,"Repose of Crídán in Naendruim, and of Aed Dub, abbot of Cell Dara—both bishops"
+year_639,639 CE,Year,has_event,event_U639.6_c0_e0,death U639.6,Event,U639.6_c0_e0,U639.6,639,death,Death of Ailill son of Aed Rón
+event_U639.6_c0_e0,death U639.6,Event,victim,person_ailill_son_of_aed_ron,Ailill,Person,U639.6_c0_e0,U639.6,639,death,Death of Ailill son of Aed Rón
+event_U639.6_c0_e0,death U639.6,Event,supported_by,evidence_U639.6,Evidence U639.6,Evidence,U639.6_c0_e0,U639.6,639,death,Death of Ailill son of Aed Rón
+year_640,640 CE,Year,has_event,event_U640.1_c0_e0,battle U640.1,Event,U640.1_c0_e0,U640.1,640,battle,The battle of Cathair Chinn Chon
+event_U640.1_c0_e0,battle U640.1,Event,supported_by,evidence_U640.1,Evidence U640.1,Evidence,U640.1_c0_e0,U640.1,640,battle,The battle of Cathair Chinn Chon
+year_641,641 CE,Year,has_event,event_U641.1_c0_e0,death U641.1,Event,U641.1_c0_e0,U641.1,641,death,"Death of Maelodar Caech, king of the Airthir"
+event_U641.1_c0_e0,death U641.1,Event,victim,person_maelodar_caech,Maelodar Caech,Person,U641.1_c0_e0,U641.1,641,death,"Death of Maelodar Caech, king of the Airthir"
+event_U641.1_c0_e0,death U641.1,Event,supported_by,evidence_U641.1,Evidence U641.1,Evidence,U641.1_c0_e0,U641.1,641,death,"Death of Maelodar Caech, king of the Airthir"
+year_641,641 CE,Year,has_event,event_U641.2_c0_e0,death U641.2,Event,U641.2_c0_e0,U641.2,641,death,Death of Bruide son of Foth
+event_U641.2_c0_e0,death U641.2,Event,victim,person_bruide_son_of_foth,Bruide,Person,U641.2_c0_e0,U641.2,641,death,Death of Bruide son of Foth
+event_U641.2_c0_e0,death U641.2,Event,supported_by,evidence_U641.2,Evidence U641.2,Evidence,U641.2_c0_e0,U641.2,641,death,Death of Bruide son of Foth
+year_642,642 CE,Year,has_event,event_U642.1_c0_e0,death U642.1,Event,U642.1_c0_e0,U642.1,642,death,"Death of Domnall son of Aed, king of Ireland, at the end of January"
+event_U642.1_c0_e0,death U642.1,Event,victim,person_domnall_son_of_aed,Domnall,Person,U642.1_c0_e0,U642.1,642,death,"Death of Domnall son of Aed, king of Ireland, at the end of January"
+event_U642.1_c0_e0,death U642.1,Event,supported_by,evidence_U642.1,Evidence U642.1,Evidence,U642.1_c0_e0,U642.1,642,death,"Death of Domnall son of Aed, king of Ireland, at the end of January"
+year_642,642 CE,Year,has_event,event_U642.1_c1_e0,slaying U642.1,Event,U642.1_c1_e0,U642.1,642,slaying,"Afterwards Domnall Brec was slain at the end of the year, in December, in the battle of Srath Caruin, by Hoan, king of the Britons"
+event_U642.1_c1_e0,slaying U642.1,Event,victim,person_domnall,Domnall,Person,U642.1_c1_e0,U642.1,642,slaying,"Afterwards Domnall Brec was slain at the end of the year, in December, in the battle of Srath Caruin, by Hoan, king of the Britons"
+person_hoan,Hoan,Person,agent_in,event_U642.1_c1_e0,slaying U642.1,Event,U642.1_c1_e0,U642.1,642,slaying,"Afterwards Domnall Brec was slain at the end of the year, in December, in the battle of Srath Caruin, by Hoan, king of the Britons"
+person_hoan,Hoan,Person,killed,person_domnall,Domnall,Person,U642.1_c1_e0,U642.1,642,slaying,"Afterwards Domnall Brec was slain at the end of the year, in December, in the battle of Srath Caruin, by Hoan, king of the Britons"
+event_U642.1_c1_e0,slaying U642.1,Event,occurred_at,place_srath_caruin,Srath Caruin,Place,U642.1_c1_e0,U642.1,642,slaying,"Afterwards Domnall Brec was slain at the end of the year, in December, in the battle of Srath Caruin, by Hoan, king of the Britons"
+event_U642.1_c1_e0,slaying U642.1,Event,supported_by,evidence_U642.1,Evidence U642.1,Evidence,U642.1_c1_e0,U642.1,642,slaying,"Afterwards Domnall Brec was slain at the end of the year, in December, in the battle of Srath Caruin, by Hoan, king of the Britons"
+year_642,642 CE,Year,has_event,event_U642.4_c0_e0,battle U642.4,Event,U642.4_c0_e0,U642.4,642,battle,The battle of Oswy against the Britons
+event_U642.4_c0_e0,battle U642.4,Event,supported_by,evidence_U642.4,Evidence U642.4,Evidence,U642.4_c0_e0,U642.4,642,battle,The battle of Oswy against the Britons
+year_643,643 CE,Year,has_event,event_U643.1_c0_e0,death U643.1,Event,U643.1_c0_e0,U643.1,643,death,Death of Huaisle son of Suibne
+event_U643.1_c0_e0,death U643.1,Event,victim,person_huaisle_son_of_suibne,Huaisle,Person,U643.1_c0_e0,U643.1,643,death,Death of Huaisle son of Suibne
+event_U643.1_c0_e0,death U643.1,Event,supported_by,evidence_U643.1,Evidence U643.1,Evidence,U643.1_c0_e0,U643.1,643,death,Death of Huaisle son of Suibne
+year_643,643 CE,Year,has_event,event_U643.2_c0_e0,repose U643.2,Event,U643.2_c0_e0,U643.2,643,repose,"Repose of Crónán, bishop of Naendruim"
+event_U643.2_c0_e0,repose U643.2,Event,victim,person_cronan,Crónán,Person,U643.2_c0_e0,U643.2,643,repose,"Repose of Crónán, bishop of Naendruim"
+event_U643.2_c0_e0,repose U643.2,Event,supported_by,evidence_U643.2,Evidence U643.2,Evidence,U643.2_c0_e0,U643.2,643,repose,"Repose of Crónán, bishop of Naendruim"
+year_643,643 CE,Year,has_event,event_U643.3_c0_e0,battle U643.3,Event,U643.3_c0_e0,U643.3,643,battle,The battle of Cenn Con
+event_U643.3_c0_e0,battle U643.3,Event,supported_by,evidence_U643.3,Evidence U643.3,Evidence,U643.3_c0_e0,U643.3,643,battle,The battle of Cenn Con
+year_644,644 CE,Year,has_event,event_U644.2_c0_e0,slaying U644.2,Event,U644.2_c0_e0,U644.2,644,slaying,The slaying of Flann of Aenach
+event_U644.2_c0_e0,slaying U644.2,Event,victim,person_flann_of_aenach,Flann of Aenach,Person,U644.2_c0_e0,U644.2,644,slaying,The slaying of Flann of Aenach
+event_U644.2_c0_e0,slaying U644.2,Event,supported_by,evidence_U644.2,Evidence U644.2,Evidence,U644.2_c0_e0,U644.2,644,slaying,The slaying of Flann of Aenach
+year_644,644 CE,Year,has_event,event_U644.3_c0_e0,death U644.3,Event,U644.3_c0_e0,U644.3,644,death,Death of Bresal son of Sechnasach
+event_U644.3_c0_e0,death U644.3,Event,victim,person_bresal_son_of_sechnasach,Bresal,Person,U644.3_c0_e0,U644.3,644,death,Death of Bresal son of Sechnasach
+event_U644.3_c0_e0,death U644.3,Event,supported_by,evidence_U644.3,Evidence U644.3,Evidence,U644.3_c0_e0,U644.3,644,death,Death of Bresal son of Sechnasach
+year_645,645 CE,Year,has_event,event_U645.1_c0_e0,death U645.1,Event,U645.1_c0_e0,U645.1,645,death,"Death of Furudrán son of Béicce son of Cuanu, king of Uí Moccu Uais"
+event_U645.1_c0_e0,death U645.1,Event,victim,person_furudran_son_of_beicce_son_of_cuanu,Furudrán,Person,U645.1_c0_e0,U645.1,645,death,"Death of Furudrán son of Béicce son of Cuanu, king of Uí Moccu Uais"
+event_U645.1_c0_e0,death U645.1,Event,supported_by,evidence_U645.1,Evidence U645.1,Evidence,U645.1_c0_e0,U645.1,645,death,"Death of Furudrán son of Béicce son of Cuanu, king of Uí Moccu Uais"
+year_646,646 CE,Year,has_event,event_U646.1_c0_e0,slaying U646.1,Event,U646.1_c0_e0,U646.1,646,slaying,"The slaying of Scannall son of Béicce son of Fiachra, king of the Cruithin"
+event_U646.1_c0_e0,slaying U646.1,Event,victim,person_scannall_son_of_beicce_son_of_fiachra,Scannall,Person,U646.1_c0_e0,U646.1,646,slaying,"The slaying of Scannall son of Béicce son of Fiachra, king of the Cruithin"
+event_U646.1_c0_e0,slaying U646.1,Event,supported_by,evidence_U646.1,Evidence U646.1,Evidence,U646.1_c0_e0,U646.1,646,slaying,"The slaying of Scannall son of Béicce son of Fiachra, king of the Cruithin"
+year_647,647 CE,Year,has_event,event_U647.1_c0_e0,slaying U647.1,Event,U647.1_c0_e0,U647.1,647,slaying,"Mael Cobo son of Fiachna, king of Ulaid, was killed"
+event_U647.1_c0_e0,slaying U647.1,Event,supported_by,evidence_U647.1,Evidence U647.1,Evidence,U647.1_c0_e0,U647.1,647,slaying,"Mael Cobo son of Fiachna, king of Ulaid, was killed"
+year_647,647 CE,Year,has_event,event_U647.2_c0_e0,slaying U647.2,Event,U647.2_c0_e0,U647.2,647,slaying,Dúnchad grandson of Rónán was killed
+event_U647.2_c0_e0,slaying U647.2,Event,supported_by,evidence_U647.2,Evidence U647.2,Evidence,U647.2_c0_e0,U647.2,647,slaying,Dúnchad grandson of Rónán was killed
+year_647,647 CE,Year,has_event,event_U647.3_c0_e0,battle U647.3,Event,U647.3_c0_e0,U647.3,647,battle,"The battle of Colgu son of Crunnmáel Bolg Luatha, king of Uí Chennselaigh"
+event_U647.3_c0_e0,battle U647.3,Event,supported_by,evidence_U647.3,Evidence U647.3,Evidence,U647.3_c0_e0,U647.3,647,battle,"The battle of Colgu son of Crunnmáel Bolg Luatha, king of Uí Chennselaigh"
+year_649,649 CE,Year,has_event,event_U649.1_c0_e0,slaying U649.1,Event,U649.1_c0_e0,U649.1,649,slaying,"The slaying of Ragallach son of Uatu, king of Connacht"
+event_U649.1_c0_e0,slaying U649.1,Event,victim,person_ragallach_son_of_uatu,Ragallach,Person,U649.1_c0_e0,U649.1,649,slaying,"The slaying of Ragallach son of Uatu, king of Connacht"
+event_U649.1_c0_e0,slaying U649.1,Event,supported_by,evidence_U649.1,Evidence U649.1,Evidence,U649.1_c0_e0,U649.1,649,slaying,"The slaying of Ragallach son of Uatu, king of Connacht"
+year_649,649 CE,Year,has_event,event_U649.2_c0_e0,battle U649.2,Event,U649.2_c0_e0,U649.2,649,battle,"The battle of Carn Conaill in which Guaire took flight, and Diarmait son of Aed Sláine was victor"
+event_U649.2_c0_e0,battle U649.2,Event,supported_by,evidence_U649.2,Evidence U649.2,Evidence,U649.2_c0_e0,U649.2,649,battle,"The battle of Carn Conaill in which Guaire took flight, and Diarmait son of Aed Sláine was victor"
+year_649,649 CE,Year,has_event,event_U649.3_c0_e0,death U649.3,Event,U649.3_c0_e0,U649.3,649,death,"Death of Aengus Bronbachall, king of Cenél Cairpri"
+event_U649.3_c0_e0,death U649.3,Event,victim,person_aengus_bronbachall,Aengus Bronbachall,Person,U649.3_c0_e0,U649.3,649,death,"Death of Aengus Bronbachall, king of Cenél Cairpri"
+event_U649.3_c0_e0,death U649.3,Event,supported_by,evidence_U649.3,Evidence U649.3,Evidence,U649.3_c0_e0,U649.3,649,death,"Death of Aengus Bronbachall, king of Cenél Cairpri"
+year_649,649 CE,Year,has_event,event_U649.5_c0_e0,repose U649.5,Event,U649.5_c0_e0,U649.5,649,repose,Repose of Fursu in Peronne
+event_U649.5_c0_e0,repose U649.5,Event,victim,person_fursu,Fursu,Person,U649.5_c0_e0,U649.5,649,repose,Repose of Fursu in Peronne
+event_U649.5_c0_e0,repose U649.5,Event,occurred_at,place_peronne,Peronne,Place,U649.5_c0_e0,U649.5,649,repose,Repose of Fursu in Peronne
+event_U649.5_c0_e0,repose U649.5,Event,supported_by,evidence_U649.5,Evidence U649.5,Evidence,U649.5_c0_e0,U649.5,649,repose,Repose of Fursu in Peronne
+year_650,650 CE,Year,has_event,event_U650.1_c0_e0,battle U650.1,Event,U650.1_c0_e0,U650.1,650,battle,The battle of Oswy against Penda
+event_U650.1_c0_e0,battle U650.1,Event,supported_by,evidence_U650.1,Evidence U650.1,Evidence,U650.1_c0_e0,U650.1,650,battle,The battle of Oswy against Penda
+year_650,650 CE,Year,has_event,event_U650.2_c0_e0,battle U650.2,Event,U650.2_c0_e0,U650.2,650,battle,The battle of Dún Cremthainn in which Aengus son of Domnall fell
+event_U650.2_c0_e0,battle U650.2,Event,supported_by,evidence_U650.2,Evidence U650.2,Evidence,U650.2_c0_e0,U650.2,650,battle,The battle of Dún Cremthainn in which Aengus son of Domnall fell
+year_650,650 CE,Year,has_event,event_U650.3_c0_e0,death U650.3,Event,U650.3_c0_e0,U650.3,650,death,Death of Cathusach son of Domnall Brec
+event_U650.3_c0_e0,death U650.3,Event,victim,person_cathusach_son_of_domnall_brec,Cathusach,Person,U650.3_c0_e0,U650.3,650,death,Death of Cathusach son of Domnall Brec
+event_U650.3_c0_e0,death U650.3,Event,supported_by,evidence_U650.3,Evidence U650.3,Evidence,U650.3_c0_e0,U650.3,650,death,Death of Cathusach son of Domnall Brec
+year_650,650 CE,Year,has_event,event_U650.4_c0_e0,death U650.4,Event,U650.4_c0_e0,U650.4,650,death,Death of Crónán of Mag Bili
+event_U650.4_c0_e0,death U650.4,Event,victim,person_cronan_of_mag_bili,Crónán of Mag Bili,Person,U650.4_c0_e0,U650.4,650,death,Death of Crónán of Mag Bili
+event_U650.4_c0_e0,death U650.4,Event,supported_by,evidence_U650.4,Evidence U650.4,Evidence,U650.4_c0_e0,U650.4,650,death,Death of Crónán of Mag Bili
+year_651,651 CE,Year,has_event,event_U651.1_c0_e0,repose U651.1,Event,U651.1_c0_e0,U651.1,651,repose,"Repose of Aedán, bishop of the Saxons, and the killing of two sons of Blathmac son of Aed Sláine, i.e. Dúnchad and Conall"
+event_U651.1_c0_e0,repose U651.1,Event,victim,person_aedan,Aedán,Person,U651.1_c0_e0,U651.1,651,repose,"Repose of Aedán, bishop of the Saxons, and the killing of two sons of Blathmac son of Aed Sláine, i.e. Dúnchad and Conall"
+event_U651.1_c0_e0,repose U651.1,Event,supported_by,evidence_U651.1,Evidence U651.1,Evidence,U651.1_c0_e0,U651.1,651,repose,"Repose of Aedán, bishop of the Saxons, and the killing of two sons of Blathmac son of Aed Sláine, i.e. Dúnchad and Conall"
+year_652,652 CE,Year,has_event,event_U652.1_c0_e0,death U652.1,Event,U652.1_c0_e0,U652.1,652,death,"Death of Ségéne i.e. son of Fiachna, abbot of Í"
+event_U652.1_c0_e0,death U652.1,Event,victim,person_segene,Ségéne,Person,U652.1_c0_e0,U652.1,652,death,"Death of Ségéne i.e. son of Fiachna, abbot of Í"
+event_U652.1_c0_e0,death U652.1,Event,supported_by,evidence_U652.1,Evidence U652.1,Evidence,U652.1_c0_e0,U652.1,652,death,"Death of Ségéne i.e. son of Fiachna, abbot of Í"
+year_652,652 CE,Year,has_event,event_U652.1_c1_e0,repose U652.1,Event,U652.1_c1_e0,U652.1,652,repose,"and repose of Aedlug son of Camán, abbot of Cluain Moccu Nóis"
+event_U652.1_c1_e0,repose U652.1,Event,victim,person_aedlug_son_of_caman,Aedlug,Person,U652.1_c1_e0,U652.1,652,repose,"and repose of Aedlug son of Camán, abbot of Cluain Moccu Nóis"
+event_U652.1_c1_e0,repose U652.1,Event,supported_by,evidence_U652.1,Evidence U652.1,Evidence,U652.1_c1_e0,U652.1,652,repose,"and repose of Aedlug son of Camán, abbot of Cluain Moccu Nóis"
+year_653,653 CE,Year,has_event,event_U653.1_c0_e0,death U653.1,Event,U653.1_c0_e0,U653.1,653,death,"Death of Ferith son of Totholán, and of Tolarg son of Foth, king of the Picts"
+event_U653.1_c0_e0,death U653.1,Event,victim,person_ferith_son_of_totholan,Ferith,Person,U653.1_c0_e0,U653.1,653,death,"Death of Ferith son of Totholán, and of Tolarg son of Foth, king of the Picts"
+event_U653.1_c0_e0,death U653.1,Event,supported_by,evidence_U653.1,Evidence U653.1,Evidence,U653.1_c0_e0,U653.1,653,death,"Death of Ferith son of Totholán, and of Tolarg son of Foth, king of the Picts"
+year_653,653 CE,Year,has_event,event_U653.3_c0_e0,battle U653.3,Event,U653.3_c0_e0,U653.3,653,battle,"The battle of the Connachta, in which Marcán son of Tomaine fell"
+event_U653.3_c0_e0,battle U653.3,Event,supported_by,evidence_U653.3,Evidence U653.3,Evidence,U653.3_c0_e0,U653.3,653,battle,"The battle of the Connachta, in which Marcán son of Tomaine fell"
+year_654,654 CE,Year,has_event,event_U654.5_c0_e0,battle U654.5,Event,U654.5_c0_e0,U654.5,654,battle,The battle of Ráith Ethairt in which Dúnchad son of Conaing fell
+event_U654.5_c0_e0,battle U654.5,Event,supported_by,evidence_U654.5,Evidence U654.5,Evidence,U654.5_c0_e0,U654.5,654,battle,The battle of Ráith Ethairt in which Dúnchad son of Conaing fell
+year_654,654 CE,Year,has_event,event_U654.6_c0_e0,death U654.6,Event,U654.6_c0_e0,U654.6,654,death,Death of Aed Rón son of Mael Cobo
+event_U654.6_c0_e0,death U654.6,Event,victim,person_aed_ron_son_of_mael_cobo,Aed Rón,Person,U654.6_c0_e0,U654.6,654,death,Death of Aed Rón son of Mael Cobo
+event_U654.6_c0_e0,death U654.6,Event,supported_by,evidence_U654.6,Evidence U654.6,Evidence,U654.6_c0_e0,U654.6,654,death,Death of Aed Rón son of Mael Cobo
+year_656,656 CE,Year,has_event,event_U656.2_c0_e0,battle U656.2,Event,U656.2_c0_e0,U656.2,656,battle,"The battle of Penda, king of the Saxons"
+event_U656.2_c0_e0,battle U656.2,Event,supported_by,evidence_U656.2,Evidence U656.2,Evidence,U656.2_c0_e0,U656.2,656,battle,"The battle of Penda, king of the Saxons"
+year_656,656 CE,Year,has_event,event_U656.3_c0_e0,battle U656.3,Event,U656.3_c0_e0,U656.3,656,battle,The battle of Anna
+event_U656.3_c0_e0,battle U656.3,Event,supported_by,evidence_U656.3,Evidence U656.3,Evidence,U656.3_c0_e0,U656.3,656,battle,The battle of Anna
+year_656,656 CE,Year,has_event,event_U656.4_c0_e0,death U656.4,Event,U656.4_c0_e0,U656.4,656,death,"Death of Crunnmael Erbolg son of Rónán, king of Laigin"
+event_U656.4_c0_e0,death U656.4,Event,victim,person_crunnmael_erbolg_son_of_ronan,Crunnmael Erbolg,Person,U656.4_c0_e0,U656.4,656,death,"Death of Crunnmael Erbolg son of Rónán, king of Laigin"
+event_U656.4_c0_e0,death U656.4,Event,supported_by,evidence_U656.4,Evidence U656.4,Evidence,U656.4_c0_e0,U656.4,656,death,"Death of Crunnmael Erbolg son of Rónán, king of Laigin"
+year_656,656 CE,Year,has_event,event_U656.5_c0_e0,death U656.5,Event,U656.5_c0_e0,U656.5,656,death,Death of Mael Aichthein of Tír dá Glas
+event_U656.5_c0_e0,death U656.5,Event,victim,person_mael_aichthein_of_tir_da_glas,Mael Aichthein of Tír dá Glas,Person,U656.5_c0_e0,U656.5,656,death,Death of Mael Aichthein of Tír dá Glas
+event_U656.5_c0_e0,death U656.5,Event,supported_by,evidence_U656.5,Evidence U656.5,Evidence,U656.5_c0_e0,U656.5,656,death,Death of Mael Aichthein of Tír dá Glas
+year_656,656 CE,Year,has_event,event_U656.6_c0_e0,slaying U656.6,Event,U656.6_c0_e0,U656.6,656,slaying,"The slaying of Rogallach son of Uatu, king of Connacht"
+event_U656.6_c0_e0,slaying U656.6,Event,victim,person_rogallach_son_of_uatu,Rogallach,Person,U656.6_c0_e0,U656.6,656,slaying,"The slaying of Rogallach son of Uatu, king of Connacht"
+event_U656.6_c0_e0,slaying U656.6,Event,supported_by,evidence_U656.6,Evidence U656.6,Evidence,U656.6_c0_e0,U656.6,656,slaying,"The slaying of Rogallach son of Uatu, king of Connacht"
+year_656,656 CE,Year,has_event,event_U656.7_c0_e0,death U656.7,Event,U656.7_c0_e0,U656.7,656,death,"Or here, the death of Fursu according to others"
+event_U656.7_c0_e0,death U656.7,Event,victim,person_fursu_according_to_others,Fursu according to others,Person,U656.7_c0_e0,U656.7,656,death,"Or here, the death of Fursu according to others"
+event_U656.7_c0_e0,death U656.7,Event,supported_by,evidence_U656.7,Evidence U656.7,Evidence,U656.7_c0_e0,U656.7,656,death,"Or here, the death of Fursu according to others"
+year_657,657 CE,Year,has_event,event_U657.1_c0_e0,death U657.1,Event,U657.1_c0_e0,U657.1,657,death,"Death of Suibne moccu Urthrí abbot of Í, and of Ultán moccu Conchobair"
+event_U657.1_c0_e0,death U657.1,Event,victim,person_suibne_moccu_urthri_abbot_of_i,Suibne moccu Urthrí abbot of Í,Person,U657.1_c0_e0,U657.1,657,death,"Death of Suibne moccu Urthrí abbot of Í, and of Ultán moccu Conchobair"
+event_U657.1_c0_e0,death U657.1,Event,supported_by,evidence_U657.1,Evidence U657.1,Evidence,U657.1_c0_e0,U657.1,657,death,"Death of Suibne moccu Urthrí abbot of Í, and of Ultán moccu Conchobair"
+year_657,657 CE,Year,has_event,event_U657.2_c0_e0,slaying U657.2,Event,U657.2_c0_e0,U657.2,657,slaying,The battle of Deliu in which Mael Deith son of Conall was killed
+event_U657.2_c0_e0,slaying U657.2,Event,supported_by,evidence_U657.2,Evidence U657.2,Evidence,U657.2_c0_e0,U657.2,657,slaying,The battle of Deliu in which Mael Deith son of Conall was killed
+year_657,657 CE,Year,has_event,event_U657.3_c0_e0,death U657.3,Event,U657.3_c0_e0,U657.3,657,death,"Death of Tolorgan son of Ainfrith, king of the Picts"
+event_U657.3_c0_e0,death U657.3,Event,victim,person_tolorgan_son_of_ainfrith,Tolorgan,Person,U657.3_c0_e0,U657.3,657,death,"Death of Tolorgan son of Ainfrith, king of the Picts"
+event_U657.3_c0_e0,death U657.3,Event,supported_by,evidence_U657.3,Evidence U657.3,Evidence,U657.3_c0_e0,U657.3,657,death,"Death of Tolorgan son of Ainfrith, king of the Picts"
+year_657,657 CE,Year,has_event,event_U657.4_c0_e0,death U657.4,Event,U657.4_c0_e0,U657.4,657,death,Death of Cellcéne of Lothra
+event_U657.4_c0_e0,death U657.4,Event,victim,person_cellcene_of_lothra,Cellcéne of Lothra,Person,U657.4_c0_e0,U657.4,657,death,Death of Cellcéne of Lothra
+event_U657.4_c0_e0,death U657.4,Event,supported_by,evidence_U657.4,Evidence U657.4,Evidence,U657.4_c0_e0,U657.4,657,death,Death of Cellcéne of Lothra
+year_658,658 CE,Year,has_event,event_U658.1_c0_e0,death U658.1,Event,U658.1_c0_e0,U658.1,658,death,"Death of Cellach son of Mael Cobo and of Cellach son of Sárán or Rónán, and of Fiachra Telnán, and of Blathmac son of Rónán son of Colum"
+event_U658.1_c0_e0,death U658.1,Event,victim,person_cellach_son_of_mael_cobo_and_of_cellach_son_of_saran_or_ronan,Cellach,Person,U658.1_c0_e0,U658.1,658,death,"Death of Cellach son of Mael Cobo and of Cellach son of Sárán or Rónán, and of Fiachra Telnán, and of Blathmac son of Rónán son of Colum"
+event_U658.1_c0_e0,death U658.1,Event,supported_by,evidence_U658.1,Evidence U658.1,Evidence,U658.1_c0_e0,U658.1,658,death,"Death of Cellach son of Mael Cobo and of Cellach son of Sárán or Rónán, and of Fiachra Telnán, and of Blathmac son of Rónán son of Colum"
+year_658,658 CE,Year,has_event,event_U658.2_c0_e0,death U658.2,Event,U658.2_c0_e0,U658.2,658,death,"Death of Guret, king of Ail Cluaithe, and of Fergal son of Domnall"
+event_U658.2_c0_e0,death U658.2,Event,victim,person_guret,Guret,Person,U658.2_c0_e0,U658.2,658,death,"Death of Guret, king of Ail Cluaithe, and of Fergal son of Domnall"
+event_U658.2_c0_e0,death U658.2,Event,supported_by,evidence_U658.2,Evidence U658.2,Evidence,U658.2_c0_e0,U658.2,658,death,"Death of Guret, king of Ail Cluaithe, and of Fergal son of Domnall"
+year_660,660 CE,Year,has_event,event_U660.1_c0_e0,death U660.1,Event,U660.1_c0_e0,U660.1,660,death,Death of bishop Finnán son of Rímid
+event_U660.1_c0_e0,death U660.1,Event,victim,person_finnan_son_of_rimid,Finnán,Person,U660.1_c0_e0,U660.1,660,death,Death of bishop Finnán son of Rímid
+event_U660.1_c0_e0,death U660.1,Event,supported_by,evidence_U660.1,Evidence U660.1,Evidence,U660.1_c0_e0,U660.1,660,death,Death of bishop Finnán son of Rímid
+year_660,660 CE,Year,has_event,event_U660.2_c0_e0,death U660.2,Event,U660.2_c0_e0,U660.2,660,death,Death of Echaid son of Blathmac
+event_U660.2_c0_e0,death U660.2,Event,victim,person_echaid_son_of_blathmac,Echaid,Person,U660.2_c0_e0,U660.2,660,death,Death of Echaid son of Blathmac
+event_U660.2_c0_e0,death U660.2,Event,supported_by,evidence_U660.2,Evidence U660.2,Evidence,U660.2_c0_e0,U660.2,660,death,Death of Echaid son of Blathmac
+year_662,662 CE,Year,has_event,event_U662.2_c0_e0,battle U662.2,Event,U662.2_c0_e0,U662.2,662,battle,"The battle of Ogoman in which fell Conaing son of Congal, and Ultán son of Ernaine, king of Ciannachta, and Cenn Faelad son of Gerthide"
+event_U662.2_c0_e0,battle U662.2,Event,supported_by,evidence_U662.2,Evidence U662.2,Evidence,U662.2_c0_e0,U662.2,662,battle,"The battle of Ogoman in which fell Conaing son of Congal, and Ultán son of Ernaine, king of Ciannachta, and Cenn Faelad son of Gerthide"
+year_663,663 CE,Year,has_event,event_U663.1_c0_e0,death U663.1,Event,U663.1_c0_e0,U663.1,663,death,"Repose of Ségán moccu Cuinn, abbot of Bennchor, and death of Guaire of Aidne"
+event_U663.1_c0_e0,death U663.1,Event,victim,person_segan_moccu_cuinn,Ségán moccu Cuinn,Person,U663.1_c0_e0,U663.1,663,death,"Repose of Ségán moccu Cuinn, abbot of Bennchor, and death of Guaire of Aidne"
+event_U663.1_c0_e0,death U663.1,Event,supported_by,evidence_U663.1,Evidence U663.1,Evidence,U663.1_c0_e0,U663.1,663,death,"Repose of Ségán moccu Cuinn, abbot of Bennchor, and death of Guaire of Aidne"
+year_663,663 CE,Year,has_event,event_U663.3_c0_e0,death U663.3,Event,U663.3_c0_e0,U663.3,663,death,Death of Gartnaid son of Domnall and of Domnall son of Tóthalán
+event_U663.3_c0_e0,death U663.3,Event,victim,person_gartnaid_son_of_domnall_and_of_domnall_son_of_tothalan,Gartnaid,Person,U663.3_c0_e0,U663.3,663,death,Death of Gartnaid son of Domnall and of Domnall son of Tóthalán
+event_U663.3_c0_e0,death U663.3,Event,supported_by,evidence_U663.3,Evidence U663.3,Evidence,U663.3_c0_e0,U663.3,663,death,Death of Gartnaid son of Domnall and of Domnall son of Tóthalán
+year_663,663 CE,Year,has_event,event_U663.4_c0_e0,death U663.4,Event,U663.4_c0_e0,U663.4,663,death,Death of Tuathal son of Morgand
+event_U663.4_c0_e0,death U663.4,Event,victim,person_tuathal_son_of_morgand,Tuathal,Person,U663.4_c0_e0,U663.4,663,death,Death of Tuathal son of Morgand
+event_U663.4_c0_e0,death U663.4,Event,supported_by,evidence_U663.4,Evidence U663.4,Evidence,U663.4_c0_e0,U663.4,663,death,Death of Tuathal son of Morgand
+year_664,664 CE,Year,has_event,event_U664.3_c0_e0,battle U664.3,Event,U664.3_c0_e0,U664.3,664,battle,The battle of Luith Feirn i.e. in Fortrenn
+event_U664.3_c0_e0,battle U664.3,Event,occurred_at,place_fortrenn,Fortrenn,Place,U664.3_c0_e0,U664.3,664,battle,The battle of Luith Feirn i.e. in Fortrenn
+event_U664.3_c0_e0,battle U664.3,Event,supported_by,evidence_U664.3,Evidence U664.3,Evidence,U664.3_c0_e0,U664.3,664,battle,The battle of Luith Feirn i.e. in Fortrenn
+year_664,664 CE,Year,has_event,event_U664.4_c0_e0,death U664.4,Event,U664.4_c0_e0,U664.4,664,death,Death of Cernach son of Diarmait son of Aed Sláine son of Diarmait Cerrbél son of Conall of Cremthann
+event_U664.4_c0_e0,death U664.4,Event,victim,person_cernach_son_of_diarmait_son_of_aed_slaine,Cernach,Person,U664.4_c0_e0,U664.4,664,death,Death of Cernach son of Diarmait son of Aed Sláine son of Diarmait Cerrbél son of Conall of Cremthann
+event_U664.4_c0_e0,death U664.4,Event,supported_by,evidence_U664.4,Evidence U664.4,Evidence,U664.4_c0_e0,U664.4,664,death,Death of Cernach son of Diarmait son of Aed Sláine son of Diarmait Cerrbél son of Conall of Cremthann
+year_664,664 CE,Year,has_event,event_U664.6_c1_e0,death U664.6,Event,U664.6_c1_e0,U664.6,664,death,"From the death of Patrick 203 years, and from the first mortality 112 years"
+event_U664.6_c1_e0,death U664.6,Event,victim,person_patrick_203_years,Patrick 203 years,Person,U664.6_c1_e0,U664.6,664,death,"From the death of Patrick 203 years, and from the first mortality 112 years"
+event_U664.6_c1_e0,death U664.6,Event,supported_by,evidence_U664.6,Evidence U664.6,Evidence,U664.6_c1_e0,U664.6,664,death,"From the death of Patrick 203 years, and from the first mortality 112 years"
+year_666,666 CE,Year,has_event,event_U666.1_c0_e0,death U666.1,Event,U666.1_c0_e0,U666.1,666,death,"Death of Ailill Flann Esa, son of Domnall son of Aed son of Ainmire"
+event_U666.1_c0_e0,death U666.1,Event,victim,person_ailill_flann_esa,Ailill Flann Esa,Person,U666.1_c0_e0,U666.1,666,death,"Death of Ailill Flann Esa, son of Domnall son of Aed son of Ainmire"
+event_U666.1_c0_e0,death U666.1,Event,supported_by,evidence_U666.1,Evidence U666.1,Evidence,U666.1_c0_e0,U666.1,666,death,"Death of Ailill Flann Esa, son of Domnall son of Aed son of Ainmire"
+year_666,666 CE,Year,has_event,event_U666.5_c0_e0,death U666.5,Event,U666.5_c0_e0,U666.5,666,death,Death of Cellach son of Guaire
+event_U666.5_c0_e0,death U666.5,Event,victim,person_cellach_son_of_guaire,Cellach,Person,U666.5_c0_e0,U666.5,666,death,Death of Cellach son of Guaire
+event_U666.5_c0_e0,death U666.5,Event,supported_by,evidence_U666.5,Evidence U666.5,Evidence,U666.5_c0_e0,U666.5,666,death,Death of Cellach son of Guaire
+year_667,667 CE,Year,has_event,event_U667.2_c0_e0,battle U667.2,Event,U667.2_c0_e0,U667.2,667,battle,"The battle of Áine between the Araid and the Uí Fhidgeinti, in which Eógan son of Crunnmael, fell"
+event_U667.2_c0_e0,battle U667.2,Event,supported_by,evidence_U667.2,Evidence U667.2,Evidence,U667.2_c0_e0,U667.2,667,battle,"The battle of Áine between the Araid and the Uí Fhidgeinti, in which Eógan son of Crunnmael, fell"
+year_668,668 CE,Year,has_event,event_U668.2_c0_e0,battle U668.2,Event,U668.2_c0_e0,U668.2,668,battle,"The battle of Fertas between the Ulaid and the Cruithin, in which Cathusach son of Luirgéne fell"
+event_U668.2_c0_e0,battle U668.2,Event,supported_by,evidence_U668.2,Evidence U668.2,Evidence,U668.2_c0_e0,U668.2,668,battle,"The battle of Fertas between the Ulaid and the Cruithin, in which Cathusach son of Luirgéne fell"
+year_669,669 CE,Year,has_event,event_U669.1_c0_e0,death U669.1,Event,U669.1_c0_e0,U669.1,669,death,"Death of Cuiméne the Fair, abbot of Í, and of Crítán, abbot of Bennchor, and of Mo-Chua son of Cust"
+event_U669.1_c0_e0,death U669.1,Event,victim,person_cuimene_the_fair,Cuiméne the Fair,Person,U669.1_c0_e0,U669.1,669,death,"Death of Cuiméne the Fair, abbot of Í, and of Crítán, abbot of Bennchor, and of Mo-Chua son of Cust"
+event_U669.1_c0_e0,death U669.1,Event,supported_by,evidence_U669.1,Evidence U669.1,Evidence,U669.1_c0_e0,U669.1,669,death,"Death of Cuiméne the Fair, abbot of Í, and of Crítán, abbot of Bennchor, and of Mo-Chua son of Cust"
+year_669,669 CE,Year,has_event,event_U669.1_c1_e0,death U669.1,Event,U669.1_c1_e0,U669.1,669,death,"and death of Mael Fothartaig son of Suibne, king of Uí Thuirtri"
+event_U669.1_c1_e0,death U669.1,Event,victim,person_mael_fothartaig_son_of_suibne,Mael Fothartaig,Person,U669.1_c1_e0,U669.1,669,death,"and death of Mael Fothartaig son of Suibne, king of Uí Thuirtri"
+event_U669.1_c1_e0,death U669.1,Event,supported_by,evidence_U669.1,Evidence U669.1,Evidence,U669.1_c1_e0,U669.1,669,death,"and death of Mael Fothartaig son of Suibne, king of Uí Thuirtri"
+year_670,670 CE,Year,has_event,event_U670.3_c0_e0,death U670.3,Event,U670.3_c0_e0,U670.3,670,death,"Death of Blamac son of Mael Cobo, and the killing of Cuanu son of Cellach"
+event_U670.3_c0_e0,death U670.3,Event,victim,person_blamac_son_of_mael_cobo,Blamac,Person,U670.3_c0_e0,U670.3,670,death,"Death of Blamac son of Mael Cobo, and the killing of Cuanu son of Cellach"
+event_U670.3_c0_e0,death U670.3,Event,supported_by,evidence_U670.3,Evidence U670.3,Evidence,U670.3_c0_e0,U670.3,670,death,"Death of Blamac son of Mael Cobo, and the killing of Cuanu son of Cellach"
+year_670,670 CE,Year,has_event,event_U670.6_c0_e0,death U670.6,Event,U670.6_c0_e0,U670.6,670,death,Death of Dúnchad grandson of Rónán
+event_U670.6_c0_e0,death U670.6,Event,victim,person_dunchad_grandson_of_ronan,Dúnchad grandson of Rónán,Person,U670.6_c0_e0,U670.6,670,death,Death of Dúnchad grandson of Rónán
+event_U670.6_c0_e0,death U670.6,Event,supported_by,evidence_U670.6,Evidence U670.6,Evidence,U670.6_c0_e0,U670.6,670,death,Death of Dúnchad grandson of Rónán
+year_671,671 CE,Year,has_event,event_U671.1_c0_e0,death U671.1,Event,U671.1_c0_e0,U671.1,671,death,"Death of Oswy son of Aethelfrith, king of the Saxons"
+event_U671.1_c0_e0,death U671.1,Event,victim,person_oswy_son_of_aethelfrith,Oswy,Person,U671.1_c0_e0,U671.1,671,death,"Death of Oswy son of Aethelfrith, king of the Saxons"
+event_U671.1_c0_e0,death U671.1,Event,supported_by,evidence_U671.1,Evidence U671.1,Evidence,U671.1_c0_e0,U671.1,671,death,"Death of Oswy son of Aethelfrith, king of the Saxons"
+year_671,671 CE,Year,has_event,event_U671.3_c1_e0,slaying U671.3,Event,U671.3_c1_e0,U671.3,671,slaying,"Dub D Dub Dúin, king of Cenél Cairpri, killed him"
+event_U671.3_c1_e0,slaying U671.3,Event,supported_by,evidence_U671.3,Evidence U671.3,Evidence,U671.3_c1_e0,U671.3,671,slaying,"Dub D Dub Dúin, king of Cenél Cairpri, killed him"
+year_671,671 CE,Year,has_event,event_U671.4_c0_e0,battle U671.4,Event,U671.4_c0_e0,U671.4,671,battle,The battle of Druim Cepais
+event_U671.4_c0_e0,battle U671.4,Event,supported_by,evidence_U671.4,Evidence U671.4,Evidence,U671.4_c0_e0,U671.4,671,battle,The battle of Druim Cepais
+year_672,672 CE,Year,has_event,event_U672.1_c0_e0,battle U672.1,Event,U672.1_c0_e0,U672.1,672,battle,The battle of Dúngal son of Mael Tuile
+event_U672.1_c0_e0,battle U672.1,Event,supported_by,evidence_U672.1,Evidence U672.1,Evidence,U672.1_c0_e0,U672.1,672,battle,The battle of Dúngal son of Mael Tuile
+year_672,672 CE,Year,has_event,event_U672.3_c0_e0,death U672.3,Event,U672.3_c0_e0,U672.3,672,death,Death of Cumascach son of Rónán
+event_U672.3_c0_e0,death U672.3,Event,victim,person_cumascach_son_of_ronan,Cumascach,Person,U672.3_c0_e0,U672.3,672,death,Death of Cumascach son of Rónán
+event_U672.3_c0_e0,death U672.3,Event,supported_by,evidence_U672.3,Evidence U672.3,Evidence,U672.3_c0_e0,U672.3,672,death,Death of Cumascach son of Rónán
+year_674,674 CE,Year,has_event,event_U674.1_c1_e0,slaying U674.1,Event,U674.1_c1_e0,U674.1,674,slaying,Béc of Bairche killed him
+event_U674.1_c1_e0,slaying U674.1,Event,supported_by,evidence_U674.1,Evidence U674.1,Evidence,U674.1_c1_e0,U674.1,674,slaying,Béc of Bairche killed him
+year_674,674 CE,Year,has_event,event_U674.3_c0_e0,death U674.3,Event,U674.3_c0_e0,U674.3,674,death,"Death of Scannlan son of Fingen, king of Uí Méith"
+event_U674.3_c0_e0,death U674.3,Event,victim,person_scannlan_son_of_fingen,Scannlan,Person,U674.3_c0_e0,U674.3,674,death,"Death of Scannlan son of Fingen, king of Uí Méith"
+event_U674.3_c0_e0,death U674.3,Event,supported_by,evidence_U674.3,Evidence U674.3,Evidence,U674.3_c0_e0,U674.3,674,death,"Death of Scannlan son of Fingen, king of Uí Méith"
+year_675,675 CE,Year,has_event,event_U675.1_c0_e0,slaying U675.1,Event,U675.1_c0_e0,U675.1,675,slaying,"The battle of Cenn Faelad son of Blamac son of Aed Sláine, in which Cenn Faelad was slain"
+event_U675.1_c0_e0,slaying U675.1,Event,supported_by,evidence_U675.1,Evidence U675.1,Evidence,U675.1_c0_e0,U675.1,675,slaying,"The battle of Cenn Faelad son of Blamac son of Aed Sláine, in which Cenn Faelad was slain"
+year_675,675 CE,Year,has_event,event_U675.3_c0_e0,death U675.3,Event,U675.3_c0_e0,U675.3,675,death,Death of Nóe son of Dainél
+event_U675.3_c0_e0,death U675.3,Event,victim,person_noe_son_of_dainel,Nóe,Person,U675.3_c0_e0,U675.3,675,death,Death of Nóe son of Dainél
+event_U675.3_c0_e0,death U675.3,Event,supported_by,evidence_U675.3,Evidence U675.3,Evidence,U675.3_c0_e0,U675.3,675,death,Death of Nóe son of Dainél
+year_675,675 CE,Year,has_event,event_U675.4_c0_e0,death U675.4,Event,U675.4_c0_e0,U675.4,675,death,Death of Penda's son
+event_U675.4_c0_e0,death U675.4,Event,victim,person_penda_s_son,Penda's son,Person,U675.4_c0_e0,U675.4,675,death,Death of Penda's son
+event_U675.4_c0_e0,death U675.4,Event,supported_by,evidence_U675.4,Evidence U675.4,Evidence,U675.4_c0_e0,U675.4,675,death,Death of Penda's son
+year_675,675 CE,Year,has_event,event_U675.5_c0_e0,death U675.5,Event,U675.5_c0_e0,U675.5,675,death,"Death of Scannlan son of Fíngen, king of Uí Méith"
+event_U675.5_c0_e0,death U675.5,Event,victim,person_scannlan_son_of_fingen,Scannlan,Person,U675.5_c0_e0,U675.5,675,death,"Death of Scannlan son of Fíngen, king of Uí Méith"
+event_U675.5_c0_e0,death U675.5,Event,supported_by,evidence_U675.5,Evidence U675.5,Evidence,U675.5_c0_e0,U675.5,675,death,"Death of Scannlan son of Fíngen, king of Uí Méith"
+year_676,676 CE,Year,has_event,event_U676.6_c0_e0,slaying U676.6,Event,U676.6_c0_e0,U676.6,676,slaying,Congal son of Mael Dúin and the sons of Scannal and Aurthulae were killed
+event_U676.6_c0_e0,slaying U676.6,Event,supported_by,evidence_U676.6,Evidence U676.6,Evidence,U676.6_c0_e0,U676.6,676,slaying,Congal son of Mael Dúin and the sons of Scannal and Aurthulae were killed
+year_677,677 CE,Year,has_event,event_U677.2_c0_e0,slaying U677.2,Event,U677.2_c0_e0,U677.2,677,slaying,Dúnchad son of Ultán was slain in Dún Forgo
+event_U677.2_c0_e0,slaying U677.2,Event,occurred_at,place_dun_forgo,Dún Forgo,Place,U677.2_c0_e0,U677.2,677,slaying,Dúnchad son of Ultán was slain in Dún Forgo
+event_U677.2_c0_e0,slaying U677.2,Event,supported_by,evidence_U677.2,Evidence U677.2,Evidence,U677.2_c0_e0,U677.2,677,slaying,Dúnchad son of Ultán was slain in Dún Forgo
+year_677,677 CE,Year,has_event,event_U677.3_c0_e0,battle U677.3,Event,U677.3_c0_e0,U677.3,677,battle,"A battle between Fínnechta and the Laigin in a place near Loch Gabor, in which Fínnechta was victor"
+event_U677.3_c0_e0,battle U677.3,Event,supported_by,evidence_U677.3,Evidence U677.3,Evidence,U677.3_c0_e0,U677.3,677,battle,"A battle between Fínnechta and the Laigin in a place near Loch Gabor, in which Fínnechta was victor"
+year_678,678 CE,Year,has_event,event_U678.1_c0_e0,death U678.1,Event,U678.1_c0_e0,U678.1,678,death,"Death of Colgu son of Failbe Flann, king of Mumu"
+event_U678.1_c0_e0,death U678.1,Event,victim,person_colgu_son_of_failbe_flann,Colgu,Person,U678.1_c0_e0,U678.1,678,death,"Death of Colgu son of Failbe Flann, king of Mumu"
+event_U678.1_c0_e0,death U678.1,Event,supported_by,evidence_U678.1,Evidence U678.1,Evidence,U678.1_c0_e0,U678.1,678,death,"Death of Colgu son of Failbe Flann, king of Mumu"
+year_678,678 CE,Year,has_event,event_U678.5_c0_e0,battle U678.5,Event,U678.5_c0_e0,U678.5,678,battle,The battle of Dún Locha
+event_U678.5_c0_e0,battle U678.5,Event,supported_by,evidence_U678.5,Evidence U678.5,Evidence,U678.5_c0_e0,U678.5,678,battle,The battle of Dún Locha
+year_678,678 CE,Year,has_event,event_U678.5_c1_e0,battle U678.5,Event,U678.5_c1_e0,U678.5,678,battle,"and the battle of Lia Maeláin, and the oppression of Elend"
+event_U678.5_c1_e0,battle U678.5,Event,supported_by,evidence_U678.5,Evidence U678.5,Evidence,U678.5_c1_e0,U678.5,678,battle,"and the battle of Lia Maeláin, and the oppression of Elend"
+year_678,678 CE,Year,has_event,event_U678.6_c0_e0,death U678.6,Event,U678.6_c0_e0,U678.6,678,death,Death of Drost son of Domnall
+event_U678.6_c0_e0,death U678.6,Event,victim,person_drost_son_of_domnall,Drost,Person,U678.6_c0_e0,U678.6,678,death,Death of Drost son of Domnall
+event_U678.6_c0_e0,death U678.6,Event,supported_by,evidence_U678.6,Evidence U678.6,Evidence,U678.6_c0_e0,U678.6,678,death,Death of Drost son of Domnall
+year_678,678 CE,Year,has_event,event_U678.7_c0_e0,battle U678.7,Event,U678.7_c0_e0,U678.7,678,battle,"A battle in Caladros, in which Domnall Brec was defeated"
+event_U678.7_c0_e0,battle U678.7,Event,supported_by,evidence_U678.7,Evidence U678.7,Evidence,U678.7_c0_e0,U678.7,678,battle,"A battle in Caladros, in which Domnall Brec was defeated"
+year_679,679 CE,Year,has_event,event_U679.1_c0_e0,repose U679.1,Event,U679.1_c0_e0,U679.1,679,repose,"Repose of Failbe, abbot of Í"
+event_U679.1_c0_e0,repose U679.1,Event,victim,person_failbe,Failbe,Person,U679.1_c0_e0,U679.1,679,repose,"Repose of Failbe, abbot of Í"
+event_U679.1_c0_e0,repose U679.1,Event,supported_by,evidence_U679.1,Evidence U679.1,Evidence,U679.1_c0_e0,U679.1,679,repose,"Repose of Failbe, abbot of Í"
+year_679,679 CE,Year,has_event,event_U679.3_c0_e0,battle U679.3,Event,U679.3_c0_e0,U679.3,679,battle,The battle of Fínnechta against Béc of Bairche
+event_U679.3_c0_e0,battle U679.3,Event,supported_by,evidence_U679.3,Evidence U679.3,Evidence,U679.3_c0_e0,U679.3,679,battle,The battle of Fínnechta against Béc of Bairche
+year_680,680 CE,Year,has_event,event_U680.4_c0_e0,battle U680.4,Event,U680.4_c0_e0,U680.4,680,battle,"The battle of the Saxons, in which Aelfwine son of Oswy fell"
+event_U680.4_c0_e0,battle U680.4,Event,supported_by,evidence_U680.4,Evidence U680.4,Evidence,U680.4_c0_e0,U680.4,680,battle,"The battle of the Saxons, in which Aelfwine son of Oswy fell"
+year_680,680 CE,Year,has_event,event_U680.6_c0_e0,slaying U680.6,Event,U680.6_c0_e0,U680.6,680,slaying,Dúnchad son of Eóganán was killed
+event_U680.6_c0_e0,slaying U680.6,Event,supported_by,evidence_U680.6,Evidence U680.6,Evidence,U680.6_c0_e0,U680.6,680,slaying,Dúnchad son of Eóganán was killed
+year_680,680 CE,Year,has_event,event_U680.7_c0_e0,death U680.7,Event,U680.7_c0_e0,U680.7,680,death,"Death of Mael Fothartaig, bishop of Ard Sratha"
+event_U680.7_c0_e0,death U680.7,Event,victim,person_mael_fothartaig,Mael Fothartaig,Person,U680.7_c0_e0,U680.7,680,death,"Death of Mael Fothartaig, bishop of Ard Sratha"
+event_U680.7_c0_e0,death U680.7,Event,supported_by,evidence_U680.7,Evidence U680.7,Evidence,U680.7_c0_e0,U680.7,680,death,"Death of Mael Fothartaig, bishop of Ard Sratha"
+year_680,680 CE,Year,has_event,event_U680.8_c0_e0,battle U680.8,Event,U680.8_c0_e0,U680.8,680,battle,"A battle in Bodbgna, in which Conall Oirgnech fell"
+event_U680.8_c0_e0,battle U680.8,Event,supported_by,evidence_U680.8,Evidence U680.8,Evidence,U680.8_c0_e0,U680.8,680,battle,"A battle in Bodbgna, in which Conall Oirgnech fell"
+year_681,681 CE,Year,has_event,event_U681.2_c0_e0,slaying U681.2,Event,U681.2_c0_e0,U681.2,681,slaying,"The battle of Bla Sléibe afterwards at the beginning of winter, in which Mael Dúin son of Mael Fithrich was slain"
+event_U681.2_c0_e0,slaying U681.2,Event,supported_by,evidence_U681.2,Evidence U681.2,Evidence,U681.2_c0_e0,U681.2,681,slaying,"The battle of Bla Sléibe afterwards at the beginning of winter, in which Mael Dúin son of Mael Fithrich was slain"
+year_682,682 CE,Year,has_event,event_U682.2_c0_e0,battle U682.2,Event,U682.2_c0_e0,U682.2,682,battle,"The battle of Ráith Mór Maigi Lini against the Britons, in which Cathasach son of Mael Dúin, king of the Cruithin, fell, and Ultán son of Dícuill"
+event_U682.2_c0_e0,battle U682.2,Event,supported_by,evidence_U682.2,Evidence U682.2,Evidence,U682.2_c0_e0,U682.2,682,battle,"The battle of Ráith Mór Maigi Lini against the Britons, in which Cathasach son of Mael Dúin, king of the Cruithin, fell, and Ultán son of Dícuill"
+year_682,682 CE,Year,has_event,event_U682.3_c0_e0,death U682.3,Event,U682.3_c0_e0,U682.3,682,death,"Death of Suibne son of Mael Uma, superior of Corcach"
+event_U682.3_c0_e0,death U682.3,Event,victim,person_suibne_son_of_mael_uma,Suibne,Person,U682.3_c0_e0,U682.3,682,death,"Death of Suibne son of Mael Uma, superior of Corcach"
+event_U682.3_c0_e0,death U682.3,Event,supported_by,evidence_U682.3,Evidence U682.3,Evidence,U682.3_c0_e0,U682.3,682,death,"Death of Suibne son of Mael Uma, superior of Corcach"
+year_683,683 CE,Year,has_event,event_U683.1_c0_e0,slaying U683.1,Event,U683.1_c0_e0,U683.1,683,slaying,"Dúnchad of Muirisc, son of Maeldub, was killed"
+event_U683.1_c0_e0,slaying U683.1,Event,supported_by,evidence_U683.1,Evidence U683.1,Evidence,U683.1_c0_e0,U683.1,683,slaying,"Dúnchad of Muirisc, son of Maeldub, was killed"
+year_683,683 CE,Year,has_event,event_U683.2_c0_e0,battle U683.2,Event,U683.2_c0_e0,U683.2,683,battle,"The battle of Corann in which fell Colgu son of Blamac and Fergus son of Mael Dúin, king of Cenél Cairpri"
+event_U683.2_c0_e0,battle U683.2,Event,supported_by,evidence_U683.2,Evidence U683.2,Evidence,U683.2_c0_e0,U683.2,683,battle,"The battle of Corann in which fell Colgu son of Blamac and Fergus son of Mael Dúin, king of Cenél Cairpri"
+year_684,684 CE,Year,has_event,event_U684.2_c0_e0,death U684.2,Event,U684.2_c0_e0,U684.2,684,death,"Death of Maine, abbot of Naendruim, and death of Der Forgaill"
+event_U684.2_c0_e0,death U684.2,Event,victim,person_maine,Maine,Person,U684.2_c0_e0,U684.2,684,death,"Death of Maine, abbot of Naendruim, and death of Der Forgaill"
+event_U684.2_c0_e0,death U684.2,Event,supported_by,evidence_U684.2,Evidence U684.2,Evidence,U684.2_c0_e0,U684.2,684,death,"Death of Maine, abbot of Naendruim, and death of Der Forgaill"
+year_684,684 CE,Year,has_event,event_U684.3_c0_e0,death U684.3,Event,U684.3_c0_e0,U684.3,684,death,Death of Cú Choluim
+event_U684.3_c0_e0,death U684.3,Event,victim,person_cu_choluim,Cú Choluim,Person,U684.3_c0_e0,U684.3,684,death,Death of Cú Choluim
+event_U684.3_c0_e0,death U684.3,Event,supported_by,evidence_U684.3,Evidence U684.3,Evidence,U684.3_c0_e0,U684.3,684,death,Death of Cú Choluim
+year_684,684 CE,Year,has_event,event_U684.4_c0_e0,battle U684.4,Event,U684.4_c0_e0,U684.4,684,battle,The battle of Caisel Finnbarr
+event_U684.4_c0_e0,battle U684.4,Event,supported_by,evidence_U684.4,Evidence U684.4,Evidence,U684.4_c0_e0,U684.4,684,battle,The battle of Caisel Finnbarr
+year_685,685 CE,Year,has_event,event_U685.3_c0_e0,death U685.3,Event,U685.3_c0_e0,U685.3,685,death,"Death of Congal son of Guaire, and death of Bresal son of Fergus, from disease"
+event_U685.3_c0_e0,death U685.3,Event,victim,person_congal_son_of_guaire,Congal,Person,U685.3_c0_e0,U685.3,685,death,"Death of Congal son of Guaire, and death of Bresal son of Fergus, from disease"
+event_U685.3_c0_e0,death U685.3,Event,supported_by,evidence_U685.3,Evidence U685.3,Evidence,U685.3_c0_e0,U685.3,685,death,"Death of Congal son of Guaire, and death of Bresal son of Fergus, from disease"
+year_686,686 CE,Year,has_event,event_U686.1_c0_e0,slaying U686.1,Event,U686.1_c0_e0,U686.1,686,slaying,"The battle of Dún Nechtain was fought on Saturday, May 20th, and Egfrid son of Oswy, king of the Saxons, who had completed the 15th year of his reign, was slain therein with a great body of his soldiers"
+event_U686.1_c0_e0,slaying U686.1,Event,supported_by,evidence_U686.1,Evidence U686.1,Evidence,U686.1_c0_e0,U686.1,686,slaying,"The battle of Dún Nechtain was fought on Saturday, May 20th, and Egfrid son of Oswy, king of the Saxons, who had completed the 15th year of his reign, was slain therein with a great body of his soldiers"
+year_686,686 CE,Year,has_event,event_U686.4_c0_e0,death U686.4,Event,U686.4_c0_e0,U686.4,686,death,Death of Banbán Oscach (?) the learned
+event_U686.4_c0_e0,death U686.4,Event,victim,person_banban_oscach_the_learned,Banbán Oscach (?) the learned,Person,U686.4_c0_e0,U686.4,686,death,Death of Banbán Oscach (?) the learned
+event_U686.4_c0_e0,death U686.4,Event,supported_by,evidence_U686.4,Evidence U686.4,Evidence,U686.4_c0_e0,U686.4,686,death,Death of Banbán Oscach (?) the learned
+year_687,687 CE,Year,has_event,event_U687.2_c0_e0,repose U687.2,Event,U687.2_c0_e0,U687.2,687,repose,"Repose of Do-Chuma Conoc, abbot of Glenn dá Locha"
+event_U687.2_c0_e0,repose U687.2,Event,victim,person_do_chuma_conoc,Do-Chuma Conoc,Person,U687.2_c0_e0,U687.2,687,repose,"Repose of Do-Chuma Conoc, abbot of Glenn dá Locha"
+event_U687.2_c0_e0,repose U687.2,Event,supported_by,evidence_U687.2,Evidence U687.2,Evidence,U687.2_c0_e0,U687.2,687,repose,"Repose of Do-Chuma Conoc, abbot of Glenn dá Locha"
+year_687,687 CE,Year,has_event,event_U687.4_c0_e0,death U687.4,Event,U687.4_c0_e0,U687.4,687,death,"Death of Oiséne, bishop of the monastery of Finntan son of Finnguine"
+event_U687.4_c0_e0,death U687.4,Event,victim,person_oisene,Oiséne,Person,U687.4_c0_e0,U687.4,687,death,"Death of Oiséne, bishop of the monastery of Finntan son of Finnguine"
+event_U687.4_c0_e0,death U687.4,Event,supported_by,evidence_U687.4,Evidence U687.4,Evidence,U687.4_c0_e0,U687.4,687,death,"Death of Oiséne, bishop of the monastery of Finntan son of Finnguine"
+year_688,688 CE,Year,has_event,event_U688.1_c0_e0,repose U688.1,Event,U688.1_c0_e0,U688.1,688,repose,"Repose of Ségéne from Achad Claidib, bishop of Ard Macha"
+event_U688.1_c0_e0,repose U688.1,Event,victim,person_segene_from_achad_claidib,Ségéne from Achad Claidib,Person,U688.1_c0_e0,U688.1,688,repose,"Repose of Ségéne from Achad Claidib, bishop of Ard Macha"
+event_U688.1_c0_e0,repose U688.1,Event,supported_by,evidence_U688.1,Evidence U688.1,Evidence,U688.1_c0_e0,U688.1,688,repose,"Repose of Ségéne from Achad Claidib, bishop of Ard Macha"
+year_688,688 CE,Year,has_event,event_U688.2_c0_e0,slaying U688.2,Event,U688.2_c0_e0,U688.2,688,slaying,The slaying of Canu son of Gartnaid
+event_U688.2_c0_e0,slaying U688.2,Event,victim,person_canu_son_of_gartnaid,Canu,Person,U688.2_c0_e0,U688.2,688,slaying,The slaying of Canu son of Gartnaid
+event_U688.2_c0_e0,slaying U688.2,Event,supported_by,evidence_U688.2,Evidence U688.2,Evidence,U688.2_c0_e0,U688.2,688,slaying,The slaying of Canu son of Gartnaid
+year_688,688 CE,Year,has_event,event_U688.4_c0_e0,battle U688.4,Event,U688.4_c0_e0,U688.4,688,battle,"The battle of Imlech Pich in which fell Dub da Inber, king of Ard Cianachta, and Uarchride, descendant of Oiséne"
+event_U688.4_c0_e0,battle U688.4,Event,supported_by,evidence_U688.4,Evidence U688.4,Evidence,U688.4_c0_e0,U688.4,688,battle,"The battle of Imlech Pich in which fell Dub da Inber, king of Ard Cianachta, and Uarchride, descendant of Oiséne"
+year_689,689 CE,Year,has_event,event_U689.4_c0_e0,death U689.4,Event,U689.4_c0_e0,U689.4,689,death,"Death of Cathusach, grandson of Domnall Brec"
+event_U689.4_c0_e0,death U689.4,Event,victim,person_cathusach,Cathusach,Person,U689.4_c0_e0,U689.4,689,death,"Death of Cathusach, grandson of Domnall Brec"
+event_U689.4_c0_e0,death U689.4,Event,supported_by,evidence_U689.4,Evidence U689.4,Evidence,U689.4_c0_e0,U689.4,689,death,"Death of Cathusach, grandson of Domnall Brec"
+year_689,689 CE,Year,has_event,event_U689.5_c0_e0,death U689.5,Event,U689.5_c0_e0,U689.5,689,death,Death of Do-Chinne of Daire Brugais
+event_U689.5_c0_e0,death U689.5,Event,victim,person_do_chinne_of_daire_brugais,Do-Chinne of Daire Brugais,Person,U689.5_c0_e0,U689.5,689,death,Death of Do-Chinne of Daire Brugais
+event_U689.5_c0_e0,death U689.5,Event,supported_by,evidence_U689.5,Evidence U689.5,Evidence,U689.5_c0_e0,U689.5,689,death,Death of Do-Chinne of Daire Brugais
+year_689,689 CE,Year,has_event,event_U689.6_c0_e0,death U689.6,Event,U689.6_c0_e0,U689.6,689,death,Death of Feradach son of Tuathalán
+event_U689.6_c0_e0,death U689.6,Event,victim,person_feradach_son_of_tuathalan,Feradach,Person,U689.6_c0_e0,U689.6,689,death,Death of Feradach son of Tuathalán
+event_U689.6_c0_e0,death U689.6,Event,supported_by,evidence_U689.6,Evidence U689.6,Evidence,U689.6_c0_e0,U689.6,689,death,Death of Feradach son of Tuathalán
+year_689,689 CE,Year,has_event,event_U689.7_c0_e0,death U689.7,Event,U689.7_c0_e0,U689.7,689,death,Death of Mael Dúin son of Conall Crannanma
+event_U689.7_c0_e0,death U689.7,Event,victim,person_mael_duin_son_of_conall_crannanma,Mael Dúin,Person,U689.7_c0_e0,U689.7,689,death,Death of Mael Dúin son of Conall Crannanma
+event_U689.7_c0_e0,death U689.7,Event,supported_by,evidence_U689.7,Evidence U689.7,Evidence,U689.7_c0_e0,U689.7,689,death,Death of Mael Dúin son of Conall Crannanma
+year_690,690 CE,Year,has_event,event_U690.1_c0_e0,slaying U690.1,Event,U690.1_c0_e0,U690.1,690,slaying,"Congal son of Mael Dúin son of Aed Bennán, king of Iarmumu, and Duinechaid son of Orc Doith, and Ailill son of Dúngal of Éilne son of Scannal, were killed"
+event_U690.1_c0_e0,slaying U690.1,Event,supported_by,evidence_U690.1,Evidence U690.1,Evidence,U690.1_c0_e0,U690.1,690,slaying,"Congal son of Mael Dúin son of Aed Bennán, king of Iarmumu, and Duinechaid son of Orc Doith, and Ailill son of Dúngal of Éilne son of Scannal, were killed"
+year_690,690 CE,Year,has_event,event_U690.3_c0_e0,death U690.3,Event,U690.3_c0_e0,U690.3,690,death,Death of Finnguine the Tall and Feradach Méth son of Nechtlec
+event_U690.3_c0_e0,death U690.3,Event,victim,person_finnguine_the_tall_and_feradach_meth_son_of_nechtlec,Finnguine the Tall and Feradach Méth,Person,U690.3_c0_e0,U690.3,690,death,Death of Finnguine the Tall and Feradach Méth son of Nechtlec
+event_U690.3_c0_e0,death U690.3,Event,supported_by,evidence_U690.3,Evidence U690.3,Evidence,U690.3_c0_e0,U690.3,690,death,Death of Finnguine the Tall and Feradach Méth son of Nechtlec
+year_692,692 CE,Year,has_event,event_U692.1_c0_e0,repose U692.1,Event,U692.1_c0_e0,U692.1,692,repose,Adamnán sets out for Ireland in the 14th year after the repose of Failbe
+event_U692.1_c0_e0,repose U692.1,Event,victim,person_failbe,Failbe,Person,U692.1_c0_e0,U692.1,692,repose,Adamnán sets out for Ireland in the 14th year after the repose of Failbe
+event_U692.1_c0_e0,repose U692.1,Event,supported_by,evidence_U692.1,Evidence U692.1,Evidence,U692.1_c0_e0,U692.1,692,repose,Adamnán sets out for Ireland in the 14th year after the repose of Failbe
+year_693,693 CE,Year,has_event,event_U693.2_c0_e0,death U693.2,Event,U693.2_c0_e0,U693.2,693,death,"Death of Dirath, bishop of Ferns"
+event_U693.2_c0_e0,death U693.2,Event,victim,person_dirath,Dirath,Person,U693.2_c0_e0,U693.2,693,death,"Death of Dirath, bishop of Ferns"
+event_U693.2_c0_e0,death U693.2,Event,supported_by,evidence_U693.2,Evidence U693.2,Evidence,U693.2_c0_e0,U693.2,693,death,"Death of Dirath, bishop of Ferns"
+year_693,693 CE,Year,has_event,event_U693.4_c0_e0,battle U693.4,Event,U693.4_c0_e0,U693.4,693,battle,A battle between the Osraige and the Laigin in which Faelchar grandson of Mael Odor fell
+event_U693.4_c0_e0,battle U693.4,Event,supported_by,evidence_U693.4,Evidence U693.4,Evidence,U693.4_c0_e0,U693.4,693,battle,A battle between the Osraige and the Laigin in which Faelchar grandson of Mael Odor fell
+year_693,693 CE,Year,has_event,event_U693.6_c0_e0,death U693.6,Event,U693.6_c0_e0,U693.6,693,death,Death of Dar Gart son of Finnguine
+event_U693.6_c0_e0,death U693.6,Event,victim,person_dar_gart_son_of_finnguine,Dar Gart,Person,U693.6_c0_e0,U693.6,693,death,Death of Dar Gart son of Finnguine
+event_U693.6_c0_e0,death U693.6,Event,supported_by,evidence_U693.6,Evidence U693.6,Evidence,U693.6_c0_e0,U693.6,693,death,Death of Dar Gart son of Finnguine
+year_693,693 CE,Year,has_event,event_U693.7_c0_e0,battle U693.7,Event,U693.7_c0_e0,U693.7,693,battle,A battle against Penda
+event_U693.7_c0_e0,battle U693.7,Event,supported_by,evidence_U693.7,Evidence U693.7,Evidence,U693.7_c0_e0,U693.7,693,battle,A battle against Penda
+year_694,694 CE,Year,has_event,event_U694.5_c0_e0,death U694.5,Event,U694.5_c0_e0,U694.5,694,death,Death of Ferchar son of Connaed Cerr
+event_U694.5_c0_e0,death U694.5,Event,victim,person_ferchar_son_of_connaed_cerr,Ferchar,Person,U694.5_c0_e0,U694.5,694,death,Death of Ferchar son of Connaed Cerr
+event_U694.5_c0_e0,death U694.5,Event,supported_by,evidence_U694.5,Evidence U694.5,Evidence,U694.5_c0_e0,U694.5,694,death,Death of Ferchar son of Connaed Cerr
+year_694,694 CE,Year,has_event,event_U694.8_c0_e0,death U694.8,Event,U694.8_c0_e0,U694.8,694,death,Death of Crónán of Balna
+event_U694.8_c0_e0,death U694.8,Event,victim,person_cronan_of_balna,Crónán of Balna,Person,U694.8_c0_e0,U694.8,694,death,Death of Crónán of Balna
+event_U694.8_c0_e0,death U694.8,Event,supported_by,evidence_U694.8,Evidence U694.8,Evidence,U694.8_c0_e0,U694.8,694,death,Death of Crónán of Balna
+year_695,695 CE,Year,has_event,event_U695.1_c0_e0,slaying U695.1,Event,U695.1_c0_e0,U695.1,695,slaying,"Fínnechta, king of Temair, and Bresal his son, were killed in Grellach Dollaig by Aed son of Dlúthach son of Ailill son of Aed Sláine, and by Congalach son of Conaing son of Congal son of Aed Sláine"
+person_aed_son_of_dluthach_son_of_ailill,Aed,Person,agent_in,event_U695.1_c0_e0,slaying U695.1,Event,U695.1_c0_e0,U695.1,695,slaying,"Fínnechta, king of Temair, and Bresal his son, were killed in Grellach Dollaig by Aed son of Dlúthach son of Ailill son of Aed Sláine, and by Congalach son of Conaing son of Congal son of Aed Sláine"
+event_U695.1_c0_e0,slaying U695.1,Event,occurred_at,place_grellach_dollaig,Grellach Dollaig,Place,U695.1_c0_e0,U695.1,695,slaying,"Fínnechta, king of Temair, and Bresal his son, were killed in Grellach Dollaig by Aed son of Dlúthach son of Ailill son of Aed Sláine, and by Congalach son of Conaing son of Congal son of Aed Sláine"
+event_U695.1_c0_e0,slaying U695.1,Event,supported_by,evidence_U695.1,Evidence U695.1,Evidence,U695.1_c0_e0,U695.1,695,slaying,"Fínnechta, king of Temair, and Bresal his son, were killed in Grellach Dollaig by Aed son of Dlúthach son of Ailill son of Aed Sláine, and by Congalach son of Conaing son of Congal son of Aed Sláine"
+year_695,695 CE,Year,has_event,event_U695.2_c0_e0,slaying U695.2,Event,U695.2_c0_e0,U695.2,695,slaying,"The slaying of Tadc son of Failbe, in Glenn Geimin"
+event_U695.2_c0_e0,slaying U695.2,Event,victim,person_tadc_son_of_failbe,Tadc,Person,U695.2_c0_e0,U695.2,695,slaying,"The slaying of Tadc son of Failbe, in Glenn Geimin"
+event_U695.2_c0_e0,slaying U695.2,Event,occurred_at,place_glenn_geimin,Glenn Geimin,Place,U695.2_c0_e0,U695.2,695,slaying,"The slaying of Tadc son of Failbe, in Glenn Geimin"
+event_U695.2_c0_e0,slaying U695.2,Event,supported_by,evidence_U695.2,Evidence U695.2,Evidence,U695.2_c0_e0,U695.2,695,slaying,"The slaying of Tadc son of Failbe, in Glenn Geimin"
+year_695,695 CE,Year,has_event,event_U695.3_c0_e0,repose U695.3,Event,U695.3_c0_e0,U695.3,695,repose,"Repose of Menn Bairenn, abbot of Achad Bó"
+event_U695.3_c0_e0,repose U695.3,Event,victim,person_menn_bairenn,Menn Bairenn,Person,U695.3_c0_e0,U695.3,695,repose,"Repose of Menn Bairenn, abbot of Achad Bó"
+event_U695.3_c0_e0,repose U695.3,Event,supported_by,evidence_U695.3,Evidence U695.3,Evidence,U695.3_c0_e0,U695.3,695,repose,"Repose of Menn Bairenn, abbot of Achad Bó"
+year_695,695 CE,Year,has_event,event_U695.5_c0_e0,death U695.5,Event,U695.5_c0_e0,U695.5,695,death,Death of Bran son of Conall Bec
+event_U695.5_c0_e0,death U695.5,Event,victim,person_bran_son_of_conall_bec,Bran,Person,U695.5_c0_e0,U695.5,695,death,Death of Bran son of Conall Bec
+event_U695.5_c0_e0,death U695.5,Event,supported_by,evidence_U695.5,Evidence U695.5,Evidence,U695.5_c0_e0,U695.5,695,death,Death of Bran son of Conall Bec
+year_695,695 CE,Year,has_event,event_U695.7_c0_e0,death U695.7,Event,U695.7_c0_e0,U695.7,695,death,Death of Conall son of Tuathal
+event_U695.7_c0_e0,death U695.7,Event,victim,person_conall_son_of_tuathal,Conall,Person,U695.7_c0_e0,U695.7,695,death,Death of Conall son of Tuathal
+event_U695.7_c0_e0,death U695.7,Event,supported_by,evidence_U695.7,Evidence U695.7,Evidence,U695.7_c0_e0,U695.7,695,death,Death of Conall son of Tuathal
+year_696,696 CE,Year,has_event,event_U696.4_c0_e0,slaying U696.4,Event,U696.4_c0_e0,U696.4,696,slaying,"Lóchéne Menn the learned, abbot of Cell Dara, was killed"
+event_U696.4_c0_e0,slaying U696.4,Event,supported_by,evidence_U696.4,Evidence U696.4,Evidence,U696.4_c0_e0,U696.4,696,slaying,"Lóchéne Menn the learned, abbot of Cell Dara, was killed"
+year_697,697 CE,Year,has_event,event_U697.4_c0_e0,slaying U697.4,Event,U697.4_c0_e0,U697.4,697,slaying,Eochu grandson of Domnall was killed
+event_U697.4_c0_e0,slaying U697.4,Event,supported_by,evidence_U697.4,Evidence U697.4,Evidence,U697.4_c0_e0,U697.4,697,slaying,Eochu grandson of Domnall was killed
+year_697,697 CE,Year,has_event,event_U697.7_c0_e0,battle U697.7,Event,U697.7_c0_e0,U697.7,697,battle,The battle of Uilchu
+event_U697.7_c0_e0,battle U697.7,Event,supported_by,evidence_U697.7,Evidence U697.7,Evidence,U697.7_c0_e0,U697.7,697,battle,The battle of Uilchu
+year_697,697 CE,Year,has_event,event_U697.8_c0_e0,slaying U697.8,Event,U697.8_c0_e0,U697.8,697,slaying,Écomras son of Congal son of Guaire was killed
+event_U697.8_c0_e0,slaying U697.8,Event,supported_by,evidence_U697.8,Evidence U697.8,Evidence,U697.8_c0_e0,U697.8,697,slaying,Écomras son of Congal son of Guaire was killed
+year_698,698 CE,Year,has_event,event_U698.1_c0_e0,battle U698.1,Event,U698.1_c0_e0,U698.1,698,battle,"A battle in Fernmag in which fell Conchobor of Macha son of Mael Dúin and Aed of Aire, king of Dál nAraidi"
+event_U698.1_c0_e0,battle U698.1,Event,occurred_at,place_fernmag,Fernmag,Place,U698.1_c0_e0,U698.1,698,battle,"A battle in Fernmag in which fell Conchobor of Macha son of Mael Dúin and Aed of Aire, king of Dál nAraidi"
+event_U698.1_c0_e0,battle U698.1,Event,supported_by,evidence_U698.1,Evidence U698.1,Evidence,U698.1_c0_e0,U698.1,698,battle,"A battle in Fernmag in which fell Conchobor of Macha son of Mael Dúin and Aed of Aire, king of Dál nAraidi"
+year_698,698 CE,Year,has_event,event_U698.2_c0_e0,battle U698.2,Event,U698.2_c0_e0,U698.2,698,battle,"A battle between the Saxons and the Picts, in which fell Bernith's son, called Brectrid"
+person_brectrid,Brectrid,Person,agent_in,event_U698.2_c0_e0,battle U698.2,Event,U698.2_c0_e0,U698.2,698,battle,"A battle between the Saxons and the Picts, in which fell Bernith's son, called Brectrid"
+event_U698.2_c0_e0,battle U698.2,Event,supported_by,evidence_U698.2,Evidence U698.2,Evidence,U698.2_c0_e0,U698.2,698,battle,"A battle between the Saxons and the Picts, in which fell Bernith's son, called Brectrid"
+year_698,698 CE,Year,has_event,event_U698.5_c0_e0,death U698.5,Event,U698.5_c0_e0,U698.5,698,death,"Death of Forannán, abbot of Cell Dara, and of Mael Dúin son of Mongán"
+event_U698.5_c0_e0,death U698.5,Event,victim,person_forannan,Forannán,Person,U698.5_c0_e0,U698.5,698,death,"Death of Forannán, abbot of Cell Dara, and of Mael Dúin son of Mongán"
+event_U698.5_c0_e0,death U698.5,Event,supported_by,evidence_U698.5,Evidence U698.5,Evidence,U698.5_c0_e0,U698.5,698,death,"Death of Forannán, abbot of Cell Dara, and of Mael Dúin son of Mongán"
+year_698,698 CE,Year,has_event,event_U698.6_c0_e0,death U698.6,Event,U698.6_c0_e0,U698.6,698,death,"Death of Muirgius son of Mael Dúin, king of Cenél Cairpri"
+event_U698.6_c0_e0,death U698.6,Event,victim,person_muirgius_son_of_mael_duin,Muirgius,Person,U698.6_c0_e0,U698.6,698,death,"Death of Muirgius son of Mael Dúin, king of Cenél Cairpri"
+event_U698.6_c0_e0,death U698.6,Event,supported_by,evidence_U698.6,Evidence U698.6,Evidence,U698.6_c0_e0,U698.6,698,death,"Death of Muirgius son of Mael Dúin, king of Cenél Cairpri"
+year_699,699 CE,Year,has_event,event_U699.2_c0_e0,battle U699.2,Event,U699.2_c0_e0,U699.2,699,battle,The battle of Fiannamail son of Oiséne
+event_U699.2_c0_e0,battle U699.2,Event,supported_by,evidence_U699.2,Evidence U699.2,Evidence,U699.2_c0_e0,U699.2,699,battle,The battle of Fiannamail son of Oiséne
+year_700,700 CE,Year,has_event,event_U700.2_c0_e0,repose U700.2,Event,U700.2_c0_e0,U700.2,700,repose,"Repose of Aed, an anchorite from Sleibte"
+event_U700.2_c0_e0,repose U700.2,Event,victim,person_aed,Aed,Person,U700.2_c0_e0,U700.2,700,repose,"Repose of Aed, an anchorite from Sleibte"
+event_U700.2_c0_e0,repose U700.2,Event,supported_by,evidence_U700.2,Evidence U700.2,Evidence,U700.2_c0_e0,U700.2,700,repose,"Repose of Aed, an anchorite from Sleibte"
+year_700,700 CE,Year,has_event,event_U700.4_c0_e0,slaying U700.4,Event,U700.4_c0_e0,U700.4,700,slaying,"Fiannamail grandson of Dúnchad, king of Dál Riata, and Flann son of Cenn Faelad son of Suibne, were killed"
+event_U700.4_c0_e0,slaying U700.4,Event,supported_by,evidence_U700.4,Evidence U700.4,Evidence,U700.4_c0_e0,U700.4,700,slaying,"Fiannamail grandson of Dúnchad, king of Dál Riata, and Flann son of Cenn Faelad son of Suibne, were killed"
