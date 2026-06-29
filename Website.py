@@ -136,6 +136,96 @@ header[data-testid="stHeader"] { display:none; }
 .metric-people { background:#DC2626; }
 .metric-places { background:#16A34A; }
 .metric-edges { background:#7C3AED; }
+
+/* ============================================================
+   TEXT VISIBILITY FIX
+   Streamlit Cloud can inherit a dark theme and render markdown text
+   as white on the cream background. These rules force readable
+   light-theme text while preserving the dark header/cards.
+   ============================================================ */
+
+:root {
+    color-scheme: light;
+}
+
+html,
+body,
+.stApp,
+[data-testid="stAppViewContainer"],
+[data-testid="stMain"],
+.block-container {
+    background:#FBF7ED !important;
+    color:#1F2937 !important;
+}
+
+.block-container h1,
+.block-container h2,
+.block-container h3,
+.block-container h4,
+.block-container h5,
+.block-container h6 {
+    color:#111827 !important;
+}
+
+[data-testid="stMarkdownContainer"] {
+    color:#1F2937 !important;
+}
+
+[data-testid="stMarkdownContainer"] p,
+[data-testid="stMarkdownContainer"] li,
+[data-testid="stMarkdownContainer"] ul,
+[data-testid="stMarkdownContainer"] ol,
+[data-testid="stMarkdownContainer"] strong,
+[data-testid="stMarkdownContainer"] em,
+[data-testid="stMarkdownContainer"] blockquote {
+    color:#374151 !important;
+}
+
+/* Keep the header readable on the dark blue bar */
+.topbar,
+.topbar *,
+.topbar .title,
+.topbar .subtitle {
+    color:white !important;
+}
+
+.topbar .subtitle {
+    color:#DCEBFF !important;
+}
+
+/* Keep metric card text white on coloured cards */
+.metric-card,
+.metric-card *,
+.metric-title,
+.metric-value {
+    color:white !important;
+}
+
+/* Evidence and legend boxes must use dark text on light backgrounds */
+.evidence,
+.evidence *,
+.legend-box,
+.legend-box * {
+    color:#1F2937 !important;
+}
+
+/* Streamlit inputs/buttons */
+.stTextInput label,
+.stTextArea label,
+.stSelectbox label {
+    color:#111827 !important;
+}
+
+.stTextInput input,
+.stTextArea textarea {
+    color:#111827 !important;
+    background:#FFFFFF !important;
+}
+
+.stButton button {
+    color:white !important;
+}
+
 </style>
 """,
     unsafe_allow_html=True,
