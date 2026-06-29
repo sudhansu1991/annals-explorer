@@ -480,7 +480,7 @@ def header():
     cols = st.columns(len(pages))
 
     for i, p in enumerate(pages):
-        if cols[i].button(p, width="stretch", key=f"nav_{p}"):
+        if cols[i].button(     p,     use_container_width=True,     key=f"nav_{p}", ):
             st.session_state.page = p
             st.session_state.selected_person_name = ""
             st.session_state.selected_person_id = ""
@@ -2065,7 +2065,7 @@ def show_compact_profile_graph(label: str, related_events: pd.DataFrame, entity_
         with graph_col:
             st.graphviz_chart(
                 compact_profile_graph_from_events(label, related_events, entity_type=entity_type),
-                width="stretch",
+                use_container_width=True,
             )
         with legend_col:
             st.markdown(
