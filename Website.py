@@ -138,70 +138,32 @@ header[data-testid="stHeader"] { display:none; }
 .metric-edges { background:#7C3AED; }
 
 /* ============================================================
-   TEXT VISIBILITY FIX
-   Streamlit Cloud can inherit a dark theme and render markdown text
-   as white on the cream background. These rules force readable
-   light-theme text while preserving the dark header/cards.
+   GLOBAL TEXT VISIBILITY FIX
+   Streamlit Cloud/browser theme can keep text white while this
+   app uses a cream background. These rules force readable text
+   on the cream background without changing the app logic.
    ============================================================ */
 
-:root {
-    color-scheme: light;
-}
-
-html,
-body,
 .stApp,
 [data-testid="stAppViewContainer"],
 [data-testid="stMain"],
+[data-testid="stVerticalBlock"],
 .block-container {
     background:#FBF7ED !important;
     color:#1F2937 !important;
 }
 
-.block-container h1,
-.block-container h2,
-.block-container h3,
-.block-container h4,
-.block-container h5,
-.block-container h6 {
-    color:#111827 !important;
-}
-
-[data-testid="stMarkdownContainer"] {
+/* Main Streamlit markdown/headings/text */
+[data-testid="stMarkdownContainer"],
+[data-testid="stMarkdownContainer"] *,
+.stMarkdown,
+.stMarkdown *,
+h1, h2, h3, h4, h5, h6,
+p, li, label {
     color:#1F2937 !important;
 }
 
-[data-testid="stMarkdownContainer"] p,
-[data-testid="stMarkdownContainer"] li,
-[data-testid="stMarkdownContainer"] ul,
-[data-testid="stMarkdownContainer"] ol,
-[data-testid="stMarkdownContainer"] strong,
-[data-testid="stMarkdownContainer"] em,
-[data-testid="stMarkdownContainer"] blockquote {
-    color:#374151 !important;
-}
-
-/* Keep the header readable on the dark blue bar */
-.topbar,
-.topbar *,
-.topbar .title,
-.topbar .subtitle {
-    color:white !important;
-}
-
-.topbar .subtitle {
-    color:#DCEBFF !important;
-}
-
-/* Keep metric card text white on coloured cards */
-.metric-card,
-.metric-card *,
-.metric-title,
-.metric-value {
-    color:white !important;
-}
-
-/* Evidence and legend boxes must use dark text on light backgrounds */
+/* Answer/source evidence text */
 .evidence,
 .evidence *,
 .legend-box,
@@ -209,21 +171,45 @@ body,
     color:#1F2937 !important;
 }
 
-/* Streamlit inputs/buttons */
+/* Keep header and metric-card text light on dark/coloured backgrounds */
+.topbar,
+.topbar *,
+.metric-card,
+.metric-card * {
+    color:white !important;
+}
+
+.subtitle {
+    color:#DCEBFF !important;
+}
+
+.small {
+    color:#667085 !important;
+}
+
+/* Streamlit input and button readability */
 .stTextInput label,
 .stTextArea label,
 .stSelectbox label {
-    color:#111827 !important;
+    color:#1F2937 !important;
 }
 
 .stTextInput input,
 .stTextArea textarea {
-    color:#111827 !important;
-    background:#FFFFFF !important;
+    color:#FFFFFF !important;
+    background:#272833 !important;
 }
 
-.stButton button {
-    color:white !important;
+.stButton button,
+.stButton button *,
+button[kind="primary"],
+button[kind="secondary"] {
+    color:#FFFFFF !important;
+}
+
+/* Links remain visibly blue */
+a, a:visited {
+    color:#0B4A8B !important;
 }
 
 </style>
