@@ -51,6 +51,7 @@ PROJECT_ROOT = Path(__file__).parent
 
 DATA_DIR = PROJECT_ROOT
 READY_DIR = PROJECT_ROOT
+
 OUT_DIR = PROJECT_ROOT / "_graph_html"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -60,7 +61,7 @@ EVENTS_CSV = READY_DIR / "website_events.csv"
 EDGES_CSV = READY_DIR / "website_edges.csv"
 SUMMARY_CSV = READY_DIR / "website_summary.csv"
 
-RAW_EVENTS_CSV = DATA_DIR / "annals_events_U600_U700.csv"
+RAW_EVENTS_CSV = PROJECT_ROOT / "annals_events_U600_U700.csv"
 
 
 # ============================================================
