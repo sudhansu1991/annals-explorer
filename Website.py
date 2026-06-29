@@ -767,7 +767,7 @@ def show_profile_graph(related_events: pd.DataFrame, max_events=4):
     with graph_col:
         st.graphviz_chart(
             profile_graph_from_events(related_events, max_events=max_events),
-            width="stretch",
+            use_container_width=True,
         )
 
     with key_col:
@@ -2056,7 +2056,7 @@ def show_compact_profile_graph(label: str, related_events: pd.DataFrame, entity_
         return
 
     btn_text = f"Show complete knowledge graph for {label}"
-    if st.button(btn_text, key=f"compact_graph_btn_{key}", width="stretch"):
+    if st.button(btn_text, key=f"compact_graph_btn_{key}", use_container_width=True):
         st.session_state[f"show_compact_graph_{key}"] = not st.session_state.get(f"show_compact_graph_{key}", False)
 
     if st.session_state.get(f"show_compact_graph_{key}", False):
@@ -2088,7 +2088,7 @@ def show_optional_evidence(label: str, related_events: pd.DataFrame, key: str):
         st.info("No source evidence found.")
         return
 
-    if st.button(f"Show source evidence for {label}", key=f"evidence_btn_{key}", width="stretch"):
+    if st.button(f"Show source evidence for {label}", key=f"evidence_btn_{key}", use_container_width=True):
         st.session_state[f"show_evidence_{key}"] = not st.session_state.get(f"show_evidence_{key}", False)
 
     if st.session_state.get(f"show_evidence_{key}", False):
@@ -2364,7 +2364,7 @@ def show_profile_graph_button(label: str, exact_rows: pd.DataFrame, mention_rows
     with graph_col:
         st.graphviz_chart(
             build_profile_relation_graph(label, exact_rows, mention_rows, entity_type=entity_type),
-            width="stretch",
+            use_container_width=True,
         )
     with legend_col:
         st.markdown(
@@ -2481,7 +2481,7 @@ def page_people():
         cols = st.columns(4)
         for i, name in enumerate(names):
             with cols[i % 4]:
-                if st.button(name, key=f"person_name_{name}", width="stretch"):
+                if st.button(     name,     key=f"person_name_{name}",     use_container_width=True, ):
                     st.session_state.selected_person_name = name
                     st.session_state.selected_person_id = ""
                     st.rerun()
@@ -2534,7 +2534,7 @@ def page_places():
         cols = st.columns(3)
         for i, place in enumerate(place_names):
             with cols[i % 3]:
-                if st.button(place, key=f"place_name_{place}", width="stretch"):
+                if st.button(     place,     key=f"place_name_{place}",     use_container_width=True, ):
                     st.session_state.selected_place_name = place
                     st.rerun()
 
