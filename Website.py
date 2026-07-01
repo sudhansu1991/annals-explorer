@@ -78,9 +78,18 @@ st.set_page_config(
 st.markdown(
     """
 <style>
-.stApp { background:#FBF7ED; }
-header[data-testid="stHeader"] { display:none; }
-[data-testid="stSidebar"] { display:none; }
+.stApp {
+    background:#FBF7ED;
+    color:#1F2937;
+}
+
+header[data-testid="stHeader"] {
+    display:none;
+}
+
+[data-testid="stSidebar"] {
+    display:none;
+}
 
 .block-container {
     max-width:1200px;
@@ -96,9 +105,24 @@ header[data-testid="stHeader"] { display:none; }
     margin-bottom:.8rem;
 }
 
-.title { font-size:2rem; font-weight:900; }
-.subtitle { color:#DCEBFF; font-size:.95rem; }
-.small { color:#667085; font-size:.95rem; }
+.topbar * {
+    color:white !important;
+}
+
+.title {
+    font-size:2rem;
+    font-weight:900;
+}
+
+.subtitle {
+    color:#DCEBFF !important;
+    font-size:.95rem;
+}
+
+.small {
+    color:#667085;
+    font-size:.95rem;
+}
 
 .evidence {
     background:#FFFDF7;
@@ -106,6 +130,11 @@ header[data-testid="stHeader"] { display:none; }
     padding:.85rem 1rem;
     border-radius:10px;
     margin:.7rem 0;
+    color:#1F2937;
+}
+
+.evidence * {
+    color:#1F2937;
 }
 
 .legend-box {
@@ -114,6 +143,11 @@ header[data-testid="stHeader"] { display:none; }
     border-radius:12px;
     padding:.85rem 1rem;
     margin:.7rem 0;
+    color:#1F2937;
+}
+
+.legend-box * {
+    color:#1F2937;
 }
 
 .metric-card {
@@ -123,81 +157,36 @@ header[data-testid="stHeader"] { display:none; }
     min-height:115px;
     box-shadow:0 8px 20px rgba(0,0,0,0.08);
 }
+
+.metric-card * {
+    color:white !important;
+}
+
 .metric-title {
     font-size:.95rem;
     opacity:.95;
 }
+
 .metric-value {
     font-size:2.3rem;
     font-weight:900;
     margin-top:.4rem;
 }
+
 .metric-events { background:#2563EB; }
 .metric-people { background:#DC2626; }
 .metric-places { background:#16A34A; }
 .metric-edges { background:#7C3AED; }
 
-/* ============================================================
-   GLOBAL TEXT VISIBILITY FIX
-   Streamlit Cloud/browser theme can keep text white while this
-   app uses a cream background. These rules force readable text
-   on the cream background without changing the app logic.
-   ============================================================ */
-
-.stApp,
-[data-testid="stAppViewContainer"],
-[data-testid="stMain"],
-[data-testid="stVerticalBlock"],
-.block-container {
-    background:#FBF7ED !important;
-    color:#1F2937 !important;
-}
-
-/* Main Streamlit markdown/headings/text */
-[data-testid="stMarkdownContainer"],
-[data-testid="stMarkdownContainer"] *,
-.stMarkdown,
-.stMarkdown *,
 h1, h2, h3, h4, h5, h6,
 p, li, label {
-    color:#1F2937 !important;
-}
-
-/* Answer/source evidence text */
-.evidence,
-.evidence *,
-.legend-box,
-.legend-box * {
-    color:#1F2937 !important;
-}
-
-/* Keep header and metric-card text light on dark/coloured backgrounds */
-.topbar,
-.topbar *,
-.metric-card,
-.metric-card * {
-    color:white !important;
-}
-
-.subtitle {
-    color:#DCEBFF !important;
-}
-
-.small {
-    color:#667085 !important;
-}
-
-/* Streamlit input and button readability */
-.stTextInput label,
-.stTextArea label,
-.stSelectbox label {
-    color:#1F2937 !important;
+    color:#1F2937;
 }
 
 .stTextInput input,
 .stTextArea textarea {
-    color:#FFFFFF !important;
     background:#272833 !important;
+    color:white !important;
 }
 
 .stTextInput input::placeholder,
@@ -206,61 +195,9 @@ p, li, label {
     opacity:1 !important;
 }
 
-/* ============================================================
-   CROSS-BROWSER BUTTON FIX
-   Do NOT use white text on default white buttons.
-   Make every Streamlit button a dark readable button so that
-   navigation, People, Places, and graph controls remain visible
-   on Chrome, Firefox, Safari, iPhone, Android, and Streamlit Cloud.
-   ============================================================ */
-
-.stButton > button,
-.stButton button,
-button[kind="primary"],
-button[kind="secondary"] {
-    background:#111827 !important;
-    color:#FFFFFF !important;
-    border:1px solid #111827 !important;
-    border-radius:10px !important;
-    font-weight:600 !important;
-    box-shadow:none !important;
-}
-
-.stButton > button *,
-.stButton button * {
-    color:#FFFFFF !important;
-}
-
-.stButton > button:hover,
-.stButton button:hover,
-button[kind="primary"]:hover,
-button[kind="secondary"]:hover {
-    background:#072B57 !important;
-    color:#FFFFFF !important;
-    border-color:#072B57 !important;
-}
-
-.stButton > button:focus,
-.stButton button:focus,
-button[kind="primary"]:focus,
-button[kind="secondary"]:focus {
-    color:#FFFFFF !important;
-    outline:2px solid #B98525 !important;
-    outline-offset:2px !important;
-}
-
-.stButton > button:disabled,
-.stButton button:disabled {
-    background:#E5E7EB !important;
-    color:#6B7280 !important;
-    border-color:#D1D5DB !important;
-}
-
-/* Links remain visibly blue */
 a, a:visited {
-    color:#0B4A8B !important;
+    color:#0B4A8B;
 }
-
 </style>
 """,
     unsafe_allow_html=True,
