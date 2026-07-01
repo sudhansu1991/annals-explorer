@@ -200,11 +200,60 @@ p, li, label {
     background:#272833 !important;
 }
 
+.stTextInput input::placeholder,
+.stTextArea textarea::placeholder {
+    color:#D1D5DB !important;
+    opacity:1 !important;
+}
+
+/* ============================================================
+   CROSS-BROWSER BUTTON FIX
+   Do NOT use white text on default white buttons.
+   Make every Streamlit button a dark readable button so that
+   navigation, People, Places, and graph controls remain visible
+   on Chrome, Firefox, Safari, iPhone, Android, and Streamlit Cloud.
+   ============================================================ */
+
+.stButton > button,
 .stButton button,
-.stButton button *,
 button[kind="primary"],
 button[kind="secondary"] {
+    background:#111827 !important;
     color:#FFFFFF !important;
+    border:1px solid #111827 !important;
+    border-radius:10px !important;
+    font-weight:600 !important;
+    box-shadow:none !important;
+}
+
+.stButton > button *,
+.stButton button * {
+    color:#FFFFFF !important;
+}
+
+.stButton > button:hover,
+.stButton button:hover,
+button[kind="primary"]:hover,
+button[kind="secondary"]:hover {
+    background:#072B57 !important;
+    color:#FFFFFF !important;
+    border-color:#072B57 !important;
+}
+
+.stButton > button:focus,
+.stButton button:focus,
+button[kind="primary"]:focus,
+button[kind="secondary"]:focus {
+    color:#FFFFFF !important;
+    outline:2px solid #B98525 !important;
+    outline-offset:2px !important;
+}
+
+.stButton > button:disabled,
+.stButton button:disabled {
+    background:#E5E7EB !important;
+    color:#6B7280 !important;
+    border-color:#D1D5DB !important;
 }
 
 /* Links remain visibly blue */
